@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Synology Drive
+@eaDir/
+.SynologyWorkingDirectory/
+
+# Obsidian — track config & plugins, ignore per-machine UI state and caches
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+
+# Obsidian trash
+.trash/
+
+# Claude Code — machine-local permissions
+.claude/settings.local.json
