@@ -29,23 +29,21 @@ version: 0.1
 - **Description**: Quickly describe how they look.
 
 ## Step 2: Life Type
-What kind of folk are you? Each grants one small trait.
+Life type represents a fantasy inspired creature or humanoid being you want your character to be. 
 
-| Life Type     | Trait                                                                                                                  |
-| ------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Human**     | *Adaptable.* Once per day, treat any one roll as if a [[Spell Tags\|spell tag]] applied (+1).                         |
-| **Elf**       | *Long-sighted.* +1 when you act with patience, precision, or old knowledge.                                           |
-| **Goblin**    | *Overlooked.* +1 to hide, squeeze, scurry, or go unnoticed.                                                           |
-| **Beastfolk** | *Clawed & keen.* Natural weapons (1 harm) and sharp senses. +1 to notice by scent or sound, or to climb and leap.    |
+| Life Type     | Trait                                                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Human**     |                                                                                                                   |
+| **Elf**       |                                                                                                                   |
+| **Goblin**    | *Overlooked.* +1 to hide, squeeze, scurry, or go unnoticed.                                                       |
+| **Beastfolk** | *Clawed & keen.* Natural weapons (1 harm) and sharp senses. +1 to notice by scent or sound, or to climb and leap. |
 
 ## Step 3: Archetype
 
-Who were you before the Weave? Each archetype gives a suggested stat array, starting gear, and one perk. Rearrange the array however you like; it's a starting point, not a cage.
-
-Everyone also carries a torch, flint and steel, a bedroll, and rations.
+Your characters Archetype is intended to be an inspirational starting point for your stats  and gear. A way to lean into tropes and get starting playing right away. 
 
 > [!example] Fighter: *lived by strength and steel*
-> - Array: Force +2, Grace +1, Wits 0, Heart −1
+> - **Starting Stats:** Force +2, Grace +1, Wits 0, Heart −1
 > - Gear: Longsword (2 harm), throwing hand-axe (1 harm), wooden shield (armor 1), chainmail (armor 1), a war-horn that carries for miles.
 > - *Hard to Put Down* (perk): the first time you'd lose a life in a fight, stay up with 1 Heart instead.
 
