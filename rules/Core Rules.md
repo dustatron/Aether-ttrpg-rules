@@ -14,7 +14,7 @@ The Arcane Aether is a rules-light game about ordinary people who can reshape re
 
 For the premise and reading order, start with [[Start Here]]. To make a character, use [[Character Creation]].
 
-## The Dice
+## The dice
 
 Say what your character intends to do. **Roll 2d6 plus the fitting stat.** Casting uses one relevant Spell Tag instead.
 
@@ -74,7 +74,7 @@ Spend 5 Luck to choose one:
 - Increase maximum Harm by 1.
 - Gain an Archetype Perk.
 
-## Magical Casting
+## Magical casting
 
 Your character can command the patterns of Aether and reshape reality through thought and imagination.
 
@@ -102,7 +102,7 @@ When your character gains a Mutation through casting or you roll double 6s on a 
 
 The [[Spell Tags]] table is a prompt sheet, not a spell list.
 
-### Casting Limits
+### Casting limits
 
 Mutations allow your character's body to withstand more Exposure. Their safe limit for one cast is:
 
@@ -112,7 +112,7 @@ You may have your character cast above this limit. On a success, mark 1 Fatigue 
 
 The GM tells you the full cost before you roll.
 
-### A Spell's Exposure Cost
+### A spell's Exposure cost
 
 **Exposure = Reach or Size + Force and Effect + Duration.**
 
@@ -157,7 +157,7 @@ Whenever the character reaches **10 Exposure**, they undergo a Mutation. Roll on
 
 If a cast also causes Fatigue, resolve its Exposure and any resulting Mutations before marking the Fatigue.
 
-## Magic Items
+## Magic items
 
 An Arcanist can move Exposure out of their body and into an object, creating a magical relic.
 
@@ -176,7 +176,7 @@ The relic cannot produce an activation that costs more Exposure than it currentl
 
 This is why powerful Arcanists leave so many relics behind. They cannot keep all their Exposure in their bodies, and they cannot carry every object they fill.
 
-## Inventory and Conditions
+## Inventory and conditions
 
 Your character has **12 inventory slots**. Gear fills from the top down. Conditions fill from the bottom up, taking the lowest available slot.
 
@@ -184,7 +184,7 @@ An item usually takes one slot. Small things of the same kind bundle together, s
 
 Mutations, Scars, and Fatigue are conditions. If one takes a slot holding an item, that item is dropped.
 
-When conditions claim all twelve slots, the character is lost. The final condition determines what happens in [[#Death and Dying|Death and Dying]].
+When conditions claim all twelve slots, the character is lost. The final condition determines what happens in [[#Death and dying|Death and dying]].
 
 ## Movement
 
@@ -202,7 +202,7 @@ Walls, locked doors, crowds, and deep holes still matter.
 
 Characters act first, then enemies. The players roll 1d6. The highest roll goes first, then play moves clockwise around the table. If the characters are surprised, the attackers act first.
 
-### Your Character's Turn
+### Your character's turn
 
 Your character can take **one move and one action** in either order. They can attack, cast, catch their breath, use something, assist someone, or try something else.
 
@@ -234,7 +234,7 @@ When your character takes damage, subtract their Armor. If the damage exceeds th
 
 A critical success ignores Armor without breaking it. Broken Armor must be repaired by someone with the necessary skills. Pay them or owe them a favor.
 
-### When Enemies Attack
+### When enemies attack
 
 Use the enemy's Threat from [[Monsters]]. The GM rolls **2d6 plus Threat**.
 
@@ -248,7 +248,7 @@ Use the enemy's Threat from [[Monsters]]. The GM rolls **2d6 plus Threat**.
 
 A crowd attacking one target rolls once, using its highest Threat and best single damage. Its numbers can still block exits, surround a character, or create other complications.
 
-## Harm Scars and Recovery
+## Harm, Scars, and recovery
 
 Subtract damage from your character's current Harm. Their Archetype sets the maximum. Harm cannot fall below zero.
 
@@ -266,7 +266,7 @@ Harm cannot exceed the character's maximum. Fatigue prevents all Harm recovery, 
 
 Removing a Scar requires magic or about a week of care from a healer. Removing it frees its inventory slot.
 
-## Death and Dying
+## Death and dying
 
 The condition that claims your character's final inventory slot determines their fate.
 

@@ -8,13 +8,13 @@ canonical: true
 
 # The Arcane Aether
 
-## The Hidden Nature of Reality
+## The hidden nature of reality
 
 All of reality is made of countless particles called Aether. Matter, life, thought, space, and time are patterns formed from it.
 
 Most people cannot perceive those patterns. Arcanists can. Through thought and imagination, they command Aether to alter matter, bend natural laws, and create impossible effects.
 
-## The Cost
+## The cost
 
 Every cast exposes the Arcanist to raw Aether. Exposure makes greater magic possible while destabilizing the Arcanist's own pattern.
 
@@ -24,7 +24,7 @@ An Arcanist can delay this transformation by moving Exposure into an object. The
 
 The power does not disappear. It goes somewhere the Arcanist can put down.
 
-## The Magical Orders
+## The magical orders
 
 The world has wizards, warlocks, witches, schools, spellbooks, potions, and enchanted objects.
 
@@ -34,11 +34,4 @@ The oldest magical orders know where their power comes from. Some trade protecti
 
 To ordinary people, a visibly changed Arcanist is Frayed. They are feared as unstable, dangerous, or already halfway to becoming a Demon.
 
-## Key Terms
-
-- **Aether:** The particles and patterns that make up reality.
-- **Arcanist:** A person who can perceive and command those patterns.
-- **Exposure:** Raw Aether accumulated through casting.
-- **Mutation:** A permanent change caused by Exposure.
-- **Frayed:** A common term for an Arcanist visibly changed by Exposure.
-- **Demon:** An Arcanist lost when a Mutation claims their final inventory slot.
+The game's recurring language is collected in [[Key Terms]].

@@ -12,13 +12,13 @@ source: The Arcane Aether Rules v4.5.rtf
 
 Make someone who had a life before they became an Arcanist. Three steps are enough to begin. The rest can come out during play.
 
-## Step 1 Basic Details
+## Step 1: Basic details
 
 Give your character a name and a few details: their age, appearance, voice, and where they are from. A line is plenty.
 
 Then choose a Life Type and record both of its traits. Humans, elves, goblins, cat people, karate turtles, and stranger things all have a place in this world.
 
-### Life Types
+### Life types
 
 #### Human
 
@@ -55,7 +55,7 @@ Examples:
 - A vampire may turn into a bat.
 - A skeleton may detach and reattach their limbs.
 
-## Step 2 Choose an Archetype
+## Step 2: Choose an Archetype
 
 Your character's Archetype represents the life they led before becoming an Arcanist.
 
@@ -81,13 +81,13 @@ Set your character's current Harm equal to their maximum Harm.
 
 If none fit, work with the GM to create an old life. Use the same Stat array and choose starting gear, maximum Harm, and one Perk based on the existing Archetypes.
 
-### Pack the Gear
+### Pack the gear
 
 Your character has **12 inventory slots**. Put their Archetype gear into the slots from the top down. Worn Armor does not take a slot.
 
 Small things of the same kind bundle together. Three rations, a handful of arrows, or several iron spikes each take one slot.
 
-## Step 3 Key Goals
+## Step 3: Key goals
 
 Write up to four Key Goals your character wants to achieve. They should matter enough to make the character go out into the world and do something about them.
 
@@ -102,7 +102,7 @@ Choose goals with a clear end. When your character achieves one, cross it off an
 
 Share the goals with the other players. Their characters might share one, want to help, or have a very good reason to keep that hat shop standing.
 
-## Choose How Changed They Are
+## Choose how changed they are
 
 Decide whether the Aether has already changed your character.
 
@@ -121,7 +121,7 @@ Decide whether the Aether has already changed your character.
 
 Starting Marked gives the character more control over magic, but the Aether has already taken one of their twelve slots.
 
-## Before the First Scene
+## Before the first scene
 
 Check that the character has:
 

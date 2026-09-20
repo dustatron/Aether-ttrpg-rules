@@ -26,9 +26,9 @@ Four numbers and two words.
 
 Choose the tier level that fits, or roll 1d6 and let the dice decide. Rolling works well when you are improvising or want the danger to surprise you too.
 
-## Running One
+## Running one
 
-- Roll 2d6 plus Threat when a monster attacks. See [[Core Rules#When Enemies Attack]].
+- Roll 2d6 plus Threat when a monster attacks. See [[Core Rules#When enemies attack]].
 - Damage applies to all its attacks. A bear might bite or swipe, but both deal 2 damage.
 - Weakness is what gives the characters an edge. Plant a way to discover it: a corpse, a book, a survivor, or someone who faced the creature before.
 - Desire is what the monster wants besides killing the characters. Anything with a Desire can potentially be bargained with.
@@ -49,7 +49,7 @@ When a monster falls to half Harm or less, roll 2d6 plus Threat.
 
 The GM may call for another morale roll after the monster takes more damage. Mindless, driven, or bound creatures do not roll Morale.
 
-## Legendary Monsters
+## Legendary monsters
 
 Harm alone never kills a Legendary. Its Weakness is the only thing that can end it.
 

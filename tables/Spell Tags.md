@@ -5,10 +5,11 @@ system: arcane-aether
 status: usable
 version: 4.5
 ---
+
 # Spell Tags
 
 > [!note] Not a rule. A prompt sheet.
-> An Arcanist has **no spell list**. The player describes what they want their character's magic to do and accepts its Exposure cost. See [[Core Rules#Magical Casting|magical casting]].
+> An Arcanist has **no spell list**. The player describes what they want their character's magic to do and accepts its Exposure cost. See [[Core Rules#Magical casting|magical casting]].
 >
 > This list exists for the moment a player goes blank. Skim it, take an idea, cast the idea. Nothing here is permission, a cost, or automatically a tag on the character's sheet.
 
@@ -45,7 +46,7 @@ version: 4.5
 - **Remember** - Access, alter, or restore memories.
 - **Forget** - Remove or obscure memories.
 
-## Space & Time
+## Space and time
 
 - **Teleport** - Move instantly across space.
 - **Reach** - Interact with something at a distance.
@@ -56,7 +57,7 @@ version: 4.5
 - **Stop** - Temporarily halt an action or process.
 - **Loop** - Repeat a moment or action.
 
-## Energy & Elements
+## Energy and elements
 
 - **Fire**
 - **Cold**

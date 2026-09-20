@@ -20,7 +20,7 @@ Someone may awaken after surviving a magical disaster, a Wild Magic event, or an
 
 No one chose to make them. They owe no one.
 
-## What the Exposure Leaves Behind
+## What the Exposure leaves behind
 
 During [[Character Creation]], the player decides whether their character starts Unchanged or Marked.
 

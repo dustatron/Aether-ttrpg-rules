@@ -37,28 +37,25 @@ Every relic came from someone with a problem. That was the idea I wanted to expl
 
 There is no spell list. A player says what they want their character's magic to do. The GM prices its reach, force, and duration, then the player decides if the effect is worth the Exposure.
 
-You do not need to predict every possible spell. You just need to understand what the player is asking for and make the cost in Aether exposure clear.
+You do not need to predict every possible spell. You just need to understand what the player is asking for and make the Exposure cost clear.
 
 ### Characters advance through their choices
 
-I want character progression to happen while everyone is playing, not as a separate downtime step, or after game paper work. Characters gain Luck when things go badly and when they complete in game goals.
+I want character progression to happen while everyone is playing, not as a separate downtime step or paperwork after the game. Characters gain Luck when things go badly and when they complete their goals.
 
 Players can spend that Luck to improve their characters, help one another, or play out a flashback that changes the present. Casting can also teach new Spell Tags, but it slowly fills the character's inventory with permanent Mutations.
 
 ### Monsters should be easy to run
 
-A monster needs four numbers and answers to two questions: What does it want and what is its weakness?
+A monster needs four numbers and answers to two questions: what does it want, and what is its weakness?
 
 I also like using randomness when I do not already know the answer. Monster tiers are numbered 1 to 6, so you can roll a d6 and let the dice decide how dangerous the next thing is. A little randomness can push the story somewhere none of us planned.
 
 I do not think every encounter needs to be balanced. Tell the players what their characters can see, let them decide what risks to take, and follow the consequences. The monster's Desire also leaves room for a bargain when another attack roll would be less interesting.
 
-*Example monster*
-**Goblin, Mook**
-Threat -1, Damage 1, Harm 3, Armor 0
-**Attacks:** Rusty knife, rocks, biting.
-**Weakness:** Bright light drives them back.
-**Desire:** Something shiny, and to see tomorrow.
+**Example: Goblin, Tier 1 Mook**
+
+Threat -1 · Damage 1 · Harm 3 · Armor 0<br>**Attacks:** Rusty knife, rocks, biting. · **Weakness:** Bright light drives them back. · **Desire:** Something shiny, and to see tomorrow.
 
 ### Strange ideas are allowed to work
 
@@ -71,21 +68,11 @@ Not everything needs a roll. Let the silly ideas move the story. Maybe a charact
 - [[Character Creation|Character creation]] gets an Arcanist ready for play.
 - [[Monsters]] explains how to build and run opposition.
 - The [[Bestiary]] contains worked examples.
+- [[Key Terms]] defines the game's recurring language.
 - The [[mutation-tables|Mutation table]] is ready when someone reaches 10 Exposure.
 - The [[wild-magic-table|Wild Magic table]] is ready when a casting roll comes up double 1s.
 
 The rules are short enough to read in one sitting. Current design work is tracked in [[Open Questions]]. For AI-assisted work on the vault, read [[AI Context]] first.
-
-## Key terms
-
-- **Aether:** The particles and patterns that make up reality.
-- **Arcanist:** A person who can perceive and command those patterns.
-- **Exposure:** Raw Aether accumulated through casting.
-- **Mutation:** A permanent change caused by Exposure.
-- **Spell Tag:** Something the character's magic has learned to do reliably.
-- **Relic:** An object that stores Exposure and performs one kind of magic.
-- **Frayed:** A common term for an Arcanist visibly changed by Exposure.
-- **Demon:** An Arcanist whose final inventory slot was claimed by a Mutation.
 
 ## Current draft
 

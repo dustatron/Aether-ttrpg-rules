@@ -10,6 +10,7 @@ Version **4.5** is current.
 
 - [[Start Here]] contains the premise and navigation.
 - [[Core Rules]] is the canonical engine.
+- [[Key Terms]] is the canonical glossary.
 - [[Character Creation]] and `rules/archetypes/` contain current character rules.
 - [[Monsters]] and [[Bestiary]] contain current GM rules.
 - [[Open Questions]] contains only unresolved v4.5 work.

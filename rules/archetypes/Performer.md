@@ -10,7 +10,8 @@ canonical: true
 
 Lived by fast talk and knowing everyone worth knowing.
 
-**Stats:** Strength -1, Dexterity +1, Willpower 0, Charm +2  
+**Stats:** Strength -1, Dexterity +1, Willpower 0, Charm +2
+
 **Maximum Harm:** 6
 
 ## Gear

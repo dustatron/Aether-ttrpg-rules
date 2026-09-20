@@ -43,6 +43,7 @@ Use **player** for the real person at the table. Use **character** for the perso
 
 - [[Start Here]]
 - [[Core Rules]]
+- [[Key Terms]]
 - [[Character Creation]]
 - [[Monsters]]
 - [[Bestiary]]
