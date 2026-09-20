@@ -1,10 +1,10 @@
-# Project instructions: The Resonance
+# Project instructions: The Arcane Aether
 
-This is the Obsidian vault for The Resonance, a rules-lite tabletop game in active design. Read `Start Here.md` for the premise and `rules/Core Rules v4.md` for the current working rules. Read `CLAUDE.md` for additional vault conventions. User instructions take precedence over project guidance.
+This is the Obsidian vault for The Arcane Aether, a rules-light tabletop game in active design. Read `AI Context.md`, `Start Here.md`, and `rules/Core Rules.md` before changing rules. Read `CLAUDE.md` for additional vault conventions. User instructions take precedence over project guidance.
 
 ## Current draft
 
-V4 is the current working draft, not a declaration that every mechanic is settled. Its closing draft notes distinguish proposals from confirmed decisions. V2, v3, archived rules, and historical TODO entries are background. Character Creation and companion documents still need synchronization; do not silently restore their older mechanics. Read the relevant current text rather than relying on a duplicated engine summary here.
+V4.5 is the current working draft. Notes marked `canonical: true` and `version: 4.5` are the live rules. Earlier versions, the old Resonance terminology, and historical decision logs are archived background. Do not silently restore their mechanics. Unsettled v4.5 work lives in `Open Questions.md`.
 
 ## Player and character
 
@@ -32,7 +32,7 @@ Use the designer’s writing and accepted passages as the voice reference. Read 
 The voice is conversational, curious, personal, and comfortable with strange ideas. It can explain a rule directly and then wander briefly into an odd example. Preserve that mix. Keep first-person observations in the introduction and design commentary, including natural phrases such as “I tend to let that happen” and “That sounds good to me.”
 
 - Correct typos, dictation errors, ambiguity, and tangled sentences without replacing the author’s vocabulary or personality.
-- Preserve unusual examples, questions, and humor. The Orc doll anecdote and the question about paying magic’s price are useful voice references.
+- Preserve unusual examples, questions, and humor. The silly hat shop, karate turtles, and the Frayed Man's need for hot gossip are useful voice references.
 - Use plain, definite sentences for settled mechanics. Keep uncertainty where the design really is undecided.
 - Let paragraphs explain ideas. Use tables for comparable outcomes or costs, and lists for actual steps. Do not force every passage into terse fragments, bold labels, or a fixed word budget.
 - Avoid promotional language, generic fantasy grandeur, invented slogans, and repeated dramatic punchlines. Do not add lore or mechanics simply to make prose more colorful.

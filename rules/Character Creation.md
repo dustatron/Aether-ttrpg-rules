@@ -1,103 +1,134 @@
 ---
 tags:
   - rules
-system: rules-lite
-status: draft
-version: 0.2
+system: arcane-aether
+status: current
+version: 4.5
+canonical: true
+source: The Arcane Aether Rules v4.5.rtf
 ---
 
-# Character Creation: Making an Attuner
+# Character Creation
 
-> [!abstract] What you're making
-> Four steps, about five minutes. Who you are, what you're good at, what drives you, and how the Resonance got in. Everything else you find out in play.
+Make someone who had a life before they became an Arcanist. Three steps are enough to begin. The rest can come out during play.
 
-## At a glance
+## Step 1 Basic Details
 
-1. [[#Step 1: Who You Are|Who You Are]]: name, life type, whatever else
-2. [[#Step 2: What You're Good At|What You're Good At]]: [[#Archetypes|archetype]], stats, gear, perk
-3. [[#Step 3: Key Goals|Key Goals]]: up to four things your character wants to achieve
-4. [[#Step 4: How you were Exposed|How you were Exposed]]: how the Resonance got in
+Give your character a name and a few details: their age, appearance, voice, and where they are from. A line is plenty.
 
----
-## Step 1: Who You Are
+Then choose a Life Type and record both of its traits. Humans, elves, goblins, cat people, karate turtles, and stranger things all have a place in this world.
 
-- **Name:** What is your character called?
-- **Life type.** What you are. Each grants one trait.
-- **Anything else.** Age, looks, voice, where they're from, whatever you want on the page. A line is plenty, and you can leave it blank.
+### Life Types
 
-| Life Type     | Trait                                                                                                                                  |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **Human**     | *Stubborn.* +1 to endure, hold on, or refuse to break.                                                                                 |
-| **Elf**       | *Long-lived.* +1 when old knowledge, old languages, or an old grudge matters. You were there.                                          |
-| **Goblin**    | *Overlooked.* +1 to hide, squeeze, scurry, or go unnoticed.                                                                            |
-| **Beastfolk** | Non Human characters like Cat People or Karate Turtles<br><br>You have natural weapons (1 harm)  <br>+1 to Grace **AND** Wit           |
-| Otherfok      | Monstrous like creatures. Vampires, Oozes, and Lizard People.<br><br>Name what you are, then pick one body advantage that makes sense. |
+#### Human
 
-**Otherfolk is a wide door.** It covers anything humanlike that isn't human: catfolk, crab man, turtle lady, moth person, vampire, a large intelligent ooze, something with antlers. Name the creature, then take **+1** when your one advantage matters:
+- **Resilient:** Once a day, ignore one Fatigue as it would be marked.
+- **I Know a Guy:** Once per session, declare that your character knows someone useful in the current location. Tell the table how they know each other.
 
-natural weapons (1 damage) · shell or thick hide (armor 1) · keen senses · climbing · swimming · short flights
+#### Elf
 
-A turtle takes the shell. A cat takes the senses. A crab takes the claws.
+- **Foresight:** Play one free flashback per session.
+- **Old Grudge:** When old knowledge or an old event matters, your character remembers because they were there.
 
-## Step 2: What You're Good At
+#### Goblin
 
-**Assign your four stats:**
+- **Overlooked:** Add +1 when your character hides, squeezes, scurries, or goes unnoticed.
+- **Goblin Friends:** If a goblin is involved, your character knows them. Tell the table how.
 
-- **Strength:** Muscle, violence
-- **Dexterity:** speed, stealth, precision
-- **Willpower:** Endurance, resolve
-- **Charm:** Persuasion, presence
+#### Beastfolk
 
-Arrange **+2, +1, 0, −1** across them, or take one of the archetypes below, which have it done for you.
+Choose the animal that shapes your character.
 
-### Slots
+- **Natural Weapons:** Their unarmed attacks deal 2 damage.
+- **Keen Senses:** Add +1 when they use one heightened sense appropriate to that animal.
 
-You have **12 slots.** One slot per item.
+#### Otherfolk
 
-- **Small things of a kind bundle.** Rations, doses, spikes, arrows, pellets: a handful is one slot.
-- **Armor you are wearing is free.** It is on you, not in your pack.
-- **Everyone starts with two slots filled.** **Firelight:** a torch, flint and steel. **Rations:** 3.
-- **Mutations and Scars each take a slot, and never give it back.** They fill from your **last slot upward**, and **whatever was in that slot is destroyed.** See [[Core Rules v2#Inventory Slots]].
-- Full is full. Drop something to pick something up.
+Otherfolk includes people commonly thought of as monsters, such as crab people, intelligent oozes, lizard folk, vampires, or skeletons.
 
+Choose one body advantage that fits what your character is. Describe what it lets them do.
 
-**Weapon damage:** **1** small and concealable · **2** a real weapon · **3** heavy, two-handed.
+Examples:
 
-### Archetypes
+- A shell or thick hide gives 1 Armor.
+- A lizard person may use their tail as a weapon.
+- A vampire may turn into a bat.
+- A skeleton may detach and reattach their limbs.
 
-Six worked examples. Take one whole, or take none. The only fixed parts are the array and one perk.
+## Step 2 Choose an Archetype
 
-| Archetype   |                                                             | Stats                             | Harm | Free slots |
-| ----------- | ----------------------------------------------------------- | --------------------------------- | ---- | ---------- |
-| [[Hunter]]  | *tracked Attuners for coin, then woke up as one*            | Strength +2 · Dexterity 0 · Willpower +1 · Charm −1 | 7    | 5          |
-| [[Thief]]   | *lived by wit, speed, and other people's things*            | Strength −1 · Dexterity +2 · Willpower +1 · Charm 0 | 6    | 5          |
-| [[Charmer]] | *lived by fast talk and knowing everyone worth knowing*     | Strength −1 · Dexterity +1 · Willpower 0 · Charm +2 | 6    | 5          |
-| [[Monk]]    | *honed your body into a weapon*                             | Strength +1 · Dexterity +2 · Willpower 0 · Charm −1 | 7    | 7          |
-| [[Fighter]] | *paid to stand in the way, and never learned to stop*       | Strength +2 · Dexterity +1 · Willpower 0 · Charm −1 | 8    | 6          |
-| [[Witch]]   | *had a place in an order once, and then something answered* | Willpower +2 · Charm +1 · Dexterity 0 · Strength −1 | 5    | 6          |
+Your character's Archetype represents the life they led before becoming an Arcanist.
 
-## Step 3: Key Goals
+Choose one. Take its starting gear, maximum Harm, and one Perk. Use its suggested Stats, or arrange **+2, +1, 0, and -1** across the four Stats yourself.
 
-Write up to four key goals your character wants to achieve. These are things that matter to them enough to go out and do something about. Agree on them with the table.
+| Stat | What it covers |
+| --- | --- |
+| Strength | Muscle, force, fighting hand to hand |
+| Dexterity | Speed, stealth, precision, ranged attacks |
+| Willpower | Endurance and resolve |
+| Charm | Persuasion and presence |
 
-They can be serious or ridiculous. Revenge for their mother might drive a character across the world. So might a grudge against a silly hat shop.
+Set your character's current Harm equal to their maximum Harm.
 
-> [!example] A character's key goals might be
-> - [ ] Get revenge on the person who killed their mother.
-> - [ ] Burn down the silly hat shop.
-> - [ ] Find out what happened to their sister.
-> - [ ] Buy back the family house.
+| Archetype | The character's old life | Maximum Harm |
+| --- | --- | --- |
+| [[Hunter]] | Tracked Arcanists for coin, then woke up as one. | 7 |
+| [[Thief]] | Lived by wit, speed, and other people's things. | 6 |
+| [[Performer]] | Lived by fast talk and knowing everyone worth knowing. | 6 |
+| [[Monk]] | Studied the ancient arts and honed their body into a weapon. | 7 |
+| [[Fighter]] | Someone paid them to stand in the way, and they never learned to stop. | 8 |
+| [[Witch]] | Had a place in an order once, then something answered. | 5 |
 
-Big and petty both count. A blood debt and a grudge about a hat shop can sit on the same list. Pick goals that give the character something to pursue and make it clear when they have achieved it.
+If none fit, work with the GM to create an old life. Use the same Stat array and choose starting gear, maximum Harm, and one Perk based on the existing Archetypes.
 
-**Earn 2 [[Core Rules v4#Luck Points|Luck]] when your character achieves one of their key goals and you cross it off their list.**
+### Pack the Gear
 
-## Step 4: How you were Exposed
+Your character has **12 inventory slots**. Put their Archetype gear into the slots from the top down. Worn Armor does not take a slot.
 
-Tell the story of how you and your crew touched the Resonance and came back changed.
+Small things of the same kind bundle together. Three rations, a handful of arrows, or several iron spikes each take one slot.
 
-**Everyone starts with one mutation.** Roll it on the [[mutation-tables|d66 table]] and take what comes. It is the mark of the day it got in.
+## Step 3 Key Goals
 
-That mutation **fills your last slot**, so you begin with **11**. You were already falling before the first session.
+Write up to four Key Goals your character wants to achieve. They should matter enough to make the character go out into the world and do something about them.
 
-Your casting bonus is **+1**, and you can carry **4 Exposure** in a single cast. See [[Core Rules v2#What your mutations buy]].
+They can be serious or ridiculous:
+
+- Get revenge on the person who killed their mother.
+- Burn down the silly hat shop.
+- Find out what happened to their sister.
+- Buy back the family house.
+
+Choose goals with a clear end. When your character achieves one, cross it off and gain **2 Luck**.
+
+Share the goals with the other players. Their characters might share one, want to help, or have a very good reason to keep that hat shop standing.
+
+## Choose How Changed They Are
+
+Decide whether the Aether has already changed your character.
+
+### Start Unchanged
+
+- Begin with no Mutations and no Spell Tags.
+- Their safe casting limit is 3 Exposure.
+- Begin with 0 current Exposure, 0 Luck, no Scars, and no Fatigue.
+
+### Start Marked
+
+- Roll on the [[mutation-tables|Mutation table]] and record the result in inventory slot 12.
+- Choose one +1 Spell Tag related to the Mutation or the event that made the character an Arcanist.
+- Their safe casting limit is 4 Exposure.
+- Begin with 0 current Exposure, 0 Luck, no Scars, and no Fatigue.
+
+Starting Marked gives the character more control over magic, but the Aether has already taken one of their twelve slots.
+
+## Before the First Scene
+
+Check that the character has:
+
+- A name, Life Type, and both Life Type traits.
+- Four Stats and one Archetype Perk.
+- Current and maximum Harm.
+- Gear, weapon damage, and Armor.
+- Up to four Key Goals.
+- Their choice to start Unchanged or Marked.
+- Current Exposure and Luck recorded.

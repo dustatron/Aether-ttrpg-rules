@@ -1,36 +1,37 @@
 ---
-tags:
-  - rules
-system: rules-lite
+tags: [rules, archetype]
+system: arcane-aether
 status: draft
-version: 0.1
+version: 4.5
+canonical: true
 ---
 
 # Hunter
 
-> [!abstract] Tracked attuners for coin, then woke up as one
+Tracked Arcanists for coin, then woke up as one.
 
-**Stats:** Strength +2 · Dexterity 0 · Willpower +1 · Charm −1
-**Harm:** 7
+**Stats:** Strength +2, Dexterity 0, Willpower +1, Charm -1
 
-**Gear**
-- Longsword (2 damage)
-- Crossbow (2 damage)
+**Maximum Harm:** 7
+
+## Gear
+
+- Short sword, 2 damage
+- Crossbow, 2 damage
 - Manacles
 - Iron spikes and a mallet
 - 3 rations
-- Chainmail (armor 1)
-
+- Chainmail, Armor 1
 
 ## Perks
 
-**Roll a d6, or pick one.**
+Roll 1d6 or pick a completed Perk. Rows 3 and 5 still need design.
 
-| d6  | Perk                                                                  |
-| --- | --------------------------------------------------------------------- |
-| 1   | Can tell an Attuner by looking at them                                |
-| 2   | Add your **Dexterity** to damage with a bow or crossbow                     |
-| 3   |                                                                       |
-| 4   | Your doses hold an Attuner still. They cannot cast until it wears off |
-| 5   |                                                                       |
-| 6   | +1 to any one stat, to a maximum of +3                                |
+| d6 | Perk |
+| --- | --- |
+| 1 | Your character can recognize an Arcanist by looking at them. |
+| 2 | Add Dexterity to damage with a bow or crossbow. |
+| 3 | Open design space. |
+| 4 | Your character's doses hold an Arcanist still. They cannot cast until the dose wears off. |
+| 5 | Open design space. |
+| 6 | Increase one Stat by 1, to a maximum of +3. |

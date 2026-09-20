@@ -1,14 +1,14 @@
 ---
 tags:
   - table
-system: shared
+system: arcane-aether
 status: usable
-version: 0.2
+version: 4.5
 ---
 # Spell Tags
 
 > [!note] Not a rule. A prompt sheet.
-> An Attuner has **no spell list**. The player describes what they want their character's magic to do and accepts its Exposure cost. See [[Core Rules v4#Magical casting|magical casting]].
+> An Arcanist has **no spell list**. The player describes what they want their character's magic to do and accepts its Exposure cost. See [[Core Rules#Magical Casting|magical casting]].
 >
 > This list exists for the moment a player goes blank. Skim it, take an idea, cast the idea. Nothing here is permission, a cost, or automatically a tag on the character's sheet.
 
@@ -83,7 +83,7 @@ version: 0.2
 - **Probability** - Alter the likelihood of an outcome.
 - **Causality** - Alter the relationship between cause and effect.
 
-## Resonance
+## Aether
 
 - **Attune** - Establish a connection with something.
 - **Resonate** - Amplify an existing pattern.

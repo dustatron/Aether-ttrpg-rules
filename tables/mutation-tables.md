@@ -1,12 +1,12 @@
 ---
 tags:
   - table
-system: shared
+system: arcane-aether
 status: usable
-version: 0.1
+version: 4.5
 ---
 
-# THE RESONANCE: Mutation Tables
+# Mutation Table
 
 Roll **2d6** and read them as two digits, not a sum: first die is tens, second is ones. 11 to 66.
 

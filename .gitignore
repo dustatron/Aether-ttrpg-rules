@@ -16,3 +16,11 @@
 
 # Claude Code — machine-local permissions
 .claude/settings.local.json
+
+# Quartz website build
+node_modules/
+public/
+.quartz/
+.quartz-content/
+.quartz-cache/
+tsconfig.tsbuildinfo

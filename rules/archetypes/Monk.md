@@ -1,35 +1,37 @@
 ---
-tags:
-  - rules
-system: rules-lite
+tags: [rules, archetype]
+system: arcane-aether
 status: draft
-version: 0.1
+version: 4.5
+canonical: true
 ---
 
 # Monk
 
-> [!abstract] Studied the ancient arts, and honed your body into a weapon
+Studied the ancient arts and honed their body into a weapon.
 
-**Stats:** Strength +1 · Dexterity +2 · Willpower 0 · Charm −1
-**Harm:** 7
+**Stats:** Strength +1, Dexterity +2, Willpower 0, Charm -1
 
-**Gear**
-- Walking staff (2 damage)
-- Bandages and salves (three uses)
-- 30' of knotted rope
-- torch
+**Maximum Harm:** 7
+
+## Gear
+
+- Walking staff, 2 damage
+- Bandages and salves, 3 uses, restore 1d6 Harm
+- 60 feet of knotted rope
+- Throwing stars
+- Torch
 - 3 rations
-
 
 ## Perks
 
-**Roll a d6, or pick one.**
+Roll 1d6 or pick a completed Perk. Row 4 still needs design.
 
 | d6 | Perk |
-|---|---|
-| 1 | Add your **Strength** to damage with unarmed strikes |
-| 2 | +1 Armor as long as you can move freely |
-| 3 | Leap 20 feet and perch on anything that will hold a toe |
-| 4 | **You catch your breath without spending a ration** |
-| 5 | No fall hurts you if you can see it coming |
-| 6 | +1 to any one stat, to a maximum of +3 |
+| --- | --- |
+| 1 | Add Strength to damage with unarmed strikes. |
+| 2 | Gain +1 Armor while your character can move freely. |
+| 3 | Your character can leap 20 feet and perch on anything that will hold a toe. |
+| 4 | Open design space. |
+| 5 | No fall hurts your character if they can see it coming. |
+| 6 | Increase one Stat by 1, to a maximum of +3. |

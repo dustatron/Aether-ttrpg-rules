@@ -1,92 +1,90 @@
 ---
-tags:
-  - rules
-  - gm
-system: rules-lite
-status: draft
-version: 0.1
+tags: [rules, gm]
+system: arcane-aether
+status: current
+version: 4.5
+canonical: true
+source: The Arcane Aether Rules v4.5.rtf
 ---
 
 # Bestiary
 
-> [!abstract] Seven entries across six tiers
-> **Morale** is the Harm mark where it rolls [[Core Rules v4#Morale and Fleeing|2d6 + Threat]], or **never** for a thing that cannot weigh the odds.
-> **Casts** gives the Exposure ceiling and a few [[Spell Tags|magical effects]] to reach for. They are prompts, not bonuses.
-> Tiers and rulings: [[Monsters]].
+Use the rules and tiers in [[Monsters]].
 
-> [!example] Goblin · *mook*
->
-> | Threat | Dmg | Harm | Armor | Morale |
-> |---|---|---|---|---|
-> | **−1** | **1** | **3** | **0** | **1** |
->
-> **Attacks:** rusty knife, thrown rock, teeth.
-> **Weakness:** bright light drives them back.
-> **Desire:** something shiny, and to see tomorrow.
+## Goblin
 
-> [!example] Bear · *baddy*
->
-> | Threat | Dmg | Harm | Armor | Morale |
-> |---|---|---|---|---|
-> | **+0** | **2** | **6** | **1** | **3** |
->
-> **Attacks:** bite, swipe, bull rush.
-> **Weakness:** fire, which no animal will face.
-> **Desire:** to be left alone.
+**Mook**
 
-> [!example] Mummy · *glass cannon*
->
-> | Threat | Dmg | Harm | Armor | Morale |
-> |---|---|---|---|---|
-> | **+1** | **3** | **3** | **0** | **never** |
->
-> **Attacks:** grasping hands, choking wrappings.
-> **Weakness:** fire.
-> **Desire:** to punish whoever opened the door.
+Threat -1, Damage 1, Harm 3, Armor 0
 
-> [!example] Ooze · *monster*
->
-> | Threat | Dmg | Harm | Armor | Morale |
-> |---|---|---|---|---|
-> | **+1** | **3** | **15** | **2** | **never** |
->
-> **Attacks:** engulf, acid touch, drops from above.
-> **Weakness:** salt, or high ground.
-> **Desire:** to dissolve and absorb metals.
+**Attacks:** Rusty knife, rocks, biting.
 
-> [!example] The Frayed Man · *horror · 5 mutations*
-> *Too many joints, a second mouth, something moving under the coat.*
->
-> | Threat | Dmg | Harm | Armor | Morale |
-> |---|---|---|---|---|
-> | **+2** | **4** | **20** | **3** | **10** |
->
-> **Attacks:** grasping limbs, a crushing grip.
-> **Casts:** up to 8 Exposure. Reach for **Bind · Drain · Mutate**.
-> **Weakness:** Hot gossip. He just cannot get enough.
-> **Desire:** To kill Steve.
+**Weakness:** Bright light drives them back.
 
-> [!example] The dark baker · *horror · 12 mutations, a Demon*
-> *Floats · faceless · see-through skin · limbs like moving roots.*
->
-> | Threat | Dmg | Harm | Armor | Morale |
-> |---|---|---|---|---|
-> | **+2** | **4** | **20** | **3** | **never** |
->
-> **Attacks:** a withering touch.
-> **Casts:** 10 Exposure, every time. Reach for **Unmake · Fracture · Desynchronize**.
-> **Weakness:** remember his own name.
-> **Desire:** to steal back the recipe Halloway sold.
+**Desire:** Something shiny, and to see tomorrow.
 
-> [!example] The Prophet · *legendary*
-> *The most mutated being alive.* See [[The Church & The Prophet]].
->
-> | Threat | Dmg | Harm | Armor | Morale |
-> |---|---|---|---|---|
-> | **+3** | **5** | **30** | **5** | **15** |
->
-> **Attacks:** whatever the Resonance will do for him.
-> **Casts:** anything. Reach for **Sustain · Anchor · Rewrite**.
-> **Weakness:** free the initiates he taxes and he starves.
-> **Desire:** to hold his shape forever.
-``
+## Bear
+
+**Baddy**
+
+Threat 0, Damage 2, Harm 6, Armor 1
+
+**Attacks:** Bite, swipe, bull rush.
+
+**Weakness:** Fire, which no animal will face.
+
+**Desire:** To be left alone.
+
+## Mummy
+
+**Glass cannon**
+
+Threat +1, Damage 3, Harm 3, Armor 0
+
+**Attacks:** Grasping hands, choking wrappings.
+
+**Weakness:** Fire.
+
+**Desire:** To punish whoever opened the door.
+
+## Ooze
+
+**Monster**
+
+Threat +1, Damage 3, Harm 15, Armor 2
+
+**Attacks:** Engulf, acid touch, drops from above.
+
+**Weakness:** Salt, or high ground.
+
+**Desire:** To dissolve and absorb metals.
+
+## The Frayed Man
+
+**Horror**
+
+Too many joints, a second mouth, something moving under the coat.
+
+Threat +2, Damage 4, Harm 20, Armor 3
+
+**Attacks:** Grasping limbs, a crushing grip.
+
+**Casts:** Up to 8 Exposure. Bind, Drain, Mutate.
+
+**Weakness:** Hot gossip. He just cannot get enough.
+
+**Desire:** To kill Steve.
+
+## The Last Dragon
+
+**Legendary**
+
+Ancient, scarred, too large for the ruins it calls home, and remembers every wound.
+
+Threat +3, Damage 5, Harm 30, Armor 5
+
+**Attacks:** Crushing jaws, sweeping tail, furnace breath.
+
+**Weakness:** It must be killed with something that has never been used as a weapon.
+
+**Desire:** To destroy every surviving account of dragons so no one remembers how to kill one.

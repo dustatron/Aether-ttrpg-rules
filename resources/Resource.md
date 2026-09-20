@@ -1,7 +1,9 @@
 ---
 tags:
   - reference
+system: arcane-aether
 status: draft
+version: 4.5
 ---
 
 # Reference: External Links
@@ -13,4 +15,4 @@ Outside material to mine for the game.
 - [Umerican Survival Guide mutation table, hacked for OSE](https://asenseofimmersion.wordpress.com/2022/05/13/i-hacked-the-umerican-survival-guide-mutation-table-for-use-with-ose/)
 - [D&D Beyond: Boon of Mutation table (homebrew)](https://www.dndbeyond.com/forums/dungeons-dragons-discussion/homebrew-house-rules/72809-boon-of-mutation-table)
 
-> [!note] For building out [[mutation-tables]] and higher-level [[Mutation]] entries.
+> [!note] Material for developing the [[mutation-tables|Mutation table]]. It is reference material, not a current rule.

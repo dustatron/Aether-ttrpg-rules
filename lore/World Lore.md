@@ -1,49 +1,44 @@
 ---
-tags:
-  - lore
-status: draft
-version: 0.1
+tags: [lore]
+system: arcane-aether
+status: current
+version: 4.5
+canonical: true
 ---
 
-# The Resonance
+# The Arcane Aether
 
-## The premise
+## The Hidden Nature of Reality
 
-The Resonance is the energy that makes up all of reality. Matter, life, thought, space, and time are all patterns within it.
+All of reality is made of countless particles called Aether. Matter, life, thought, space, and time are patterns formed from it.
 
-Most people cannot perceive the Resonance, let alone interact with it. However, some can feel the Resonance and cause those patterns to change. They can alter matter, bend natural laws, create impossible effects, and reshape the world around them.
+Most people cannot perceive those patterns. Arcanists can. Through thought and imagination, they command Aether to alter matter, bend natural laws, and create impossible effects.
 
-Those that have learned to alter the Resonance call  themselves **Attuners**.
+## The Cost
 
-## The dark cost
+Every cast exposes the Arcanist to raw Aether. Exposure makes greater magic possible while destabilizing the Arcanist's own pattern.
 
-Resonance Exposure is both the gift and the curse. The more Resonance an Attuner absorbs, the more powerful their ability to manipulate it becomes. But the same Exposure that strengthens them also slowly unmakes them.
+At 10 Exposure, the character Mutates. Their body becomes stranger and one more part of their old life is pushed out. If a Mutation claims their final inventory slot, the character becomes a Demon and is no longer playable.
 
-Like radiation, Resonance Exposure accumulates and poisons the body. Over time, it causes **Mutations**, eventually unmakes the Attuner into a **Demon** or causing them to lose their form entirely.
+An Arcanist can delay this transformation by moving Exposure into an object. The object becomes a relic that stores Aether and performs one kind of magic.
 
-An Attuner can delay this fate by transferring their Exposure into a physical object. The Resonance trapped within becomes a singular magical ability, allowing the object to perform a specific effect.
+The power does not disappear. It goes somewhere the Arcanist can put down.
 
-The power never disappears. It is simply moved somewhere else.
+## The Magical Orders
 
-## The Secret of the Magical Orders
+The world has wizards, warlocks, witches, schools, spellbooks, potions, and enchanted objects.
 
-The world has wizards, warlocks, witches, and seekers. Spellbooks, magical schools, potions, rituals, and enchanted items of wonder dot the landscape.
+Most conventional magic users do not command Aether directly. They are fancy scavengers using relics and knowledge left behind by Arcanists.
 
-Most magic users do not manipulate the Resonance directly. They are, in truth, well-dressed scavengers, using the artifacts and knowledge left behind by true Attuners.
+The oldest magical orders know where their power comes from. Some trade protection, knowledge, and resources for new relics. Others hunt independent Arcanists while quietly depending on their work.
 
-The old wizards and magical schools know exactly where their relics come from. Some even maintain secret relationships with Attuners, trading protection, knowledge, and resources for new artifacts and abilities.
-
-But these relationships are closely guarded secrets. Wizards publicly distance themselves from Attuners, labeling them as the **Frayed**. They have built magical traditions around using the power of the Resonance without paying its price. These relationships also help preserve their position and power in society.
-
-To common folk, anyone who uses the Resonance outside the established magical orders risks becoming **Frayed**. They are seen as dangerous dabblers who have exposed themselves to too much Resonance and are slowly losing their humanity. Frayed are feared as monsters, demons, or lost souls, and anyone who becomes one is considered a danger to those around them.
-
-The magical orders encourage people to report anyone showing signs of Resonance manipulation. They claim they can intervene before the person becomes a danger to themselves or others. 
+To ordinary people, a visibly changed Arcanist is Frayed. They are feared as unstable, dangerous, or already halfway to becoming a Demon.
 
 ## Key Terms
 
-- **Resonance**: The energy that makes up all of reality.
-- **Attuner**: A person capable of directly altering the Resonance.
-- **Exposure**: The amount of Resonance an Attuner has absorbed. It increases their power but slowly destroys them.
-- **Mutation**: A physical or mental change caused by Resonance Exposure.
-- **Frayed**: A common folk term for an Attuner whose Exposure has begun to visibly alter them. 
-- **Demon**: An Attuner who has been completely transformed by Resonance Exposure.
+- **Aether:** The particles and patterns that make up reality.
+- **Arcanist:** A person who can perceive and command those patterns.
+- **Exposure:** Raw Aether accumulated through casting.
+- **Mutation:** A permanent change caused by Exposure.
+- **Frayed:** A common term for an Arcanist visibly changed by Exposure.
+- **Demon:** An Arcanist lost when a Mutation claims their final inventory slot.
