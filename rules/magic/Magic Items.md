@@ -3,30 +3,35 @@ tags:
   - rules
 system: rules-lite
 status: draft
-version: 0.1
+version: 0.2
 ---
 
-# Magic Items — The Safe Conduit
+# Magic Items
 
-Weaving through an item costs you no [[Casting & Corruption|Corruption]] — the item carries the toll instead. This is how weavers survive their own power, and why the world is full of their relics.
+> [!abstract] A relic is Exposure with somewhere else to be
+> An Attuner moves Exposure out of their body and into an object. The power does not go away. It goes somewhere you can put down.
 
-## Forging
+**The slot cost, the 6-Exposure capacity and the hour it takes are in [[Core Rules v4#Magic Items]].** This note is what you do with one.
 
-- **Spend [[Casting & Corruption|Corruption]] to forge an item.** Takes time — hours of work, not a combat action.
-- The Corruption you pour in becomes the item's **charges.** A 3-Corruption item holds **3 corruption-free casts.**
-- The item casts the **style of magic you last wove** into it.
-- Use it, trade it, or sell it.
+## Using a relic
 
-## Recharging
+Anyone who can operate the item can use it. Each use spends **one charge**, with no casting roll and no Exposure gained by the character. The item always produces the effect it was made for.
 
-**Spent items** can be recharged by pouring in more Corruption later.
+At zero charges, it is an ordinary object until an Attuner refills it. See [[Core Rules v4#Making a relic|making a relic]] for the Exposure cost of each charge and the item's capacity.
 
-> [!tip] Your furnace valve
-> Raw [[Casting & Corruption|Casting]] fills you with Corruption; forging items bleeds it back out into the world. Every cast is a choice — take the mark, or spend an item you bled to make.
+## Shaping one
 
-> [!note] Lore hook
-> The world's "wizards" and "witches" are scavengers using weaver-made items like these — knowingly or not. See [[The Church & The Prophet]].
+**The first time you fill a relic, you shape what it does.** Name the effect and price it with the normal [[Core Rules v4#Pricing a spell's Exposure|casting dials]]. That price is how much Exposure it takes to make each charge. The effect is fixed then, and it never learns a second trick.
 
-## See also
+Every time after, you are only topping it up.
 
-[[Casting & Corruption|Corruption]] · [[Casting & Corruption|Casting]] · [[The Church & The Prophet]]
+> [!danger] The valve is never open when you need it
+> An hour is not available at 9 Exposure with something coming down the corridor, and it is not available the second time either. Relics are what you prepare, not what you reach for.
+>
+> You cast anyway, or you do not. That is the whole decision this game is about.
+
+## Why the world is littered with them
+
+An Attuner keeping ahead of the clock is carrying two relics at all times, and still filling up. They cannot hold all their own poison. They offload it to a buyer, a patron, a hole in the ground, and walk away lighter. Every relic in a barrow is somebody's bad week.
+
+It is also what the Church actually sells: not magic, but somewhere to put it. See [[The Church & The Prophet]].
