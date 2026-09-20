@@ -10,7 +10,7 @@ check_count() {
   local label="$3"
   local actual
 
-  actual="$(rg -c "$pattern" "$bestiary" || true)"
+  actual="$(grep -Ec "$pattern" "$bestiary" || true)"
   if [[ "$actual" != "$expected" ]]; then
     echo "Bestiary format error: expected $expected $label lines, found $actual." >&2
     exit 1
@@ -24,7 +24,7 @@ check_count 1 '^- \*\*Casts:\*\* ' 'Casts'
 check_count 6 '^- \*\*Weakness:\*\* ' 'Weakness'
 check_count 6 '^- \*\*Desire:\*\* ' 'Desire'
 
-if rg -n '^.*\*\*Attacks:\*\*.*\*\*(Weakness|Desire):\*\*' "$bestiary"; then
+if grep -En '^.*\*\*Attacks:\*\*.*\*\*(Weakness|Desire):\*\*' "$bestiary"; then
   echo 'Bestiary format error: Attacks, Weakness, and Desire must be separate bullets.' >&2
   exit 1
 fi
