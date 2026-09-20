@@ -57,7 +57,7 @@ I do not think every encounter needs to be balanced. Tell the players what their
 
 **Example: Goblin, Tier 1 Mook**
 
-**Threat:** -1 **Damage:** 1 **Harm:** 3 **Armor:** 0
+**Threat:** -1 | **Damage:** 1 | **Harm:** 3 | **Armor:** 0
 - **Attacks:** Rusty knife, rocks, biting.
 - **Weakness:** Bright light drives them back.
 - **Desire:** Something shiny, and to see tomorrow.

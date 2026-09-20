@@ -18,7 +18,7 @@ check_count() {
 }
 
 check_count 6 '^## .+, Tier [1-6] .+$' 'monster heading'
-check_count 6 '^\*\*Threat:\*\* [-+0-9]+ \*\*Damage:\*\* [0-9]+ \*\*Harm:\*\* [0-9]+ \*\*Armor:\*\* [0-9]+$' 'stat'
+check_count 6 '^\*\*Threat:\*\* [-+0-9]+ \| \*\*Damage:\*\* [0-9]+ \| \*\*Harm:\*\* [0-9]+ \| \*\*Armor:\*\* [0-9]+$' 'stat'
 check_count 6 '^- \*\*Attacks:\*\* ' 'Attacks'
 check_count 1 '^- \*\*Casts:\*\* ' 'Casts'
 check_count 6 '^- \*\*Weakness:\*\* ' 'Weakness'

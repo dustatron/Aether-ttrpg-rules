@@ -21,7 +21,7 @@ Preserve this exact compact structure. Keep the monster name, tier level, and ti
 
 ```markdown
 ## Goblin, Tier 1 Mook
-**Threat:** -1 **Damage:** 1 **Harm:** 3 **Armor:** 0
+**Threat:** -1 | **Damage:** 1 | **Harm:** 3 | **Armor:** 0
 - **Attacks:** Rusty knife, rocks, biting.
 - **Weakness:** Bright light drives them back.
 - **Desire:** Something shiny, and to see tomorrow.
