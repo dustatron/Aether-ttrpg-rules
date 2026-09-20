@@ -4,6 +4,8 @@ set -euo pipefail
 
 content_dir="${1:?usage: prepare-site-content.sh OUTPUT_DIRECTORY}"
 
+"$(dirname "$0")/check-content-format.sh"
+
 rm -rf -- "$content_dir"
 mkdir -p "$content_dir"
 
