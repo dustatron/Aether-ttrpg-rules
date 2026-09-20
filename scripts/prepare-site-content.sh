@@ -12,19 +12,18 @@ mkdir -p "$content_dir"
 awk '
   NR == 1 {
     print
-    print "title: The Arcane Aether"
+    print "title: Start Here"
     print "aliases: [Start Here]"
     next
   }
   {
+    sub(/The current design work is tracked in \[\[Open Questions\]\]\./, "")
+    sub(/ Current design work is tracked in \[\[Open Questions\]\]\./, "")
     sub(/ For AI-assisted work on the vault, read \[\[AI Context\]\] first\./, "")
     print
   }
 ' \
   "Start Here.md" > "$content_dir/index.md"
-
-# This note is linked from the homepage and remains useful to readers.
-cp "Open Questions.md" "$content_dir/Open Questions.md"
 
 # Only reader-facing sections enter the generated website.
 for directory in lore rules tables; do
