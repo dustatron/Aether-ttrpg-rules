@@ -17,9 +17,10 @@ I have two key ideas I am trying to explore with these rules.
 - Can we have a simple system that implement character progression during play from the choices made inside a game session.
 
 Over all this game doesn't concern itself with balance or really offering a ton of guard rails. 
-I was hoping more to have simple game that is faster to learn, which to get into game play, and encurages silly, out of the box thinkings. I also like the idea that you could bring any magic from any other game you like and just see how it play in this game. 
+I was hoping more to have simple game that is faster to learn, which to get into game play, and encourages silly, out of the box thinkings. I also like the idea that you could bring any magic from any other game you like and just see how it play in this game. 
 
-As a GM I like the idea of play to find out and 
+As a GM I like the idea of play to find out and a free form play style. 
+So I also wanted a simple system for monster creation and fluid flights, if thats how the players want to play. 
 
 ## Why This Game Exists
 
