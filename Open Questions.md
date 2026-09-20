@@ -10,10 +10,6 @@ canonical: false
 
 Only unresolved work for v4.5 belongs here. Historical decisions are in `archive/pre-v4.5/`.
 
-## Blocks Play
-
-- **Wild Magic:** Turn [[wild-magic-table]] into a rollable table and decide what dice to roll before adding current Exposure.
-
 ## Archetypes
 
 - Write Fighter Perks 3 and 5.

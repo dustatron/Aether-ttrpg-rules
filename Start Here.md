@@ -72,7 +72,7 @@ Not everything needs a roll. Let the silly ideas move the story. Maybe a charact
 - [[Monsters]] explains how to build and run opposition.
 - The [[Bestiary]] contains worked examples.
 - The [[mutation-tables|Mutation table]] is ready when someone reaches 10 Exposure.
-- The [[wild-magic-table|Wild Magic table]] is still being developed and is not yet ready for play.
+- The [[wild-magic-table|Wild Magic table]] is ready when a casting roll comes up double 1s.
 
 The rules are short enough to read in one sitting. Current design work is tracked in [[Open Questions]]. For AI-assisted work on the vault, read [[AI Context]] first.
 
