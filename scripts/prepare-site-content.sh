@@ -9,12 +9,22 @@ mkdir -p "$content_dir"
 
 # Start Here is the website homepage. Its Obsidian name remains an alias so
 # existing [[Start Here]] links resolve without changing the vault source.
-awk 'NR == 1 { print; print "title: The Arcane Aether"; print "aliases: [Start Here]"; next } { print }' \
+awk '
+  NR == 1 {
+    print
+    print "title: The Arcane Aether"
+    print "aliases: [Start Here]"
+    next
+  }
+  {
+    sub(/ For AI-assisted work on the vault, read \[\[AI Context\]\] first\./, "")
+    print
+  }
+' \
   "Start Here.md" > "$content_dir/index.md"
 
-# These notes are linked from the homepage and remain useful to readers.
+# This note is linked from the homepage and remains useful to readers.
 cp "Open Questions.md" "$content_dir/Open Questions.md"
-cp "AI Context.md" "$content_dir/AI Context.md"
 
 # Only reader-facing sections enter the generated website.
 for directory in lore rules tables; do
