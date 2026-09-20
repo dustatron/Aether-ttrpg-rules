@@ -47,7 +47,9 @@ Players can spend that Luck to improve their characters, help one another, or pl
 
 ### Monsters should be easy to run
 
-A monster needs four numbers and answers to two questions: What does it want and what is its weakness? 
+A monster needs four numbers and answers to two questions: What does it want and what is its weakness?
+
+I also like using randomness when I do not already know the answer. Monster tiers are numbered 1 to 6, so you can roll a d6 and let the dice decide how dangerous the next thing is. A little randomness can push the story somewhere none of us planned.
 
 I do not think every encounter needs to be balanced. Tell the players what their characters can see, let them decide what risks to take, and follow the consequences. The monster's Desire also leaves room for a bargain when another attack roll would be less interesting.
 
@@ -87,4 +89,4 @@ The rules are short enough to read in one sitting. Current design work is tracke
 
 ## Current draft
 
-Version 4.5 is the current working ruleset. This is a work in progress and needs a lot more play testing. 
+Version 4.5 is the current working ruleset. This is a work in progress and needs a lot more play testing.

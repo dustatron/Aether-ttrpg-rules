@@ -15,14 +15,16 @@ Four numbers and two words.
 
 ## Tiers
 
-| Tier | Threat | Damage | Harm | Armor | Example |
-| --- | --- | --- | --- | --- | --- |
-| Mook | -1 | 1 | 3 | 0 | Goblin |
-| Baddy | 0 | 2 | 6 | 1 | Bandit or bear |
-| Glass cannon | +1 | 3 | 3 | 0 | Mummy |
-| Monster | +1 | 3 | 15 | 2 | Ooze |
-| Horror | +2 | 4 | 20 | 3 | Demon |
-| Legendary | +3 | 5 | 30 | 5 | Dragon |
+| Tier level | Tier label   | Threat | Damage | Harm | Armor | Example        |
+| ---------- | ------------ | ------ | ------ | ---- | ----- | -------------- |
+| 1          | Mook         | -1     | 1      | 3    | 0     | Goblin         |
+| 2          | Baddy        | 0      | 2      | 6    | 1     | Bandit or bear |
+| 3          | Glass cannon | +1     | 3      | 3    | 0     | Mummy          |
+| 4          | Brute        | +1     | 3      | 15   | 2     | Ooze           |
+| 5          | Horror       | +2     | 4      | 20   | 3     | Demon          |
+| 6          | Legendary    | +3     | 5      | 30   | 5     | Dragon         |
+
+Choose the tier level that fits, or roll 1d6 and let the dice decide. Rolling works well when you are improvising or want the danger to surprise you too.
 
 ## Running One
 
