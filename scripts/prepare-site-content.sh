@@ -25,8 +25,10 @@ awk '
 ' \
   "Start Here.md" > "$content_dir/index.md"
 
+cp "Core Rules.md" "Character Creation.md" "$content_dir/"
+
 # Only reader-facing sections and their downloadable files enter the generated website.
-for directory in files lore rules tables; do
+for directory in files lore reference tables; do
   cp -R "$directory" "$content_dir/$directory"
 done
 

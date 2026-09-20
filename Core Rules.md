@@ -87,7 +87,7 @@ Casting follows the normal roll results, with these additional effects:
 - **Failure:** The cast fails and costs no Exposure. Resolve the failure, then gain 1 Luck.
 - **Partial success:** The cast works. Mark the agreed Exposure and suffer a complication.
 - **Full success:** The cast works. Mark the agreed Exposure and add a beneficial flourish beyond the intended effect.
-- **Double 1s:** The cast fails and costs no Exposure. Roll on the [[wild-magic-table|Wild Magic table]], adding the character's current Exposure.
+- **Double 1s:** The cast fails and costs no Exposure. Roll d66 on the [[wild-magic-table|Wild Magic table]].
 - **Double 6s:** The cast works. Mark the agreed Exposure, then gain a new Spell Tag related to the cast or increase the Tag used by 1, to a maximum of +3.
 
 A beneficial flourish cannot add damage, reach, size, or duration that was not included in the Exposure cost.

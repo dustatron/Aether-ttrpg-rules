@@ -8,7 +8,7 @@ GitHub Actions builds the reader-facing notes with [Quartz](https://quartz.jzhao
 
 <https://dustatron.github.io/Aether-ttrpg-rules/>
 
-The published site contains `Start Here.md` and the notes under `lore/`, `rules/`, and `tables/`. AI context, open questions, project instructions, archives, resources, Obsidian settings, and trash are not copied into the website build.
+The published site contains `Start Here.md`, `Core Rules.md`, `Character Creation.md`, and the notes under `files/`, `lore/`, `reference/`, and `tables/`. AI context, open questions, project instructions, archives, resources, Obsidian settings, and trash are not copied into the website build.
 
 ## Local preview
 

@@ -1,6 +1,6 @@
 # Project instructions: The Arcane Aether
 
-This is the Obsidian vault for The Arcane Aether, a rules-light tabletop game in active design. Read `AI Context.md`, `Start Here.md`, and `rules/Core Rules.md` before changing rules. Read `CLAUDE.md` for additional vault conventions. User instructions take precedence over project guidance.
+This is the Obsidian vault for The Arcane Aether, a rules-light tabletop game in active design. Read `AI Context.md`, `Start Here.md`, and `Core Rules.md` before changing rules. Read `CLAUDE.md` for additional vault conventions. User instructions take precedence over project guidance.
 
 ## Current draft
 
