@@ -25,8 +25,8 @@ awk '
 ' \
   "Start Here.md" > "$content_dir/index.md"
 
-# Only reader-facing sections enter the generated website.
-for directory in lore rules tables; do
+# Only reader-facing sections and their downloadable files enter the generated website.
+for directory in files lore rules tables; do
   cp -R "$directory" "$content_dir/$directory"
 done
 

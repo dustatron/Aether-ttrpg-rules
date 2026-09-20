@@ -23,6 +23,8 @@ As a GM, I like to play to find out and leave room for freeform play. I want sim
 
 **Start here:** [[Core Rules|Read the core rules]] or [[Character Creation|make a character]].
 
+**Downloads:** [[The Arcane Resonance Rules.pdf|Rules PDF]] · [[Character sheet v4.png|Character sheet]]
+
 ## Where the magic items come from
 
 Why are there so many magic items? Why do the people capable of making them keep leaving them in tombs, shops, and holes in the ground?
@@ -77,3 +79,9 @@ The rules are short enough to read in one sitting. Current design work is tracke
 ## Current draft
 
 Version 4.5 is the current working ruleset. This is a work in progress and needs a lot more play testing.
+
+## Character sheet
+
+[[Character sheet v4.png|Open or download the full-size character sheet.]]
+
+![[Character sheet v4.png]]

@@ -121,14 +121,8 @@ Decide whether the Aether has already changed your character.
 
 Starting Marked gives the character more control over magic, but the Aether has already taken one of their twelve slots.
 
-## Before the first scene
+## Character sheet
 
-Check that the character has:
+[[Character sheet v4.png|Open or download the full-size character sheet.]]
 
-- A name, Life Type, and both Life Type traits.
-- Four Stats and one Archetype Perk.
-- Current and maximum Harm.
-- Gear, weapon damage, and Armor.
-- Up to four Key Goals.
-- Their choice to start Unchanged or Marked.
-- Current Exposure and Luck recorded.
+![[Character sheet v4.png]]
