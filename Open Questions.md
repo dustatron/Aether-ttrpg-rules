@@ -10,6 +10,8 @@ canonical: false
 
 Only unresolved work for v4.5 belongs here. Historical decisions are in `archive/pre-v4.5/`.
 
+The current outside review is organized in [[Friend Feedback Checklist]].
+
 ## Archetypes
 
 - Write Fighter Perks 3 and 5.
@@ -21,7 +23,7 @@ Only unresolved work for v4.5 belongs here. Historical decisions are in `archive
 
 ## Tables
 
-- Decide whether the blank Magic Item and Spell Tag d66 tables from the v4.5 document are still wanted.
+- Decide whether the blank Magic Item d66 table from the v4.5 document is still wanted.
 - If the Magic Item table survives, write entries that use stored Exposure rather than charges.
 
 ## Playtest

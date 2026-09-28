@@ -10,9 +10,9 @@ canonical: true
 
 Had a place in an order once, then something answered.
 
-**Stats:** Strength -1, Dexterity 0, Willpower +2, Charm +1
-
-**Maximum Harm:** 5
+| Strength | Dexterity | Willpower | Charm | Health |
+| :---: | :---: | :---: | :---: | :---: |
+| -1 | 0 | +2 | +1 | 5 |
 
 ## Gear
 
@@ -21,10 +21,6 @@ Had a place in an order once, then something answered.
 - A bone-handled knife, 1 damage
 - Torch
 - 3 rations
-
-## Perks
-
-Roll 1d6 or pick one.
 
 | d6 | Perk |
 | --- | --- |

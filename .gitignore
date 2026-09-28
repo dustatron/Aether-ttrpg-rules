@@ -24,3 +24,6 @@ public/
 .quartz-content/
 .quartz-cache/
 tsconfig.tsbuildinfo
+
+# Local render previews and temporary files
+tmp/

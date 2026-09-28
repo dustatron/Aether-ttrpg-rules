@@ -24,6 +24,8 @@ When sources disagree, use this order:
 
 Use **The Arcane Aether**, **Aether**, and **Arcanist**.
 
+Use **Health** for the damage track. **Harm** is no longer the name of that resource.
+
 The earlier names **The Resonance**, **Resonance**, and **Attuner** appear in archived material. Do not restore them to current notes.
 
 Use **player** for the real person at the table. Use **character** for the person in the game world.
@@ -45,6 +47,7 @@ Use **player** for the real person at the table. Use **character** for the perso
 - [[Core Rules]]
 - [[Key Terms]]
 - [[Character Creation]]
+- [[Key Ideas]]
 - [[Monsters]]
 - [[Bestiary]]
 - [[mutation-tables|Mutation Table]]

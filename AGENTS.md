@@ -6,12 +6,26 @@ This is the Obsidian vault for The Arcane Aether, a rules-light tabletop game in
 
 V4.5 is the current working draft. Notes marked `canonical: true` and `version: 4.5` are the live rules. Earlier versions, the old Resonance terminology, and historical decision logs are archived background. Do not silently restore their mechanics. Unsettled v4.5 work lives in `Open Questions.md`.
 
+The assembled PDF is labeled **Version 4.6**. This is initially a full-book layout draft built from the current v4.5 source notes. Do not change canonical note versions or present unresolved mechanics as settled merely to match the PDF label.
+
+## Rulebook build
+
+- The Obsidian notes are the source of truth. Never edit generated files under `rulebook/build/`.
+- `rulebook/book.json` controls the PDF title, version, chapter order, and included notes.
+- `rulebook/theme.typ` contains the shared print styling.
+- Build with `npm run build` from `rulebook/`. The PDF is written under `rulebook/output/pdf/`.
+- Keep the rulebook build separate from Quartz. PDF work must not change the public website build unless the user explicitly asks.
+- Layout work may reorganize presentation, page flow, and navigation. It must not silently rewrite rules, fill unfinished Perks, or resolve `Open Questions.md`.
+- Do not include `AI Context.md`, `CLAUDE.md`, `AGENTS.md`, `Open Questions.md`, archives, or project-management notes in the reader-facing PDF.
+- Tables fill one column. Long reference tables may continue across columns or pages; short tables should stay together where practical.
+- Do not hyphenate words across lines. Use ragged-right body text to avoid stretched spacing.
+
 ## Player and character
 
 - **Player** means the real person sitting at the table. **You** always addresses that person.
 - **Character** means the person in the game world. Use **your character**, **the character**, or **they** for fictional actions, experiences, and consequences.
 - Players roll dice, make decisions, accept outcomes, spend Luck, and record changes on a sheet. Characters cast, move, fight, take harm, mutate, rest, and die.
-- Keep both sides explicit when needed: “When your character takes damage, subtract it from their current Harm.”
+- Keep both sides explicit when needed: “When your character takes damage, subtract it from their current Health.”
 - In casting instructions, the player describes the intended spell, accepts its price, and rolls. The character casts it and suffers its effects. Do not ask “the caster” to roll physical dice.
 - Apply this distinction in introductions, examples, tables, and headings as well as rules paragraphs. “Your character’s turn” is clearer than “your turn” when describing fictional actions.
 
@@ -23,7 +37,7 @@ Examples:
 | You mutate at 10 Exposure. | When your character’s Exposure reaches 10, they mutate. |
 | The character rolls 2d6. | Roll 2d6 for your character. |
 | Your character crosses a goal off the list. | When your character achieves a goal, cross it off the list. |
-| You regain 1d6 Harm. | Roll 1d6 and restore that much Harm on your character’s sheet. |
+| You regain 1d6 Health. | Roll 1d6 and restore that much Health on your character’s sheet. |
 
 ## Preserve the designer’s voice
 

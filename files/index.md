@@ -8,9 +8,9 @@ version: 4.5
 
 # Files
 
-- [[The Arcane Resonance Rules.pdf|View or download the rules PDF]]
-- [[Character sheet v4.png|View or download the character sheet]]
+- [[The Arcane Aether Rules v4.6 draft.pdf|View or download the v4.6 draft rules PDF]]
+- [[Character sheet v4.6.png|View or download the v4.6 character sheet]]
 
 ## Character sheet
 
-![[Character sheet v4.png]]
+![[Character sheet v4.6.png]]

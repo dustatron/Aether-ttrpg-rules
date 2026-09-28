@@ -10,7 +10,7 @@ source: The Arcane Aether Rules v4.5.rtf
 
 # Character Creation
 
-Make someone who had a life before they became an Arcanist. Three steps are enough to begin. The rest can come out during play.
+Make someone who had a life before they became an Arcanist. Four steps are enough to begin. The rest can come out during play.
 
 ## Step 1: Basic details
 
@@ -59,7 +59,7 @@ Examples:
 
 Your character's Archetype represents the life they led before becoming an Arcanist.
 
-Choose one. Take its starting gear, maximum Harm, and one Perk. Use its suggested Stats, or arrange **+2, +1, 0, and -1** across the four Stats yourself.
+Choose one. Take its starting gear, maximum Health, and one Perk. Use its suggested Stats, or arrange **+2, +1, 0, and -1** across the four Stats yourself.
 
 | Stat | What it covers |
 | --- | --- |
@@ -68,9 +68,9 @@ Choose one. Take its starting gear, maximum Harm, and one Perk. Use its suggeste
 | Willpower | Endurance and resolve |
 | Charm | Persuasion and presence |
 
-Set your character's current Harm equal to their maximum Harm.
+Set your character's current Health equal to their maximum Health.
 
-| Archetype | The character's old life | Maximum Harm |
+| Archetype | Old life | Health |
 | --- | --- | --- |
 | [[Hunter]] | Tracked Arcanists for coin, then woke up as one. | 7 |
 | [[Thief]] | Lived by wit, speed, and other people's things. | 6 |
@@ -79,7 +79,7 @@ Set your character's current Harm equal to their maximum Harm.
 | [[Fighter]] | Someone paid them to stand in the way, and they never learned to stop. | 8 |
 | [[Witch]] | Had a place in an order once, then something answered. | 5 |
 
-If none fit, work with the GM to create an old life. Use the same Stat array and choose starting gear, maximum Harm, and one Perk based on the existing Archetypes.
+If none fit, work with the GM to create an old life. Use the same Stat array and choose starting gear, maximum Health, and one Perk based on the existing Archetypes.
 
 ### Pack the gear
 
@@ -102,7 +102,7 @@ Choose goals with a clear end. When your character achieves one, cross it off an
 
 Share the goals with the other players. Their characters might share one, want to help, or have a very good reason to keep that hat shop standing.
 
-## Choose how changed they are
+## Step 4: Starting mutation
 
 Decide whether the Aether has already changed your character.
 
@@ -123,6 +123,4 @@ Starting Marked gives the character more control over magic, but the Aether has 
 
 ## Character sheet
 
-[[Character sheet v4.png|Open or download the full-size character sheet.]]
-
-![[Character sheet v4.png]]
+![[Character sheet v4.6.png]]

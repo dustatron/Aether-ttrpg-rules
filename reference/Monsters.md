@@ -9,20 +9,20 @@ source: The Arcane Aether Rules v4.5.rtf
 
 # Monsters
 
-Four numbers and two words.
+Four numbers and two questions.
 
-**Threat, Damage, Harm, Armor, then what undoes it and what it wants.** That fits on an index card.
+**Threat, Damage, Health, Armor, then what undoes it and what it wants.** That fits on an index card.
 
 ## Tiers
 
-| Tier level | Tier label   | Threat | Damage | Harm | Armor | Example        |
-| ---------- | ------------ | ------ | ------ | ---- | ----- | -------------- |
-| 1          | Mook         | -1     | 1      | 3    | 0     | Goblin         |
-| 2          | Baddy        | 0      | 2      | 6    | 1     | Bandit or bear |
-| 3          | Glass cannon | +1     | 3      | 3    | 0     | Mummy          |
-| 4          | Brute        | +1     | 3      | 15   | 2     | Ooze           |
-| 5          | Horror       | +2     | 4      | 20   | 3     | Demon          |
-| 6          | Legendary    | +3     | 5      | 30   | 5     | Dragon         |
+| Tier level | Tier label   | Threat | Damage | Health | Armor | Example        |
+| ---------- | ------------ | ------ | ------ | ------ | ----- | -------------- |
+| 1          | Pest         | -1     | 1      | 3      | 0     | Goblin         |
+| 2          | Minion       | 0      | 2      | 5      | 1     | Bandit or bear |
+| 3          | Glass Cannon | +1     | 3      | 10     | 0     | Mummy          |
+| 4          | Horror       | +2     | 3      | 15     | 2     | Ooze           |
+| 5          | Boss         | +2     | 4      | 20     | 3     | Demon          |
+| 6          | Mythic       | +3     | 5      | 30     | 5     | Dragon         |
 
 Choose the tier level that fits, or roll 1d6 and let the dice decide. Rolling works well when you are improvising or want the danger to surprise you too.
 
@@ -32,14 +32,15 @@ Choose the tier level that fits, or roll 1d6 and let the dice decide. Rolling wo
 - Damage applies to all its attacks. A bear might bite or swipe, but both deal 2 damage.
 - Weakness is what gives the characters an edge. Plant a way to discover it: a corpse, a book, a survivor, or someone who faced the creature before.
 - Desire is what the monster wants besides killing the characters. Anything with a Desire can potentially be bargained with.
-- A crowd rolls once, using its highest Threat and best single Damage. Its numbers can still surround characters, block exits, or create other complications.
+- For a monster caster, roll twice on [[Spell Tags|Spell Tag Sparks]] and combine the results into a casting theme.
+- A group of monsters attacking one character at the same time rolls once, using its highest Threat and best single Damage. Its numbers can still surround characters, block exits, or create other complications.
 - A monster with Threat +2 or higher can attack twice on its turn. An individual monster may break this rule when it fits.
 
 Worked monsters are in the [[Bestiary]].
 
 ## Morale
 
-When a monster falls to half Harm or less, roll 2d6 plus Threat.
+When a monster falls to half Health or less, roll 2d6 plus Threat.
 
 | Total | Result |
 | --- | --- |
@@ -49,10 +50,10 @@ When a monster falls to half Harm or less, roll 2d6 plus Threat.
 
 The GM may call for another morale roll after the monster takes more damage. Mindless, driven, or bound creatures do not roll Morale.
 
-## Legendary monsters
+## Mythic monsters
 
-Harm alone never kills a Legendary. Its Weakness is the only thing that can end it.
+Health alone never kills a Mythic. Its Weakness is the only thing that can end it.
 
-When a Legendary reaches zero Harm without its Weakness being exploited, it withdraws or changes. If it changes, restore its Harm and make it worse.
+When a Mythic reaches zero Health without its Weakness being exploited, it withdraws or changes. If it changes, restore its Health and make it worse.
 
 Telegraph this from the beginning. Wounds close. Severed limbs reform. The blade comes away clean. Killing the figure beneath the robe only kills the robe.

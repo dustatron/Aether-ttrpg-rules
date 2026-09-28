@@ -12,16 +12,17 @@ Version **4.5** is current.
 - [[Core Rules]] is the canonical engine.
 - [[Key Terms]] is the canonical glossary.
 - [[Character Creation]] and `reference/archetypes/` contain current character rules.
+- [[Key Ideas]] contains current GM principles and setting consequences.
 - [[Monsters]] and [[Bestiary]] contain current GM rules.
 - [[Open Questions]] contains only unresolved v4.5 work.
 
 ## Bestiary format
 
-Preserve this exact compact structure. Keep the monster name, tier level, and tier label together in the heading. Keep all four stats together on the next line. Use bullets only for Attacks, Casts, Weakness, and Desire.
+Preserve this exact compact structure. Keep the tier level, monster name, and tier label together in the heading. Keep all four stats together on the next line. Use bullets only for Attacks, Casts, Weakness, and Desire.
 
 ```markdown
-## Goblin, Tier 1 Mook
-**Threat:** -1 | **Damage:** 1 | **Harm:** 3 | **Armor:** 0
+## Tier 1, Goblin, Pest
+**Threat:** -1 | **Damage:** 1 | **Health:** 3 | **Armor:** 0
 - **Attacks:** Rusty knife, rocks, biting.
 - **Weakness:** Bright light drives them back.
 - **Desire:** Something shiny, and to see tomorrow.

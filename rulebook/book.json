@@ -1,0 +1,59 @@
+{
+  "title": "The Arcane Aether",
+  "subtitle": "A rules-light fantasy game about rewriting reality",
+  "version": "4.6",
+  "output": "the-arcane-aether-v4.6-draft.pdf",
+  "sections": [
+    {
+      "title": "The Arcane Aether",
+      "files": [
+        { "path": "Start Here.md", "hideTitle": true }
+      ]
+    },
+    {
+      "title": "Core Rules",
+      "files": [
+        { "path": "Core Rules.md", "hideTitle": true }
+      ]
+    },
+    {
+      "title": "Character Creation",
+      "files": [
+        { "path": "Character Creation.md", "hideTitle": true }
+      ]
+    },
+    {
+      "title": "Archetypes",
+      "files": [
+        { "path": "reference/archetypes/Hunter.md" },
+        { "path": "reference/archetypes/Thief.md" },
+        { "path": "reference/archetypes/Performer.md" },
+        { "path": "reference/archetypes/Monk.md" },
+        { "path": "reference/archetypes/Fighter.md", "pageBreakBefore": true },
+        { "path": "reference/archetypes/Witch.md" }
+      ]
+    },
+    {
+      "title": "Game Master Guide",
+      "files": [
+        { "path": "reference/Monsters.md" }
+      ]
+    },
+    {
+      "title": "Bestiary",
+      "files": [
+        { "path": "reference/Bestiary.md", "hideTitle": true }
+      ]
+    },
+    {
+      "title": "Reference Tables",
+      "files": [
+        { "path": "tables/mutation-tables.md", "compactTable": "mutation" },
+        { "path": "tables/wild-magic-table.md", "compactTable": "wild", "columnBreakBefore": true },
+        { "path": "tables/Spell Tags.md", "pageBreakBefore": true, "compactTable": "spell" },
+        { "path": "reference/Key Ideas.md", "columnBreakBefore": true },
+        { "path": "reference/Key Terms.md" }
+      ]
+    }
+  ]
+}

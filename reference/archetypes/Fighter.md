@@ -10,9 +10,9 @@ canonical: true
 
 Someone paid your character to stand in the way, and they never learned to stop.
 
-**Stats:** Strength +2, Dexterity +1, Willpower 0, Charm -1
-
-**Maximum Harm:** 8
+| Strength | Dexterity | Willpower | Charm | Health |
+| :---: | :---: | :---: | :---: | :---: |
+| +2 | +1 | 0 | -1 | 8 |
 
 ## Gear
 
@@ -22,15 +22,11 @@ Someone paid your character to stand in the way, and they never learned to stop.
 - Torch
 - 3 rations
 
-## Perks
-
-Roll 1d6 or pick a completed Perk. Rows 3 and 5 still need design.
-
-| d6 | Perk |
-| --- | --- |
-| 1 | Add Strength to damage in hand-to-hand combat. |
-| 2 | Once a fight, take a hit meant for someone at Close range. |
-| 3 | Open design space. |
-| 4 | When your character drops an enemy, they may immediately move one zone. |
-| 5 | Open design space. |
-| 6 | Increase one Stat by 1, to a maximum of +3. |
+| d6  | Perk                                                                    |
+| --- | ----------------------------------------------------------------------- |
+| 1   | Add Strength to damage in hand-to-hand combat.                          |
+| 2   | Once a fight, take a hit meant for someone at Close range.              |
+| 3   | --                                                                      |
+| 4   | When your character drops an enemy, they may immediately move one zone. |
+| 5   | --                                                                      |
+| 6   | Increase one Stat by 1, to a maximum of +3.                             |

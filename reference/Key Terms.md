@@ -13,6 +13,7 @@ canonical: true
 - **Exposure:** Raw Aether accumulated through casting.
 - **Mutation:** A permanent change caused by Exposure.
 - **Spell Tag:** Something the character's magic has learned to do reliably.
+- **Health:** How much damage a character or monster can take before suffering worse consequences.
 - **Relic:** An object that stores Exposure and performs one kind of magic.
 - **Frayed:** A common term for an Arcanist visibly changed by Exposure.
 - **Demon:** An Arcanist whose final inventory slot was claimed by a Mutation.

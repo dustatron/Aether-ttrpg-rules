@@ -25,10 +25,12 @@ Roll when the outcome is uncertain and failure would change the situation. Other
 | 6 or less | Failure. It goes wrong. Resolve the failure, then gain 1 Luck. |
 | 7 to 9 | Partial success. Your character does it, but there is a complication. |
 | 10 or greater | Full success. Your character achieves what they intended. |
-| Double 1s | Critical failure. |
+| Double 1s | Tragic failure. |
 | Double 6s | Critical success. |
 
-Check doubles on the two dice that determine the result. A critical result replaces the normal result.
+Check doubles on the two dice that determine the result. Double 1s or double 6s replace the normal result.
+
+When no more specific doubles rule applies, the GM adds a severe or lasting consequence to a Tragic failure. On a Critical success, your character achieves what they intended and gains an extra benefit chosen by the GM.
 
 A complication should move events forward. Your character might lose something, end up in danger, attract attention, or get hurt. A partial success still accomplishes what you rolled for.
 
@@ -71,7 +73,7 @@ Spend 5 Luck to choose one:
 
 - Increase a stat by 1, to a maximum of +3.
 - Increase a Spell Tag by 1, to a maximum of +3.
-- Increase maximum Harm by 1.
+- Increase maximum Health by 1.
 - Gain an Archetype Perk.
 
 ## Magical casting
@@ -79,8 +81,9 @@ Spend 5 Luck to choose one:
 Your character can command the patterns of Aether and reshape reality through thought and imagination.
 
 1. Describe the effect: its reach or size, what it does, and how long it lasts.
-2. The GM sets the Exposure cost using the casting dials.
-3. Accept the cost or reduce the effect, then roll 2d6 plus one relevant Spell Tag.
+2. Add its Exposure cost using the casting dials.
+3. The GM confirms the cost or adjusts it for anything unusual.
+4. Accept the final cost or reduce the effect, then roll 2d6 plus one relevant Spell Tag.
 
 Casting follows the normal roll results, with these additional effects:
 
@@ -98,6 +101,8 @@ Spell Tags represent what your character has learned through casting. Fire, invi
 
 Choose one relevant Spell Tag for each cast and add its rating to the roll. Tags do not stack, run out, reduce Exposure, or limit what your character may attempt. Without a relevant Tag, roll 2d6 with no bonus.
 
+Casting never uses a Stat. Only one relevant Spell Tag can add to the roll.
+
 When your character gains a Mutation through casting or you roll double 6s on a cast, gain a new +1 Tag related to the cast or increase the Tag used by 1, to a maximum of +3. If both happen on the same cast, gain this benefit only once.
 
 The [[Spell Tags]] table is a prompt sheet, not a spell list.
@@ -108,9 +113,7 @@ Mutations allow your character's body to withstand more Exposure. Their safe lim
 
 **3 plus their number of Mutations.**
 
-You may have your character cast above this limit. On a success, mark 1 Fatigue for each point of Exposure above the limit, in addition to marking the Exposure.
-
-The GM tells you the full cost before you roll.
+You may have your character cast above this limit. On a success, first mark the full Exposure and resolve any resulting Mutations. Then mark 1 Fatigue for each point of Exposure above the limit.
 
 ### A spell's Exposure cost
 
@@ -120,7 +123,7 @@ Every cast costs at least **1 Exposure**. A harmless, instant effect at touching
 
 | Reach or Size | Add |
 | --- | --- |
-| One creature or object your character touches | 1 |
+| Your character, or one creature or object they touch | 1 |
 | A medium room, a handful of people, or a wagon-sized object | 2 |
 | Across a field, a building, a street, or a field of targets | 3 |
 | Barely in sight or beyond it | 4 |
@@ -130,9 +133,9 @@ Use the highest Reach or Size cost. Do not add reach and size together. For a tr
 | Force and Effect | Add |
 | --- | --- |
 | A change without forceful impact, such as a spark, transformation, invisibility, or gentle floating | 0 |
-| A firm shove, deal 1 damage, or restore 1 Harm | 1 |
-| A hard throw, deal 2 damage, or restore 2 Harm | 2 |
-| A crushing impact, deal 3 damage, restore 3 Harm, or heal one Scar | 3 |
+| A firm shove, deal 1 damage, or restore 1 Health | 1 |
+| A hard throw, deal 2 damage, or restore 2 Health | 2 |
+| A crushing impact, deal 3 damage, restore 3 Health, or heal one Scar | 3 |
 
 | Duration | Add |
 | --- | --- |
@@ -145,9 +148,15 @@ Use the highest Reach or Size cost. Do not add reach and size together. For a tr
 
 Magical damage is the amount bought with Exposure. It is not doubled or tripled by the casting result.
 
+Magical damage and healing use the same Force and Effect costs. One tears the body down. The other puts it back together.
+
+For scrying, mind reading, and other information magic, Reach is how far away the subject is and Duration is how long the character observes. If the spell only gathers information, its Force and Effect is 0. Discovery, misleading visions, or the subject sensing the intrusion may still be consequences when they fit.
+
 Casting effects end when their paid Duration expires. A portal closes, a transformed person returns to their previous form, invisibility ends, and a flying boat comes back down.
 
-Damage and healing are instant and remain afterward. Magic may start a fire, but the fire continues only while it has fuel.
+Damage and healing normally happen instantly and remain afterward. A healing zone includes its Reach or Size, the Health it restores, and its Duration. Each character can benefit from the zone once per cast.
+
+Magic may start a fire, but the fire continues only while it has fuel.
 
 ## Exposure and Mutation
 
@@ -167,6 +176,7 @@ A relic:
 - Holds up to **6 Exposure**.
 - Takes an undisturbed hour to create or refill.
 - Has one magical function chosen when it is created.
+- Can be created or refilled once per Arcanist per in-game day.
 
 During that hour, choose how much Exposure to transfer, up to the relic's capacity. Subtract it from the character's current Exposure and record it in the relic.
 
@@ -174,7 +184,9 @@ Anyone who can operate the relic can activate it. Choose the reach or size, forc
 
 The relic cannot produce an activation that costs more Exposure than it currently holds. At zero Exposure, it is an ordinary object until an Arcanist refills it.
 
-This is why powerful Arcanists leave so many relics behind. They cannot keep all their Exposure in their bodies, and they cannot carry every object they fill.
+An Arcanist may instead create an inert vessel, such as a soul jar, that stores Exposure but has no magical function. It follows all the other relic rules.
+
+Relics can be traded or sold like other valuable objects.
 
 ## Inventory and conditions
 
@@ -228,7 +240,7 @@ Weapons deal damage based on their size and weight:
 
 Apply damage added by a Perk before doubling or tripling the attack.
 
-Armor reduces incoming damage. Worn armor and shields stack to a maximum of **3 Armor**, although Legendary creatures may have more.
+Armor reduces incoming damage. Worn armor and shields stack to a maximum of **3 Armor**, although Mythic creatures may have more.
 
 When your character takes damage, subtract their Armor. If the damage exceeds the Armor, apply the remaining damage and the Armor breaks. If the damage does not exceed the Armor, apply no damage and leave the Armor intact.
 
@@ -248,21 +260,30 @@ Use the enemy's Threat from [[Monsters]]. The GM rolls **2d6 plus Threat**.
 
 A crowd attacking one target rolls once, using its highest Threat and best single damage. Its numbers can still block exits, surround a character, or create other complications.
 
-## Harm, Scars, and recovery
+## Health, Scars, and recovery
 
-Subtract damage from your character's current Harm. Their Archetype sets the maximum. Harm cannot fall below zero.
+Subtract damage from your character's current Health. Their Archetype sets the maximum. Health cannot fall below zero.
 
-When a hit brings the character to zero Harm, mark one Scar. Each damaging hit taken at zero Harm causes another Scar. A single hit causes only one Scar, regardless of excess damage.
+When a hit brings the character to zero Health, mark one Scar. Each damaging hit taken at zero Health causes another Scar. A single hit causes only one Scar, regardless of excess damage.
 
-Each Scar occupies an inventory slot until removed. Healing Harm does not remove Scars.
+Each Scar occupies an inventory slot until removed. Restoring Health does not remove Scars.
 
 ### Healing
 
-- **Catch their breath:** Spend the character's action and roll 1d6. Restore that much Harm. They cannot do this while Fatigued.
-- **A couple of quiet hours:** Roll 2d6 and restore that much Harm if the character has no Fatigue.
-- **A full night's rest:** Remove one Fatigue. If none remains afterward, restore all Harm.
+- **A couple of quiet hours:** Roll 2d6 and restore that much Health if the character has no Fatigue.
+- **A full night's rest:** Remove one Fatigue. If none remains afterward, restore all Health.
 
-Harm cannot exceed the character's maximum. Fatigue prevents all Harm recovery, including magical healing.
+To catch their breath, spend the character's action and roll **2d6 plus Willpower**. They cannot do this while Fatigued.
+
+| Total | Result |
+| --- | --- |
+| 6 or less | Restore no Health. The situation gets worse. After resolving the failure, gain 1 Luck. |
+| 7 to 9 | Restore 1 Health. |
+| 10 or greater | Restore 2 Health. |
+| Double 1s | Restore no Health and resolve a Tragic failure. |
+| Double 6s | Restore 3 Health. On the character's next turn, roll 3d6 and keep the highest two for their first roll. |
+
+Health cannot exceed the character's maximum. Fatigue prevents all Health recovery, including magical healing.
 
 Removing a Scar requires magic or about a week of care from a healer. Removing it frees its inventory slot.
 

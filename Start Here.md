@@ -23,9 +23,9 @@ As a GM, I like to play to find out and leave room for freeform play. I want sim
 
 **Start here:** [[Core Rules|Read the core rules]] or [[Character Creation|make a character]].
 
-**Downloads:** [[The Arcane Resonance Rules.pdf|Rules PDF]] · [[Character sheet v4.png|Character sheet]]
+**Downloads:** [[files/The Arcane Aether Rules v4.6 draft.pdf|Latest rules PDF]] · [[files/Character sheet v4.6.png|Character sheet]]
 
-## Where the magic items come from
+## Origin of magic relics
 
 Why are there so many magic items? Why do the people capable of making them keep leaving them in tombs, shops, and holes in the ground?
 
@@ -37,7 +37,7 @@ Every relic came from someone with a problem. That was the idea I wanted to expl
 
 ### Magic is a conversation, not a list
 
-There is no spell list. A player says what they want their character's magic to do. The GM prices its reach, force, and duration, then the player decides if the effect is worth the Exposure.
+There is no spell list. A player says what they want their character's magic to do and prices its reach, force, and duration. The GM confirms or adjusts the cost, then the player decides if the effect is worth the Exposure.
 
 You do not need to predict every possible spell. You just need to understand what the player is asking for and make the Exposure cost clear.
 
@@ -51,13 +51,14 @@ Players can spend that Luck to improve their characters, help one another, or pl
 
 A monster needs four numbers and answers to two questions: what does it want, and what is its weakness?
 
-I also like using randomness when I do not already know the answer. Monster tiers are numbered 1 to 6, so you can roll a d6 and let the dice decide how dangerous the next thing is. A little randomness can push the story somewhere none of us planned.
+Monster tiers are numbered 1 to 6. When I do not know how dangerous something should be, I roll a d6 and let the dice decide. A little randomness can push the story somewhere none of us planned.
 
 I do not think every encounter needs to be balanced. Tell the players what their characters can see, let them decide what risks to take, and follow the consequences. The monster's Desire also leaves room for a bargain when another attack roll would be less interesting.
 
-**Example: Goblin, Tier 1 Mook**
+**Example: Tier 1, Goblin, Pest**
 
-**Threat:** -1 | **Damage:** 1 | **Harm:** 3 | **Armor:** 0
+**Threat:** -1 | **Damage:** 1 | **Health:** 3 | **Armor:** 0
+
 - **Attacks:** Rusty knife, rocks, biting.
 - **Weakness:** Bright light drives them back.
 - **Desire:** Something shiny, and to see tomorrow.
@@ -66,11 +67,11 @@ I do not think every encounter needs to be balanced. Tell the players what their
 
 Not everything needs a roll. Let the silly ideas move the story. Maybe a character knows how to speak Orc because they once spent a summer in an Orc camp pretending to be a baby Orc's doll, that sounds good to me.
 
-
 ## Explore the game
 
 - [[Core Rules|Core rules]] contains the complete engine.
 - [[Character Creation|Character creation]] gets an Arcanist ready for play.
+- [[Key Ideas|Game Master guidance]] explores the relic economy, collaborative magic, and how the world responds to Arcanists.
 - [[Monsters]] explains how to build and run opposition.
 - The [[Bestiary]] contains worked examples.
 - [[Key Terms]] defines the game's recurring language.
@@ -85,6 +86,4 @@ Version 4.5 is the current working ruleset. This is a work in progress and needs
 
 ## Character sheet
 
-[[Character sheet v4.png|Open or download the full-size character sheet.]]
-
-![[Character sheet v4.png]]
+![[Character sheet v4.6.png]]

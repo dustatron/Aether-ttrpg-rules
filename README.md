@@ -20,3 +20,21 @@ npm run site:preview
 ```
 
 Open <http://localhost:8080/>. Pushes to `main` automatically rebuild and deploy the public website.
+
+## PDF rulebook
+
+The Version 4.6 full-book draft lives in `rulebook/`. It is built from the vault's Markdown with Quarto and Typst. The generated book is separate from the Quartz website.
+
+```sh
+cd rulebook
+./scripts/install-quarto.sh
+npm run build
+```
+
+The finished PDF is written to:
+
+```text
+rulebook/output/pdf/the-arcane-aether-v4.6-draft.pdf
+```
+
+Edit `rulebook/book.json` to change chapter order or included notes. Edit `rulebook/theme.typ` to change print styling. Do not edit files under `rulebook/build/`; they are regenerated from the vault.

@@ -1,0 +1,10 @@
+{
+  "name": "arcane-aether-rulebook",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare": "node scripts/prepare.mjs",
+    "build": "./scripts/build.sh"
+  }
+}
+

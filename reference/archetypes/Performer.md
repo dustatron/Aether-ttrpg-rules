@@ -10,9 +10,9 @@ canonical: true
 
 Lived by fast talk and knowing everyone worth knowing.
 
-**Stats:** Strength -1, Dexterity +1, Willpower 0, Charm +2
-
-**Maximum Harm:** 6
+| Strength | Dexterity | Willpower | Charm | Health |
+| :---: | :---: | :---: | :---: | :---: |
+| -1 | +1 | 0 | +2 | 6 |
 
 ## Gear
 
@@ -22,10 +22,6 @@ Lived by fast talk and knowing everyone worth knowing.
 - Padded coat, Armor 1
 - Torch
 - 3 rations
-
-## Perks
-
-Roll 1d6 or pick one.
 
 | d6 | Perk |
 | --- | --- |
