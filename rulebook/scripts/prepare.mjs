@@ -196,7 +196,7 @@ function formatArchetypeGear(markdown) {
   return lines.join("\n")
 }
 
-function wrapStatsTable(markdown) {
+function formatArchetypeStats(markdown) {
   const lines = markdown.split(/\r?\n/)
   const headerIndex = lines.findIndex((line) => /^\|\s*Strength\s*\|/.test(line))
   if (headerIndex === -1) return markdown
@@ -204,13 +204,20 @@ function wrapStatsTable(markdown) {
   let endIndex = headerIndex + 2
   while (endIndex < lines.length && /^\|/.test(lines[endIndex])) endIndex += 1
 
-  const table = lines.slice(headerIndex, endIndex)
+  const values = lines[headerIndex + 2]
+    .split("|")
+    .slice(1, -1)
+    .map((value) => value.trim())
+
+  if (values.length !== 5) return markdown
+
+  const typstValues = values.map((value) => `[${value}]`).join(", ")
   lines.splice(
     headerIndex,
     endIndex - headerIndex,
-    "::: {.stats-table-block}",
-    ...table,
-    ":::",
+    "```{=typst}",
+    `#archetype-stats(${typstValues})`,
+    "```",
   )
   return lines.join("\n")
 }
@@ -295,7 +302,7 @@ async function loadNote(entry) {
 
   if (entry.path.startsWith("reference/archetypes/")) {
     markdown = formatArchetypeGear(markdown)
-    markdown = wrapStatsTable(markdown)
+    markdown = formatArchetypeStats(markdown)
   }
 
   const demotion = entry.hideTitle ? 1 : 2
@@ -345,8 +352,8 @@ format:
     columns: 2
     column-gutter: 0.28in
     fontsize: 9.8pt
-    mainfont: "Futura"
-    sansfont: "Futura"
+    mainfont: "Barlow"
+    sansfont: "Barlow"
     toc: false
     filters:
       - ../filters/custom-blocks.lua
@@ -360,9 +367,9 @@ format:
 #align(center + horizon)[
   #block(width: 100%, inset: 30pt, stroke: 1.2pt + arcane, radius: 4pt)[
     #align(center)[
-      #text(font: "Futura", size: 12pt, weight: "medium", tracking: 0.18em, fill: gold)[THE]
+      #text(font: "Barlow", size: 12pt, weight: "medium", tracking: 0.18em, fill: gold)[THE]
       #v(8pt)
-      #text(font: "Futura", size: 34pt, weight: "bold", fill: arcane)[ARCANE AETHER]
+      #text(font: "Barlow", size: 34pt, weight: "bold", fill: arcane)[ARCANE AETHER]
       #v(14pt)
       #line(length: 46%, stroke: 1pt + gold)
       #v(14pt)

@@ -35,23 +35,21 @@ Every relic came from someone with a problem. That was the idea I wanted to expl
 
 ## What makes it different
 
-### Magic is a conversation, not a list
-
 There is no spell list. A player says what they want their character's magic to do and prices its reach, force, and duration. The GM confirms or adjusts the cost, then the player decides if the effect is worth the Exposure.
 
 You do not need to predict every possible spell. You just need to understand what the player is asking for and make the Exposure cost clear.
 
-### Characters advance through their choices
+### Advance by trying in play
 
 I want character progression to happen while everyone is playing, not as a separate downtime step or paperwork after the game. Characters gain Luck when things go badly and when they complete their goals.
 
-Players can spend that Luck to improve their characters, help one another, or play out a flashback that changes the present. Casting can also teach new Spell Tags, but it slowly fills the character's inventory with permanent Mutations.
+Players can spend that Luck to improve their character’s stats, help one another, or play out a flashback scene that changes the present scene. Players learn to be better at casting by attempting to cast, but at the cost of slowly collecting mutations that fill up their limited inventory. It should be clear that all obstacles in this game are solvable through magic and teamwork.
 
 ### Monsters should be easy to run
 
 A monster needs four numbers and answers to two questions: what does it want, and what is its weakness?
 
-Monster tiers are numbered 1 to 6. When I do not know how dangerous something should be, I roll a d6 and let the dice decide. A little randomness can push the story somewhere none of us planned.
+Monster tiers are numbered 1 to 6. When I do not want to decide how dangerous something should be, I let the dice decide.
 
 I do not think every encounter needs to be balanced. Tell the players what their characters can see, let them decide what risks to take, and follow the consequences. The monster's Desire also leaves room for a bargain when another attack roll would be less interesting.
 
@@ -82,7 +80,7 @@ The rules are short enough to read in one sitting. Current design work is tracke
 
 ## Current draft
 
-Version 4.5 is the current working ruleset. This is a work in progress and needs a lot more play testing.
+Version 4.6 is the current working ruleset. This is a work in progress and needs a lot more play testing.
 
 ## Character sheet
 

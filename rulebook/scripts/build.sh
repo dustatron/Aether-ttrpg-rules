@@ -21,8 +21,7 @@ else
 fi
 
 OUTPUT_NAME=$(node -e 'const b=require("./book.json"); process.stdout.write(b.output)')
-"$QUARTO" render build/book.qmd --output "$OUTPUT_NAME"
+TYPST_FONT_PATHS="$PROJECT_DIR/assets/fonts" "$QUARTO" render build/book.qmd --output "$OUTPUT_NAME"
 mv "$PROJECT_DIR/$OUTPUT_NAME" "$PROJECT_DIR/output/pdf/$OUTPUT_NAME"
 
 echo "Created $PROJECT_DIR/output/pdf/$OUTPUT_NAME"
-

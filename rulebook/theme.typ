@@ -136,21 +136,24 @@
 #let archetype-block(body) = block(
   width: 100%,
   breakable: false,
-  stroke: 1.5pt + gold,
+  stroke: 1.4pt + black,
   radius: 0pt,
   inset: 4pt,
-  above: 12pt,
-  below: 7pt,
+  above: 8pt,
+  below: 5pt,
 )[
-  #set text(size: 9.1pt)
-  #set par(leading: 0.56em, spacing: 0.5em)
+  #set text(size: 8.4pt, fill: black)
+  #set par(leading: 0.52em, spacing: 0.38em)
   #set table(
-    inset: (x: 3pt, y: 2.5pt),
-    stroke: 0.65pt + gold,
+    inset: (x: 3pt, y: 1.7pt),
+    stroke: (x, y) => (
+      right: if x == 0 { 0.65pt + black } else { none },
+      bottom: if y < 6 { 0.65pt + black } else { none },
+    ),
     fill: (_, y) => if y == 0 {
-      table-head
+      black
     } else if calc.rem(y, 2) == 0 {
-      row-blue
+      rgb("#eeeeee")
     } else {
       white
     },
@@ -158,27 +161,65 @@
   #show heading.where(level: 2): it => block(
     width: 100%,
     above: 0pt,
-    below: 0.45em,
+    below: 0.3em,
     breakable: false,
     inset: (x: 0pt, y: 0pt),
   )[
-    #align(center)[#text(size: 19pt, weight: "bold", fill: gold)[#it.body]]
-    #v(-8pt)
-    #line(length: 100%, stroke: 3.5pt + gold)
+    #align(center)[#text(size: 20pt, weight: "bold", fill: black)[#it.body]]
+    #v(-5pt)
+    #line(length: 100%, stroke: 1.4pt + rgb("#b8b8b8"))
   ]
   #body
 ]
 
+#let archetype-stats(strength, dexterity, willpower, charm, health) = block(
+  width: 100%,
+  breakable: false,
+  below: 1pt,
+)[
+  #grid(
+    columns: (1fr, 1fr, 1fr, 1fr),
+    column-gutter: 8pt,
+    align: center,
+    [#box(width: 100%, fill: black, radius: 2pt, inset: (x: 3pt, y: 2.2pt))[
+      #align(center)[#text(size: 7pt, weight: "bold", fill: white)[Strength]]
+    ]
+    #align(center)[#text(size: 9pt, weight: "bold")[#strength]]],
+    [#box(width: 100%, fill: black, radius: 2pt, inset: (x: 3pt, y: 2.2pt))[
+      #align(center)[#text(size: 7pt, weight: "bold", fill: white)[Dexterity]]
+    ]
+    #align(center)[#text(size: 9pt, weight: "bold")[#dexterity]]],
+    [#box(width: 100%, fill: black, radius: 2pt, inset: (x: 3pt, y: 2.2pt))[
+      #align(center)[#text(size: 7pt, weight: "bold", fill: white)[Willpower]]
+    ]
+    #align(center)[#text(size: 9pt, weight: "bold")[#willpower]]],
+    [#box(width: 100%, fill: black, radius: 2pt, inset: (x: 3pt, y: 2.2pt))[
+      #align(center)[#text(size: 7pt, weight: "bold", fill: white)[Charm]]
+    ]
+    #align(center)[#text(size: 9pt, weight: "bold")[#charm]]],
+  )
+  #v(-2pt)
+  #grid(
+    columns: (1fr, auto),
+    align: (left, right),
+    text(size: 11pt, weight: "bold")[Starting Health],
+    text(size: 14pt, weight: "bold")[#health],
+  )
+  #v(2pt)
+  #line(length: 100%, stroke: 2pt + black)
+]
+
 #let gear-label(..items) = block(width: 100%, breakable: false)[
-  #block(width: 100%, fill: arcane, inset: (x: 3pt, y: 2.15pt))[
-    #text(size: 8.8pt, weight: "bold", fill: white)[Gear]
+  #v(3pt)
+  #block(width: 100%, inset: (x: 7pt, y: 0pt))[
+    #text(size: 9.5pt, weight: 600, style: "italic")[Starting Gear]
   ]
   #for item in items.pos() {
     block(
       width: 100%,
-      inset: (x: 6pt, y: 2.15pt),
-      stroke: (bottom: 0.65pt + gold),
-    )[#item]
+      inset: (x: 7pt, y: 1.7pt),
+      stroke: (bottom: 0.75pt + black),
+    )[#text(size: 8.6pt, style: "italic")[#item]]
   }
 ]
 

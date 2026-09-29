@@ -28,8 +28,8 @@
         { "path": "reference/archetypes/Hunter.md" },
         { "path": "reference/archetypes/Thief.md" },
         { "path": "reference/archetypes/Performer.md" },
-        { "path": "reference/archetypes/Monk.md" },
-        { "path": "reference/archetypes/Fighter.md", "pageBreakBefore": true },
+        { "path": "reference/archetypes/Monk.md", "pageBreakBefore": true },
+        { "path": "reference/archetypes/Fighter.md" },
         { "path": "reference/archetypes/Witch.md" }
       ]
     },
