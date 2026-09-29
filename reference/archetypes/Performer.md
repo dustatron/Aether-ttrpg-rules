@@ -21,13 +21,13 @@ Lived by fast talk and knowing everyone worth knowing.
 - A ring of stolen keys
 - Padded coat, Armor 1
 - Torch
-- 3 rations
+- Rations x3
 
-| d6 | Perk |
-| --- | --- |
-| 1 | Once a day, declare that your character knows someone who can help. |
-| 2 | Once a day, give advantage to any roll. Roll 3d6 and keep the highest two. |
-| 3 | Strangers assume your character belongs here until given a reason to doubt it. |
-| 4 | Once a session, name someone who owes your character a favor. They do. |
-| 5 | Once a day, your character can make someone believe a lie even when they know better. |
-| 6 | Increase one Stat by 1, to a maximum of +3. |
+| d6  | Perk                                                                           |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | Once a day, declare that your character knows someone who can help.            |
+| 2   | Once a day, give advantage to any roll.                                        |
+| 3   | Strangers assume your character belongs here until given a reason to doubt it. |
+| 4   | Once a session, name someone who owes your character a favor. They do.         |
+| 5   | Once a day, your character knows the perfect song for this moment.             |
+| 6   | Increase one Stat by 1, to a maximum of +3.                                    |

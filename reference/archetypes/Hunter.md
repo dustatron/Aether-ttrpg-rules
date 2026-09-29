@@ -19,15 +19,16 @@ Tracked Arcanists for coin, then woke up as one.
 - Short sword, 2 damage
 - Crossbow, 2 damage
 - Manacles
-- Iron spikes and a mallet
-- 3 rations
+- Iron spikes
+- Big hammer, 1 damage
+- Rations x3
 - Chainmail, Armor 1
 
-| d6  | Perk                                                                                               |
-| --- | -------------------------------------------------------------------------------------------------- |
-| 1   | Your character can recognize an Arcanist by looking at them.                                       |
-| 2   | Add Dexterity to damage with a bow or crossbow.                                                    |
-| 3   | --                                                                                                 |
-| 4   | Your character's manacles hold an Arcanist still. They cannot cast until the manacles are removed. |
-| 5   | --                                                                                                 |
-| 6   | Increase one Stat by 1, to a maximum of +3.                                                        |
+| d6  | Perk                                             |
+| --- | ------------------------------------------------ |
+| 1   | Roll with advantage when following tracks.       |
+| 2   | Add Dexterity to damage with a bow or crossbow.  |
+| 3   | Roll with advantage when telling if someone is lying. |
+| 4   | Your character can travel without leaving a trail.    |
+| 5   | Your character is an expert at barbecuing meat.       |
+| 6   | Increase one Stat by 1, to a maximum of +3.      |

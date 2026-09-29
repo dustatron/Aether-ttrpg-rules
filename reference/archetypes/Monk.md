@@ -19,15 +19,15 @@ Studied the ancient arts and honed their body into a weapon.
 - Walking staff, 2 damage
 - Bandages and salves, 3 uses, restore 1d6 Health
 - 60 feet of knotted rope
-- Throwing stars
+- Throwing stars x4
 - Torch
-- 3 rations
+- Rations x3
 
 | d6  | Perk                                                                        |
 | --- | --------------------------------------------------------------------------- |
 | 1   | Add Strength to damage with unarmed strikes.                                |
 | 2   | Gain +1 Armor while your character can move freely.                         |
 | 3   | Your character can leap 20 feet and perch on anything that will hold a toe. |
-| 4   | --                                                                          |
+| 4   | Your character can enchant creatures and people with music.                 |
 | 5   | No fall hurts your character if they can see it coming.                     |
 | 6   | Increase one Stat by 1, to a maximum of +3.                                 |
