@@ -15,7 +15,7 @@ source: The Arcane Aether Rules v4.5.rtf
 - **Weakness:** Bright light drives them back.
 - **Desire:** Something shiny, and to see tomorrow.
 
-## Tier 2, Bear, Minion
+## Bear, Minion
 #### Tier 2
 **Threat:** 0 | **Damage:** 2 | **Health:** 5 | **Armor:** 1
 - **Attacks:** Bite, swipe, bull rush.

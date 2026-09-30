@@ -52,10 +52,10 @@ startHere = removeSection(startHere, "Explore the game")
 startHere = removeSection(startHere, "Current draft")
 startHere = removeSection(startHere, "Character sheet")
 
-let characterCreation = await loadNote("Character Creation.md")
+let characterCreation = await loadNote("Rules/Character Creation.md")
 characterCreation = removeSection(characterCreation, "Character sheet")
 
-const coreRules = await loadNote("Core Rules.md")
+const coreRules = await loadNote("Rules/Core Rules.md")
 const coreExcerpt = `# Core Rules\n\n${sectionRange(coreRules, "The dice", "Magical casting")}`
 
 const source = `---

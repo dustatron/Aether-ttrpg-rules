@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-bestiary="reference/Bestiary.md"
+bestiary="Rules/Bestiary.md"
 
 check_count() {
   local expected="$1"
@@ -17,7 +17,8 @@ check_count() {
   fi
 }
 
-check_count 6 '^## Tier [1-6], .+, .+$' 'monster heading'
+check_count 6 '^## (Tier [1-6], )?.+, .+$' 'monster heading'
+check_count 6 '^#### Tier [1-6][[:space:]]*$' 'tier heading'
 check_count 6 '^\*\*Threat:\*\* [-+0-9]+ \| \*\*Damage:\*\* [0-9]+ \| \*\*Health:\*\* [0-9]+ \| \*\*Armor:\*\* [0-9]+$' 'stat'
 check_count 6 '^- \*\*Attacks:\*\* ' 'Attacks'
 check_count 1 '^- \*\*Casts:\*\* ' 'Casts'

@@ -255,11 +255,11 @@ async function loadNote(entry) {
   markdown = translateObsidian(markdown)
   markdown = translateCallouts(markdown)
 
-  if (entry.path === "reference/Monsters.md") {
+  if (entry.path === "Rules/Monsters.md") {
     markdown = compactMonsterTierTable(markdown)
   }
 
-  if (entry.path === "reference/Bestiary.md") {
+  if (entry.path === "Rules/Bestiary.md") {
     markdown = boxBestiaryEntries(markdown)
   }
 
@@ -273,14 +273,14 @@ async function loadNote(entry) {
     markdown = removeSection(markdown, "Character sheet")
   }
 
-  if (entry.path === "reference/Key Ideas.md") {
+  if (entry.path === "Rules/Key Ideas.md") {
     markdown = markdown.replace(
       /^These ideas shape the game even when the rules do not say them outright\.\s*$/m,
       "",
     )
   }
 
-  if (entry.path === "Character Creation.md") {
+  if (entry.path === "Rules/Character Creation.md") {
     markdown = removeSection(markdown, "Character sheet")
     markdown = markdown.replace(
       /^## Step 4: Choose how changed they are$/m,
@@ -295,7 +295,7 @@ async function loadNote(entry) {
     )
   }
 
-  if (entry.path === "Core Rules.md") {
+  if (entry.path === "Rules/Core Rules.md") {
     markdown = markdown.replace(
       /^For the premise and reading order, start with Start Here\. To make a character, use Character Creation\.\s*$/m,
       "",
@@ -318,7 +318,7 @@ async function loadNote(entry) {
     markdown = removeFirstHeading(markdown)
   }
 
-  if (entry.path.startsWith("reference/archetypes/")) {
+  if (entry.path.startsWith("Rules/archetypes/")) {
     markdown = formatArchetypeGear(markdown)
     markdown = formatArchetypeStats(markdown)
   }
@@ -326,7 +326,7 @@ async function loadNote(entry) {
   const demotion = entry.hideTitle ? 1 : 2
   const output = demoteHeadings(markdown.trim(), demotion)
 
-  if (entry.path.startsWith("reference/archetypes/")) {
+  if (entry.path.startsWith("Rules/archetypes/")) {
     return `::: {.archetype-block}\n${output}\n:::`
   }
 

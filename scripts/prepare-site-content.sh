@@ -27,11 +27,12 @@ awk '
 ' \
   "Start Here.md" > "$content_dir/index.md"
 
-cp "Core Rules.md" "Character Creation.md" "$content_dir/"
-
 # Only reader-facing sections and their downloadable files enter the generated website.
-for directory in files lore reference tables; do
+for directory in files lore Rules tables; do
   cp -R "$directory" "$content_dir/$directory"
 done
+
+# Research notes are useful inside the vault but are not reader-facing rules.
+rm -rf -- "$content_dir/Rules/resources"
 
 find "$content_dir" -name ".DS_Store" -delete
