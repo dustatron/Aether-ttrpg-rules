@@ -8,34 +8,36 @@ source: The Arcane Aether Rules v4.5.rtf
 ---
 
 # Bestiary
-
-Use the rules and tiers in [[Monsters]].
-
-## Tier 1, Goblin, Pest
+## Goblin, Pest
+#### Tier 1
 **Threat:** -1 | **Damage:** 1 | **Health:** 3 | **Armor:** 0
 - **Attacks:** Rusty knife, rocks, biting.
 - **Weakness:** Bright light drives them back.
 - **Desire:** Something shiny, and to see tomorrow.
 
 ## Tier 2, Bear, Minion
+#### Tier 2
 **Threat:** 0 | **Damage:** 2 | **Health:** 5 | **Armor:** 1
 - **Attacks:** Bite, swipe, bull rush.
 - **Weakness:** Fire, which no animal will face.
 - **Desire:** To be left alone.
 
-## Tier 3, Mummy, Glass Cannon
+## Mummy, Glass Cannon
+#### Tier 3
 **Threat:** +1 | **Damage:** 3 | **Health:** 10 | **Armor:** 0
 - **Attacks:** Grasping hands, choking wrappings.
 - **Weakness:** Fire.
 - **Desire:** To punish whoever opened the door.
 
-## Tier 4, Ooze, Horror
+## Ooze, Horror
+#### Tier 4
 **Threat:** +2 | **Damage:** 3 | **Health:** 15 | **Armor:** 2
 - **Attacks:** Engulf, acid touch, drops from above.
 - **Weakness:** Salt, or high ground.
 - **Desire:** To dissolve and absorb metals.
 
-## Tier 5, The Frayed Man, Boss
+## The Frayed Man, Boss
+#### Tier 5
 Too many joints, a second mouth, something moving under the coat.
 **Threat:** +2 | **Damage:** 4 | **Health:** 20 | **Armor:** 3
 - **Attacks:** Grasping limbs, a crushing grip.
@@ -43,7 +45,8 @@ Too many joints, a second mouth, something moving under the coat.
 - **Weakness:** Hot gossip. He just cannot get enough.
 - **Desire:** To kill Steve.
 
-## Tier 6, The Last Dragon, Mythic
+## The Last Dragon, Mythic
+#### Tier 6
 Ancient, scarred, too large for the ruins it calls home, and remembers every wound.
 **Threat:** +3 | **Damage:** 5 | **Health:** 30 | **Armor:** 5
 - **Attacks:** Crushing jaws, sweeping tail, furnace breath.

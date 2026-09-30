@@ -85,37 +85,63 @@
 #let monster-stats(threat, damage, health, armor) = block(
   width: 100%,
   breakable: false,
-  below: 0.45em,
+  below: 0.75em,
 )[
-  #set text(size: 8pt)
-  #set table(inset: (x: 2pt, y: 2pt), stroke: 0.45pt + rule)
-  #table(
+  #let stat(label, value) = stack(
+    dir: ttb,
+    spacing: 3pt,
+    block(width: 100%, fill: arcane, radius: 3pt, inset: (x: 2pt, y: 3pt))[
+      #align(center)[#text(size: 7.5pt, weight: "medium", fill: white)[#label]]
+    ],
+    align(center)[#text(size: 9pt, weight: "bold", fill: black)[#value]],
+  )
+  #grid(
     columns: (1fr, 1fr, 1fr, 1fr),
-    align: center,
-    [Threat], [Damage], [Health], [Armor],
-    [#strong[#threat]],
-    [#strong[#damage]],
-    [#strong[#health]],
-    [#strong[#armor]],
+    column-gutter: 3pt,
+    stat([Threat], threat),
+    stat([Damage], damage),
+    stat([Health], health),
+    stat([Armor], armor),
   )
 ]
 
-#let monster-card(title, body) = block(
+#let monster-detail(label, value) = block(
+  width: 100%,
+  above: 4pt,
+  below: 4pt,
+)[
+  #grid(
+    columns: (auto, 1fr),
+    column-gutter: 6pt,
+    align(right)[#text(size: 8.2pt, weight: "bold", fill: black)[#label:]],
+    text(size: 8.2pt, fill: black)[#value],
+  )
+]
+
+#let monster-card(name, tier, label, body) = block(
   width: 100%,
   breakable: false,
   fill: paper-soft,
-  stroke: 0.8pt + gold,
-  radius: 4pt,
-  inset: 0pt,
+  stroke: 1.25pt + black,
+  radius: 7pt,
+  inset: (x: 9pt, y: 7pt),
   below: 10pt,
 )[
-  #block(width: 100%, fill: paper, inset: (x: 9pt, y: 6pt))[
-    #text(size: 10.4pt, weight: "bold", fill: arcane)[#title]
-  ]
-  #block(inset: (x: 9pt, y: 8pt))[
-    #set par(leading: 0.58em, spacing: 0.45em)
-    #body
-  ]
+  #grid(
+    columns: (1fr, auto),
+    column-gutter: 8pt,
+    align: (left + bottom, right + bottom),
+    text(size: 19pt, weight: "bold", fill: arcane)[#name],
+    align(right)[
+      #text(size: 12pt, weight: "bold", fill: black)[Tier #tier]
+      #linebreak()
+      #text(size: 9pt, fill: black)[#label]
+    ],
+  )
+  #v(4pt)
+  #set par(leading: 0.54em, spacing: 0.35em)
+  #set text(size: 8.2pt, fill: black)
+  #body
 ]
 
 #let prompt-card(title, body) = block(

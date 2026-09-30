@@ -75,14 +75,26 @@ function boxBestiaryEntries(markdown) {
     .filter(Boolean)
     .map((entry, index) => {
       const lines = entry.trim().split(/\r?\n/)
-      const title = lines.shift().replace(/^##\s+/, "").trim()
+      const rawTitle = lines.shift().replace(/^##\s+/, "").trim()
+      const tierLineIndex = lines.findIndex((line) => /^####\s+Tier\s+\d+\s*$/.test(line))
+      const tierMatch = tierLineIndex === -1
+        ? rawTitle.match(/^Tier\s+(\d+),\s*/)
+        : lines[tierLineIndex].match(/^####\s+Tier\s+(\d+)\s*$/)
+      const tier = tierMatch?.[1] ?? "?"
+
+      if (tierLineIndex !== -1) lines.splice(tierLineIndex, 1)
+
+      const title = rawTitle.replace(/^Tier\s+\d+,\s*/, "")
+      const titleParts = title.split(",").map((part) => part.trim())
+      const label = titleParts.pop() ?? ""
+      const name = titleParts.join(", ")
       const bodyLines = []
 
       for (const line of lines) {
         const stats = line.match(
           /^\*\*Threat:\*\*\s*(.*?)\s*\|\s*\*\*Damage:\*\*\s*(.*?)\s*\|\s*\*\*Health:\*\*\s*(.*?)\s*\|\s*\*\*Armor:\*\*\s*(.*?)\s*$/,
         )
-        const isDetail = /^- \*\*(Attacks|Casts|Weakness|Desire):\*\*/.test(line)
+        const detail = line.match(/^- \*\*(Attacks|Casts|Weakness|Desire):\*\*\s*(.*)$/)
         const previous = bodyLines.at(-1) ?? ""
 
         if (stats) {
@@ -95,8 +107,14 @@ function boxBestiaryEntries(markdown) {
           continue
         }
 
-        if (isDetail && !previous.startsWith("- ") && previous.trim()) {
-          bodyLines.push("")
+        if (detail) {
+          if (previous.trim()) bodyLines.push("")
+          bodyLines.push(
+            "```{=typst}",
+            `#monster-detail([${detail[1]}], [${detail[2]}])`,
+            "```",
+          )
+          continue
         }
 
         bodyLines.push(line)
@@ -106,7 +124,7 @@ function boxBestiaryEntries(markdown) {
       const columnBreak = index === 3
         ? "```{=typst}\n#colbreak()\n```\n\n"
         : ""
-      return `${columnBreak}::: {.monster-card title="${title.replaceAll('"', "&quot;")}"}\n${body}\n:::`
+      return `${columnBreak}::: {.monster-card name="${name.replaceAll('"', "&quot;")}" tier="${tier}" label="${label.replaceAll('"', "&quot;")}"}\n${body}\n:::`
     })
 
   return `${introduction}\n\n${entries.join("\n\n")}`

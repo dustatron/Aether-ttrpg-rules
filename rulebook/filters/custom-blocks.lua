@@ -18,7 +18,18 @@ end
 
 function Div(div)
   if div.classes:includes("monster-card") then
-    return wrap_div(div, "monster-card")
+    local name = typst_text(div.attributes.name or "")
+    local tier = typst_text(div.attributes.tier or "")
+    local label = typst_text(div.attributes.label or "")
+    local blocks = pandoc.List({
+      pandoc.RawBlock(
+        "typst",
+        "#monster-card([" .. name .. "], [" .. tier .. "], [" .. label .. "])["
+      ),
+    })
+    blocks:extend(div.content)
+    blocks:insert(pandoc.RawBlock("typst", "]"))
+    return blocks
   end
 
   if div.classes:includes("prompt-card") then
