@@ -23,5 +23,7 @@ fi
 OUTPUT_NAME=$(node -e 'const b=require("./book.json"); process.stdout.write(b.output)')
 TYPST_FONT_PATHS="$PROJECT_DIR/assets/fonts" "$QUARTO" render build/book.qmd --output "$OUTPUT_NAME"
 mv "$PROJECT_DIR/$OUTPUT_NAME" "$PROJECT_DIR/output/pdf/$OUTPUT_NAME"
+cp "$PROJECT_DIR/output/pdf/$OUTPUT_NAME" "$PROJECT_DIR/../files/The Arcane Aether Rules v4.6 draft.pdf"
 
 echo "Created $PROJECT_DIR/output/pdf/$OUTPUT_NAME"
+echo "Updated $PROJECT_DIR/../files/The Arcane Aether Rules v4.6 draft.pdf"

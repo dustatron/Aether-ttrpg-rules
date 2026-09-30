@@ -32,6 +32,11 @@ for directory in files lore Rules tables; do
   cp -R "$directory" "$content_dir/$directory"
 done
 
+# Always publish the current generated rulebook, even if the vault download copy is stale.
+cp \
+  "rulebook/output/pdf/the-arcane-aether-v4.6-draft.pdf" \
+  "$content_dir/files/The Arcane Aether Rules v4.6 draft.pdf"
+
 # Research notes are useful inside the vault but are not reader-facing rules.
 rm -rf -- "$content_dir/Rules/resources"
 
