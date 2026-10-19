@@ -9,41 +9,42 @@ canonical: true
 
 # Wild Magic
 
-| d66 | Wild Magic |
-| --- | --- |
-| 11 | Wild lights fill the sky. |
-| 12 | Every small object nearby turns faintly sticky. |
-| 13 | Everyone nearby grows three feet of hair. |
-| 14 | Every nearby animal can speak for the rest of the scene. |
-| 15 | The character's shadow detaches and acts on its own. |
-| 16 | Every nearby liquid turns to jelly. |
-| 21 | Everyone nearby swaps voices with the person to their left. |
-| 22 | People nearby grow antlers. |
-| 23 | Rain falls upward for 1d6 minutes. |
-| 24 | The character's voice comes from the nearest closed container for the next day. |
-| 25 | A nearby object becomes intelligent, talkative, and deeply opinionated. |
-| 26 | Every nearby flame floats like a balloon until extinguished. |
-| 31 | Nearby people become dogs for the rest of the scene. |
-| 32 | The area has moon gravity for the rest of the scene. |
-| 33 | Down becomes the direction the character faces for the rest of the scene. |
-| 34 | Everyone nearby shrinks to mouse size for 1d6 hours. |
-| 35 | Every nearby reflection steps out and walks away. |
-| 36 | Every nearby door opens to the same unfamiliar room for the rest of the scene. |
-| 41 | Nearby writing rearranges to reveal a secret about whoever reads it. |
-| 42 | Everyone nearby becomes transparent except for their bones for the next day. |
-| 43 | Nearby metal softens like clay for 1d6 hours. |
-| 44 | Weather from another season fills the area for 1d6 hours. |
-| 45 | The nearest dead creature wakes for one minute and demands an answer to its question. |
-| 46 | The last ten seconds repeat 1d6 times. Everyone remembers each loop. |
-| 51 | Every nonliving thing nearby turns to sand. |
-| 52 | Total darkness fills the area for 1d6 months. |
-| 53 | A tear opens in the air. Something beyond sees and remembers the character. |
-| 54 | Everyone nearby ages 2d10 years. |
-| 55 | Plants erupt from every crack, splitting roads, walls, and foundations as they consume the area. |
-| 56 | A pillar of raw Aether erupts from the character, hurting and exposing everyone nearby. Survivors may become Arcanists. |
-| 61 | The surrounding area becomes dead land. Plants die, water spoils, and nothing grows there. |
-| 62 | A portal to a void dimension tears open and stays open. Something beyond notices. |
-| 63 | Gravity reverses across the area permanently. Anything unanchored falls into the sky. |
-| 64 | Every living thing in the area Mutates once, including the character. |
-| 65 | The entire area is torn from the world and dropped somewhere impossible. |
-| 66 | A hole opens in reality and spreads. Its edge erases anything it touches. It will not close on its own. |
+| d66 | Wild Magic                                                                                                                                                                                                                                                                                  |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11  | Wild lights fill the sky.                                                                                                                                                                                                                                                                   |
+| 12  | Every is covered in sticky green slime.                                                                                                                                                                                                                                                     |
+| 13  | Total darkness covered the play area for 1d6 days.                                                                                                                                                                                                                                          |
+| 14  | Inanimate objects come to life. Roll d6: 1. They are all singing a childish song, 2. Screaming because nothing makes sense, 3. Thinks the first largish creature they see is their mommy, 4. All singing different songs… badly, 5. Scary laughing, 6. Projectile committing… everywhere    |
+| 15  | Everyone is teleported to a small bathroom of, Roll d6: 1. a castle during a wedding, 2. a clown performance at a low rent circus, 3. a den of crime during a raid, 4. a kids birthday party where no one showed up, 5. a keep on a mountain peak deep in the north, 6. a closed art museum |
+| 16  | Tiny flying fairies emerge and shoot stinging blasts of energy at everyone.                                                                                                                                                                                                                 |
+| 21  | The whole region is cast into a permanent Snowy winter.                                                                                                                                                                                                                                     |
+| 22  | Flash flood rolls through the area. Wiping out buildings and changing the landscape.                                                                                                                                                                                                        |
+| 23  | Gravity loses its grip, it’s like walking on the moon.                                                                                                                                                                                                                                      |
+| 24  | The wondering magical merchant appears with strange things to sell. Will take your soul as payment. Harming him is a bad idea.                                                                                                                                                              |
+| 25  | Everyone you can see grows a tail                                                                                                                                                                                                                                                           |
+| 26  | Everyone you can see forgets who they are and why they are there.                                                                                                                                                                                                                           |
+| 31  | The air becomes so think you can swim through it for 1d6 days.                                                                                                                                                                                                                              |
+| 32  | For 1 hour gravity shifts to the walls or the ceiling.                                                                                                                                                                                                                                      |
+| 33  | The caster is infused with intense electricity. They can shoot lightning from their hands for 1d6 days.                                                                                                                                                                                     |
+| 34  | Everyone nearby shrinks to mouse size for 1d6 hours.                                                                                                                                                                                                                                        |
+| 35  | A dense forest and mature forest instantly grow around you in every direction for miles.                                                                                                                                                                                                    |
+| 36  | For 1d6 days every door within a mile of you opens to the spirit realm.                                                                                                                                                                                                                     |
+| 41  | Fog so dense you can’t see your hand in front of your face. Lasts 1d6 hours.                                                                                                                                                                                                                |
+| 42  | Everyone nearby becomes transparent except for their bones for the 1d6 days.                                                                                                                                                                                                                |
+| 43  | Nearby metal softens like clay for 1d6 hours.                                                                                                                                                                                                                                               |
+| 44  | 1d6 individual in the room are turned into vampires.                                                                                                                                                                                                                                        |
+| 45  | Dead creature claw their way through the floor. 1d6 of them every hour for 1d6 months.                                                                                                                                                                                                      |
+| 46  | A huge creature falls from the sky: Roll 1d6, 1. A whale, 2. A dragon, 3. Gelatinous cube, 4. Spooky ghost, 5. Huge red dog, 6. A giant looking for his goose that lays golden eggs.                                                                                                        |
+| 51  | Every nonliving thing nearby turns to sand.                                                                                                                                                                                                                                                 |
+| 52  | You switch bodies with the person or creature you are looking at.                                                                                                                                                                                                                           |
+| 53  | Everyone you can see is turned into: 1. Children, 2. Very old women, 3. Talking dogs, 4. Talking cats, 5. Talking raccoons, 6. Cookie people                                                                                                                                                |
+| 54  | A giant pyramid emerges from the ground under you. Its contents likely treasures of a demon who was trying to hide from prying eyes.                                                                                                                                                        |
+| 55  | Plants erupt from every crack, splitting roads, walls, and foundations as they consume the area.                                                                                                                                                                                            |
+| 56  | A pillar of glowing energy erupts from the ground 20 feet tall, 3 feet wide. It emits a lot of heat.                                                                                                                                                                                        |
+| 61  | The surrounding area becomes dead land. Plants die, water spoils, and nothing grows here anymore.                                                                                                                                                                                           |
+| 62  | A portal to a void dimension tears open and stays open, pulling things into it like a vacuum.                                                                                                                                                                                               |
+| 63  | Gravity reverses across the area permanently. Anything unanchored falls into the sky.                                                                                                                                                                                                       |
+| 64  | Every one near by rolls on the mutation table.                                                                                                                                                                                                                                              |
+| 65  | You become invisible for 1d6 days.                                                                                                                                                                                                                                                          |
+| 66  | The area around you is torn from its spot and floats into the clouds. Where it is now stuck. Slowly drifting through the sky.                                                                                                                                                               |
+|     |                                                                                                                                                                                                                                                                                             |

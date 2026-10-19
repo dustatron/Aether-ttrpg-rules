@@ -20,13 +20,13 @@ Say what your character intends to do. **Roll 2d6 plus the fitting stat.** Casti
 
 Roll when the outcome is uncertain and failure would change the situation. Otherwise, let it happen or tell the player what it costs in time or resources.
 
-| Total | Result |
-| --- | --- |
-| 6 or less | Failure. It goes wrong. Resolve the failure, then gain 1 Luck. |
-| 7 to 9 | Partial success. Your character does it, but there is a complication. |
-| 10 or greater | Full success. Your character achieves what they intended. |
-| Double 1s | Tragic failure. |
-| Double 6s | Critical success. |
+| Total         | Result                                                                |
+| ------------- | --------------------------------------------------------------------- |
+| 6 or less     | Failure. It goes wrong. Resolve the failure, then gain 1 Luck.        |
+| 7 to 9        | Partial success. Your character does it, but there is a complication. |
+| 10 or greater | Full success. Your character achieves what they intended.             |
+| Double 1s     | Tragic failure.                                                       |
+| Double 6s     | Critical success.                                                     |
 
 Check doubles on the two dice that determine the result. Double 1s or double 6s replace the normal result.
 
@@ -44,12 +44,12 @@ You may give your Luck to another player whenever you like.
 
 ### Spending Luck
 
-| Cost | Buy |
-| --- | --- |
-| 1 | Add one die to your roll and keep the highest two. |
-| 1 | Assist another character. |
-| 2 | Play a flashback that can affect the present. |
-| 5 | Advance your character. |
+| Cost | Buy                                                                     |
+| ---- | ----------------------------------------------------------------------- |
+| 1    | Add one die to your roll and keep the highest two.                      |
+| 1    | Assist another character. With their roll by rolling 1 dice with them.  |
+| 2    | Play a flashback that can affect the present.                           |
+| 5    | Advance your character.                                                 |
 
 ### Add a die
 
@@ -60,6 +60,8 @@ Spend 1 Luck before resolving a roll. Roll **3d6 and keep the highest two**. Onl
 Spend 1 Luck and explain how your character helps. The active player adds 1d6 to their roll and keeps the highest two dice.
 
 If the roll fails, only the active player gains 1 Luck. Everyone who assisted shares the consequences of a failure or partial success.
+
+You can spend a luck to assist while the other player is spending a luck to add a dice. 
 
 ### Flashbacks
 
@@ -81,19 +83,19 @@ Spend 5 Luck to choose one:
 Your character can command the patterns of Aether and reshape reality through thought and imagination.
 
 1. Describe the effect: its reach or size, what it does, and how long it lasts.
-2. Add its Exposure cost using the casting dials.
-3. The GM confirms the cost or adjusts it for anything unusual.
+2. The GM assigns one Magic Magnitude for the whole effect and states its Exposure cost.
+3. Agree on what the spell will do, including any damage, healing, and when it ends.
 4. Accept the final cost or reduce the effect, then roll 2d6 plus one relevant Spell Tag.
 
 Casting follows the normal roll results, with these additional effects:
 
 - **Failure:** The cast fails and costs no Exposure. Resolve the failure, then gain 1 Luck.
 - **Partial success:** The cast works. Mark the agreed Exposure and suffer a complication.
-- **Full success:** The cast works. Mark the agreed Exposure and add a beneficial flourish beyond the intended effect.
-- **Double 1s:** The cast fails and costs no Exposure. Roll d66 on the [[wild-magic-table|Wild Magic table]].
+- **Full success:** The cast works. Mark the agreed Exposure. If the spell deals damage, deal double its standard damage. Add a beneficial flourish beyond the intended effect.
+- **Double 1s:** The cast fails spectacularly.  Caster takes no Exposure. Roll d66 on the [[wild-magic-table|Wild Magic table]].
 - **Double 6s:** The cast works. Mark the agreed Exposure, then gain a new Spell Tag related to the cast or increase the Tag used by 1, to a maximum of +3.
 
-A beneficial flourish cannot add damage, reach, size, or duration that was not included in the Exposure cost.
+A beneficial flourish to the cast can be added to the scene when it makes sense in the story.
 
 ### Spell Tags
 
@@ -107,54 +109,42 @@ When your character gains a Mutation through casting or you roll double 6s on a 
 
 The [[Spell Tags]] table is a prompt sheet, not a spell list.
 
-### Casting limits
+### Exposure Tolerance
 
-Mutations allow your character's body to withstand more Exposure. Their safe limit for one cast is:
+Mutations allow your character's body to withstand more Exposure. Their Tolerance for one cast is:
 
-**3 plus their number of Mutations.**
+**Tolerance = 3 + their number of Mutations.**
 
-You may have your character cast above this limit. On a success, first mark the full Exposure and resolve any resulting Mutations. Then mark 1 Fatigue for each point of Exposure above the limit.
+Your character may attempt magic above their Tolerance. On a success, mark the full Exposure and resolve any resulting Mutations. Then mark 1 Fatigue for each point of the spell's Exposure above their Tolerance. A failed cast causes no Exposure or Fatigue.
 
-### A spell's Exposure cost
+For example, a character with one Mutation has Tolerance 4. A Medium spell costs 4 Exposure and causes no Fatigue. A Large spell costs 6 Exposure and causes 2 Fatigue.
 
-**Exposure = Reach or Size + Force and Effect + Duration.**
+### Magic Magnitude
 
-Every cast costs at least **1 Exposure**. A harmless, instant effect at touching range, such as creating a spark of flame, costs 1.
+The GM assigns one magnitude based on the spell's overall scale, power, reach, and duration. Use the examples as guides. Do not add separate costs for each part of the effect.
 
-| Reach or Size | Add |
-| --- | --- |
-| Your character, or one creature or object they touch | 1 |
-| A medium room, a handful of people, or a wagon-sized object | 2 |
-| Across a field, a building, a street, or a field of targets | 3 |
-| Barely in sight or beyond it | 4 |
+| Magnitude | Exposure | Damage guideline | Example |
+| --- | --- | --- | --- |
+| Tiny | 1 | 0 | Create a harmless spark on something the character touches. |
+| Small | 2 | 1 | Give one nearby creature a firm magical shove. |
+| Medium | 4 | 2 | Fill a room with an illusion for a scene. |
+| Large | 6 | 3 | Hide a building or group of buildings behind an illusion. |
+| Huge | 8 | 4 | Cover a field or city in magical fog. |
+| Mythic | 10 | 5 | Permanently transform a whole building into a living creature. |
 
-Use the highest Reach or Size cost. Do not add reach and size together. For a transformation, price the larger form.
+A Small ongoing effect lasts a few rounds. Keeping the effect going for hours requires a higher magnitude. A spell lasting a few days suggests Large; one lasting about a month suggests Huge. These are benchmarks for the whole effect, not separate allowances. Lighting a city's lamps is less demanding than destroying every building in it.
 
-| Force and Effect | Add |
-| --- | --- |
-| A change without forceful impact, such as a spark, transformation, invisibility, or gentle floating | 0 |
-| A firm shove, deal 1 damage, or restore 1 Health | 1 |
-| A hard throw, deal 2 damage, or restore 2 Health | 2 |
-| A crushing impact, deal 3 damage, restore 3 Health, or heal one Scar | 3 |
+Non-damaging magic uses the same scale. Damage is a guideline, not a requirement: a spell can have a large reach or long duration without dealing damage. Agree on its standard damage before rolling. On a full success of 10 or greater, double that damage. For example, Huge magic normally deals 4 damage, or 8 on a full success. Tiny magic deals no direct damage.
 
-| Duration | Add |
-| --- | --- |
-| Instant, or until the end of the current scene | 0 |
-| A few hours, up to a day | 1 |
-| More than a day, up to a month | 2 |
-| More than a month, up to a year | 3 |
-| Years, but less than a lifetime | 4 |
-| A lifetime or forever | 5 |
+For scrying, mind reading, and other information magic, consider how far away the subject is, what the character learns, and how long they observe. Discovery, misleading visions, or the subject sensing the intrusion may still be consequences when they fit.
 
-Magical damage is the amount bought with Exposure. It is not doubled or tripled by the casting result.
+Casting effects end when their agreed duration expires. A portal closes, a transformed person returns to their previous form, invisibility ends, and a flying boat comes back down.
 
-Magical damage and healing use the same Force and Effect costs. One tears the body down. The other puts it back together.
+### Magical healing
 
-For scrying, mind reading, and other information magic, Reach is how far away the subject is and Duration is how long the character observes. If the spell only gathers information, its Force and Effect is 0. Discovery, misleading visions, or the subject sensing the intrusion may still be consequences when they fit.
+Medium magic handles simple injuries, normally restoring 2 Health. Large magic handles major wounds, normally restoring 3 Health, or removing one Scar. The GM considers the whole effect when assigning magnitude, including how many characters it heals and how long it lasts. Fatigue still prevents Health recovery.
 
-Casting effects end when their paid Duration expires. A portal closes, a transformed person returns to their previous form, invisibility ends, and a flying boat comes back down.
-
-Damage and healing normally happen instantly and remain afterward. A healing zone includes its Reach or Size, the Health it restores, and its Duration. Each character can benefit from the zone once per cast.
+Damage and healing normally happen instantly and remain afterward. Each character can benefit from a healing zone once per cast.
 
 Magic may start a fire, but the fire continues only while it has fuel.
 
@@ -162,33 +152,38 @@ Magic may start a fire, but the fire continues only while it has fuel.
 
 Exposure is a little like radiation poisoning. It collects as your character uses the Arcane Aether, letting them reshape the world while it reshapes them.
 
-Whenever the character reaches **10 Exposure**, they undergo a Mutation. Roll on the [[mutation-tables|Mutation table]]. The Mutation permanently occupies an inventory slot. Subtract 10 Exposure and keep any excess.
+Whenever the character reaches **10 Exposure**, they undergo a Mutation. Roll on the [[mutation-tables|Mutation table]]. 
+
+The Mutation permanently occupies an inventory slot. Subtract 10 Exposure and keep any excess.
 
 If a cast also causes Fatigue, resolve its Exposure and any resulting Mutations before marking the Fatigue.
 
 ## Magic items
 
-An Arcanist can move Exposure out of their body and into an object, creating a magical relic.
+An Arcanist, or caster, can move Exposure out of their body and into an object, creating a magical relic.
 
 A relic:
 
 - Takes one inventory slot.
-- Holds up to **6 Exposure**.
+- Holds up to **10 Exposure**.
 - Takes an undisturbed hour to create or refill.
 - Has one magical function chosen when it is created.
-- Can be created or refilled once per Arcanist per in-game day.
+- Can be created or refilled once per in-game day.
 
-During that hour, choose how much Exposure to transfer, up to the relic's capacity. Subtract it from the character's current Exposure and record it in the relic.
+Creating a new relic consumes **2 of the character's current Exposure**. This Exposure is spent, not stored. During the same hour, choose how much additional Exposure to transfer, up to the relic's capacity. Subtract it from the character's current Exposure and record it in the relic.
 
-Anyone who can operate the relic can activate it. Choose the reach or size, force and effect, and duration within the relic's function. Price the activation using the normal casting dials and subtract that cost from the relic's stored Exposure. No casting roll is made, and the user gains no Exposure.
+For example, creating a relic with 4 stored Exposure removes 6 Exposure from the character: 2 to make the object magical and 4 to store. A new relic may start empty. Refilling an existing relic costs only the Exposure transferred, with no creation cost.
 
-The relic cannot produce an activation that costs more Exposure than it currently holds. At zero Exposure, it is an ordinary object until an Arcanist refills it.
+Anyone who can operate the relic can activate it. Describe an effect within the relic's function. The GM assigns its Magic Magnitude using the normal casting guidelines. Subtract that magnitude's Exposure cost from the relic's stored Exposure. No casting roll is made, and the character using it gains no Exposure or Fatigue.
 
-An Arcanist may instead create an inert vessel, such as a soul jar, that stores Exposure but has no magical function. It follows all the other relic rules.
+The relic cannot produce an activation that costs more Exposure than it currently holds. At zero Exposure, it is inert until an Arcanist refills it. It remains a relic and does not need the creation cost paid again.
+
+Get creative with your magic items. Like a soul jar thats holds more gear, a fork that shoots fire balls, gloves that put people to sleep.
 
 Relics can be traded or sold like other valuable objects.
 
 ## Inventory and conditions
+Your inventory is a mix of the things you have on you and your health bar. 
 
 Your character has **12 inventory slots**. Gear fills from the top down. Conditions fill from the bottom up, taking the lowest available slot.
 
@@ -220,23 +215,38 @@ Your character can take **one move and one action** in either order. They can at
 
 Roll **2d6 plus Strength** for hand-to-hand combat or **2d6 plus Dexterity** for a ranged attack. Your character must be able to reach the target with what they are using.
 
-| Result | Effect |
-| --- | --- |
-| Failure | The attack fails and the situation gets worse. |
-| Partial success | Deal the weapon's damage and suffer a complication. |
-| Full success | Deal double the weapon's damage. |
-| Double 6s | Deal triple damage and ignore Armor. |
-| Double 1s | The attack fails. The character takes 1 damage or their weapon breaks, whichever fits. |
+| Result          | Effect                                                                                 |
+| --------------- | -------------------------------------------------------------------------------------- |
+| Failure         | The attack fails and the situation gets worse.                                         |
+| Partial success | Deal the weapon's damage and suffer a complication.                                    |
+| Full success    | Deal double the weapon's damage.                                                       |
+| Double 6s       | Deal triple damage and ignore Armor.                                                   |
+| Double 1s       | The attack fails. The character takes 1 damage or their weapon breaks, whichever fits. |
+| Triple 6s       | You daftly kill your target.                                                           |
+| Triple 1s       | Take a scare and drop your weapon. You blundered so bad you fell and hurt yourself.    |
 
 On a failure or partial success, an enemy may hurt your character, push them back, damage their gear, or create another fitting complication. The enemy still takes its regular turn.
 
 ### Damage and Armor
 
+Damage uses the same magnitude names as magic:
+
+| Damage magnitude | Damage |
+| --- | --- |
+| Tiny | 0 |
+| Small | 1 |
+| Medium | 2 |
+| Large | 3 |
+| Huge | 4 |
+| Mythic | 5 |
+
+These names describe damage, not the size of the weapon or the monster's tier. Damage modifiers, doubling, tripling, and Armor still apply normally. A Mythic monster still follows its own Weakness rules in [[Monsters#Mythic monsters]].
+
 Weapons deal damage based on their size and weight:
 
-- Small or concealable: **1 damage**.
-- Normal: **2 damage**.
-- Heavy or two-handed: **3 damage**.
+- Small or concealable: **Small damage (1)**.
+- Normal: **Medium damage (2)**.
+- Heavy or two-handed: **Large damage (3)**.
 
 Apply damage added by a Perk before doubling or tripling the attack.
 

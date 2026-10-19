@@ -24,14 +24,14 @@ When a player needs a Spell Tag idea, roll once or choose one. To create a monst
 | 24  | Gravity        |
 | 25  | Time           |
 | 26  | Magnetism      |
-| 31  | Blood          |
+| 31  | Speed          |
 | 32  | Slime          |
-| 33  | Flesh          |
+| 33  | Scale          |
 | 34  | Plants         |
 | 35  | Animals        |
 | 36  | Swarms         |
 | 41  | Explosion      |
-| 42  | Memory         |
+| 42  | locating       |
 | 43  | Undead         |
 | 44  | Illusion       |
 | 45  | Acid           |
@@ -40,7 +40,7 @@ When a player needs a Spell Tag idea, roll once or choose one. To create a monst
 | 52  | Binding        |
 | 53  | Transformation |
 | 54  | Invisibility   |
-| 55  | Destruction    |
+| 55  | Sleep          |
 | 56  | Healing        |
 | 61  | Portal         |
 | 62  | Mind reading   |

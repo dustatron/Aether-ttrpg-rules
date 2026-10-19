@@ -35,7 +35,7 @@ Every relic came from someone with a problem. That was the idea I wanted to expl
 
 ## What makes it different
 
-There is no spell list. A player says what they want their character's magic to do and prices its reach, force, and duration. The GM confirms or adjusts the cost, then the player decides if the effect is worth the Exposure.
+There is no spell list. A player says what they want their character's magic to do. The GM assigns one Magic Magnitude for the whole effect, then the player decides if it is worth the Exposure.
 
 You do not need to predict every possible spell. You just need to understand what the player is asking for and make the Exposure cost clear.
 

@@ -264,7 +264,8 @@
 
 #let wild-table-block(body) = {
   set text(size: 8.2pt)
-  set table(inset: (x: 3pt, y: 1.55pt))
+  set par(leading: 0.45em, spacing: 0.3em)
+  set table(inset: (x: 3pt, y: 1.2pt))
   body
 }
 

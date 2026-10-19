@@ -22,11 +22,12 @@ Had a place in an order once, then something answered.
 - Torch
 - Rations x3
 
-| d6  | Perk                                                                                                    |
-| --- | ------------------------------------------------------------------------------------------------------- |
-| 1   | Increase one Stat by 1, to a maximum of +3.                                                             |
-| 2   | Gain or improve a Spell Tag when the kept casting dice are double 4s or double 5s.                      |
-| 3   | Increase Charm by 1, to a maximum of +3.                                                                |
-| 4   | Your character can befriend as many ordinary cats as they wish. Roll to see if they follow your character's orders. |
-| 5   | Roll with advantage when casting with a Spell Tag.                                                              |
-| 6   | Your character has a murder of crows that obeys your commands.                                          |
+| d6  | Perk                                                                                                                             |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Striking beauty: Once a long rest, you can charm people simply by getting them to look at you for one round.                     |
+| 2   | + Spell Tag: Gain or improve a Spell Tag when the kept casting dice are double 4s or double 5s.                                  |
+| 3   | Explosive knowledge: You know how make bombs out of common plants and chemicals                                                  |
+| 4   | Cat Friends: Your character can befriend as many ordinary cats as they wish. Roll to see if they follow your character's orders. |
+| 5   | Talented caster: Roll with advantage when casting with a Spell Tag.                                                              |
+| 6   | Crow Friends: Your character has a murder of crows that obeys your commands.                                                     |
+|     |                                                                                                                                  |
