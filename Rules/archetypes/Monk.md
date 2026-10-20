@@ -28,6 +28,6 @@ Studied the ancient arts and honed their body into a weapon.
 | 1   | Add Strength to damage with unarmed strikes.                                |
 | 2   | Gain +1 Armor while your character can move freely.                         |
 | 3   | Your character can leap 20 feet and perch on anything that will hold a toe. |
-| 4   | Your character can enchant creatures and people with music.                 |
-| 5   | No fall hurts your character if they can see it coming.                     |
+| 4   | Sweeping Strike: When you roll double 4s on an unarmed attack, your character may knock the target off their feet. The target must spend their move standing up. Resolve damage and complications normally. |
+| 5   | Your character can enchant creatures and people with music.                 |
 | 6   | Increase one Stat by 1, to a maximum of +3.                                 |

@@ -24,11 +24,11 @@ Tracked Arcanists for coin, then woke up as one.
 - Rations x3
 - Chainmail, Armor 1
 
-| d6  | Perk                                             |
-| --- | ------------------------------------------------ |
-| 1   | Roll with advantage when following tracks.       |
-| 2   | Add Dexterity to damage with a bow or crossbow.  |
-| 3   | Roll with advantage when telling if someone is lying. |
-| 4   | Your character can travel without leaving a trail.    |
-| 5   | Your character is an expert at barbecuing meat.       |
-| 6   | Increase one Stat by 1, to a maximum of +3.      |
+| d6  | Perk                                                                                                                                                                                                                         |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Roll with advantage when following tracks.                                                                                                                                                                                   |
+| 2   | Add Dexterity to damage with a bow or crossbow.                                                                                                                                                                              |
+| 3   | Roll with advantage when telling if someone is lying.                                                                                                                                                                        |
+| 4   | Pinning Shot: When you roll double 4s on a ranged attack, your character may pin the target's clothing or body to a nearby surface. The target must spend an action pulling free. Resolve damage and complications normally. |
+| 5   | Your character is an expert at barbecuing meat                                                                                                                                                                               |
+| 6   | Increase one Stat by 1, to a maximum of +3.                                                                                                                                                                                  |
