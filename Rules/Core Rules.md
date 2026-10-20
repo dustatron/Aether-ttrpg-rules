@@ -38,6 +38,8 @@ A complication should move events forward. Your character might lose something, 
 
 Each character can hold up to **10 Luck**.
 
+At the table, use spare d6s or tokens to track Luck. Each die or token represents 1 Luck, regardless of the number showing on the die. Collect them as you gain Luck and return them as you spend it. At the end of the session, record the remaining total in the Luck box on your character sheet. Use that total to set out your dice or tokens next session.
+
 Gain **1 Luck** after you accept and resolve a failed roll. Gain **2 Luck** when your character achieves a Key Goal and you cross it off their list.
 
 You may give your Luck to another player whenever you like.
