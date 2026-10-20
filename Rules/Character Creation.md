@@ -87,6 +87,8 @@ Your character has **12 inventory slots**. Put their Archetype gear into the slo
 
 Small things of the same kind bundle together. Three rations, a handful of arrows, or several iron spikes each take one slot.
 
+Roll **2d6 and multiply the total by 10** for your character's starting coin. Record it in the Coin box on their sheet.
+
 ## Step 3: Key goals
 
 Write up to four Key Goals your character wants to achieve. They should matter enough to make the character go out into the world and do something about them.

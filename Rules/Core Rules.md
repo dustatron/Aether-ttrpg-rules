@@ -132,11 +132,11 @@ The GM assigns one magnitude based on the spell's overall scale, power, reach, a
 | Medium | 4 | 2 | Fill a room with an illusion for a scene. |
 | Large | 6 | 3 | Hide a building or group of buildings behind an illusion. |
 | Huge | 8 | 4 | Cover a field or city in magical fog. |
-| Mythic | 10 | 5 | Permanently transform a whole building into a living creature. |
+| Mythic | 10 | 8 | Permanently transform a whole building into a living creature. |
 
-A Small ongoing effect lasts a few rounds. Keeping the effect going for hours requires a higher magnitude. A spell lasting a few days suggests Large; one lasting about a month suggests Huge. These are benchmarks for the whole effect, not separate allowances. Lighting a city's lamps is less demanding than destroying every building in it.
+A Small ongoing effect lasts a few rounds. Keeping the effect going for hours requires a higher magnitude. A spell lasting a few days suggests Large; one lasting a few months suggests Huge. These are benchmarks for the whole effect, not separate allowances. Lighting a city's lamps is less demanding than destroying every building in it.
 
-Non-damaging magic uses the same scale. Damage is a guideline, not a requirement: a spell can have a large reach or long duration without dealing damage. Agree on its standard damage before rolling. On a full success of 10 or greater, double that damage. For example, Huge magic normally deals 4 damage, or 8 on a full success. Tiny magic deals no direct damage.
+Non-damaging magic uses the same scale. Damage is a guideline, not a requirement: a spell can have a large reach or long duration without dealing damage. Agree on its standard damage before rolling. On a full success of 10 or greater, double that damage. For example, Huge magic normally deals 4 damage, or 8 on a full success. Mythic magic normally deals 8 damage, or 16 on a full success. Tiny magic deals no direct damage.
 
 For scrying, mind reading, and other information magic, consider how far away the subject is, what the character learns, and how long they observe. Discovery, misleading visions, or the subject sensing the intrusion may still be consequences when they fit.
 
@@ -240,7 +240,7 @@ Damage uses the same magnitude names as magic:
 | Medium | 2 |
 | Large | 3 |
 | Huge | 4 |
-| Mythic | 5 |
+| Mythic | 8 |
 
 These names describe damage, not the size of the weapon or the monster's tier. Damage modifiers, doubling, tripling, and Armor still apply normally. A Mythic monster still follows its own Weakness rules in [[Monsters#Mythic monsters]].
 
@@ -276,13 +276,13 @@ A crowd attacking one target rolls once, using its highest Threat and best singl
 
 Subtract damage from your character's current Health. Their Archetype sets the maximum. Health cannot fall below zero.
 
-When a hit brings the character to zero Health, mark one Scar. Each damaging hit taken at zero Health causes another Scar. A single hit causes only one Scar, regardless of excess damage.
+Reaching zero Health does not cause a Scar. When your character takes damage while already at zero Health, mark one Scar. A single hit causes only one Scar, regardless of how much damage it deals.
 
 Each Scar occupies an inventory slot until removed. Restoring Health does not remove Scars.
 
 ### Healing
 
-- **A couple of quiet hours:** Roll 2d6 and restore that much Health if the character has no Fatigue.
+- **One quiet hour in a safe place:** Roll 2d6 and restore that much Health if your character has no Fatigue.
 - **A full night's rest:** Remove one Fatigue. If none remains afterward, restore all Health.
 
 To catch their breath, spend the character's action and roll **2d6 plus Willpower**. They cannot do this while Fatigued.
