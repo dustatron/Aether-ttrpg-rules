@@ -28,7 +28,7 @@ Choose the tier level that fits, or roll 1d6 and let the dice decide. Rolling wo
 
 ## Running one
 
-- Roll 2d6 plus Threat when a monster attacks. See [[Core Rules#When enemies attack]].
+- Roll 2d6 plus Threat when a monster attacks. See [[Core Mechanics#When enemies attack]].
 - Damage applies to all its attacks. A bear might bite or swipe, but both deal 2 damage.
 - Weakness is what gives the characters an edge. Plant a way to discover it: a corpse, a book, a survivor, or someone who faced the creature before.
 - Desire is what the monster wants besides killing the characters. Anything with a Desire can potentially be bargained with.

@@ -13,7 +13,7 @@ This checklist separates reactions, questions, possible changes, and things that
 ## Confirmed or working as intended
 
 - [x] **Keep Otherfolk open-ended.** It gives creative players room without burdening players who want a familiar choice.
-- [x] **Casting uses a Spell Tag instead of a Stat.** This is stated in [[Core Rules#The dice|The dice]] and [[Core Rules#Magical casting|Magical casting]].
+- [x] **Casting uses a Spell Tag instead of a Stat.** This is stated in [[Core Mechanics#The dice|The dice]] and [[Casting Magic#Magical casting|Magical casting]].
 - [x] **The casting dials support different effects at the same price.** A touched target shoved for a few hours costs 3 Exposure. A room shoved for an instant also costs 3.
 - [x] **Relics create a reason to move Exposure into objects.** The core idea landed well.
 
@@ -73,12 +73,11 @@ This adds a small XP track, but it makes using Luck during play the path to adva
 - Medium room + firm shove + instant = **3 Exposure**.
 - One touched creature + invisibility + up to a month = **3 Exposure**.
 
-## Overcasting order
+## Overcasting
 
-- [x] The current vault resolves Exposure and any resulting Mutations before marking Fatigue.
-- [ ] Make this order equally clear in the next rules PDF.
+- [x] Remove Tolerance and casting-based Fatigue after playtesting them.
 
-Current rule: on a successful cast above the character's safe limit, mark the full Exposure first. Then mark 1 Fatigue for each point the cast exceeded that limit.
+Current rule: successful casts mark their full Exposure. At 10 Exposure, the character gains a Mutation. Fatigue comes from missing proper rest or food, or consuming poison, not from casting.
 
 ## Inventory
 
@@ -111,7 +110,7 @@ The current relic wording in the vault correctly subtracts an activation's Expos
 ## Rules PDF sync
 
 - [ ] Update the rules PDF after these decisions are settled.
-- [ ] Clarify that Exposure and resulting Mutations resolve before overcasting Fatigue.
+- [x] Remove Tolerance and overcasting Fatigue from the rules PDF.
 - [ ] Correct the relic activation sentence so its cost is subtracted from the relic, not added to the character.
 - [ ] Rename **Harm** to **Health** throughout the PDF and character sheet.
 - [ ] Clarify that the player calculates a spell's Exposure cost before the GM confirms or adjusts it.

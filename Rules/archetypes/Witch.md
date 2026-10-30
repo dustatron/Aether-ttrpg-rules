@@ -8,7 +8,7 @@ canonical: true
 
 # Witch
 
-Had a place in an order once, then something answered.
+Your character belonged to a coven, learning the guarded secrets of a dark and ancient order. They studied forbidden rites, bargained with strange powers, and learned which names must never be spoken aloud. They have since left the coven, though its teachings are harder to leave behind.
 
 | Strength | Dexterity | Willpower | Charm | Health |
 | :---: | :---: | :---: | :---: | :---: |

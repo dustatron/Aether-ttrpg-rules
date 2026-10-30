@@ -295,15 +295,14 @@ async function loadNote(entry) {
     )
   }
 
-  if (entry.path === "Rules/Core Rules.md") {
-    markdown = markdown.replace(
-      /^For the premise and reading order, start with Start Here\. To make a character, use Character Creation\.\s*$/m,
-      "",
-    )
+  if (entry.path === "Rules/Casting Magic.md") {
     markdown = keepParagraphTogether(
       markdown,
       "Damage and healing normally happen instantly and remain afterward",
     )
+  }
+
+  if (entry.path === "Rules/Core Mechanics.md") {
     markdown = keepParagraphTogether(
       markdown,
       "On a failure or partial success, an enemy may hurt your character",

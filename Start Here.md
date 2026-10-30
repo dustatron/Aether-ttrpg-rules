@@ -67,7 +67,7 @@ Not everything needs a roll. Let the silly ideas move the story. Maybe a charact
 
 ## Explore the game
 
-- [[Core Rules|Core rules]] contains the complete engine.
+- [[Core Rules|Core rules]] links to the rules by topic.
 - [[Character Creation|Character creation]] gets an Arcanist ready for play.
 - [[Key Ideas|Game Master guidance]] explores the relic economy, collaborative magic, and how the world responds to Arcanists.
 - [[Monsters]] explains how to build and run opposition.

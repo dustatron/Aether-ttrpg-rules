@@ -16,7 +16,7 @@ Most people cannot perceive those patterns. Arcanists can. Through thought and i
 
 ## The cost
 
-Every cast exposes the Arcanist to raw Aether. Exposure makes greater magic possible while destabilizing the Arcanist's own pattern. As it builds, the Arcanist Mutates. Too many Mutations turn them into a Demon. See [[Core Rules#Exposure and Mutation|Exposure and Mutation]].
+Every cast exposes the Arcanist to raw Aether. Exposure makes greater magic possible while destabilizing the Arcanist's own pattern. As it builds, the Arcanist Mutates. Too many Mutations turn them into a Demon. See [[Casting Magic#Exposure and Mutation|Exposure and Mutation]].
 
 An Arcanist can delay this transformation by moving Exposure into an object. The object becomes a relic that stores Aether and performs one kind of magic.
 

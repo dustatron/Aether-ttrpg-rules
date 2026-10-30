@@ -22,7 +22,7 @@ Then choose a Life Type and record both of its traits. Humans, elves, goblins, c
 
 #### Human
 
-- **Resilient:** Once a day, ignore one Fatigue as it would be marked.
+- **Resilient:** Once a day, ignore 1 Fatigue after missing proper sleep.
 - **I Know a Guy:** Once per session, declare that your character knows someone useful in the current location. Tell the table how they know each other.
 
 #### Elf
@@ -111,14 +111,12 @@ Decide whether the Aether has already changed your character.
 ### Start Unchanged
 
 - Begin with no Mutations and no Spell Tags.
-- Their Exposure Tolerance is 3.
 - Begin with 0 current Exposure, 0 Luck, no Scars, and no Fatigue.
 
 ### Start Marked
 
 - Roll on the [[mutation-tables|Mutation table]] and record the result in inventory slot 12.
 - Choose one +1 Spell Tag related to the Mutation or the event that made the character an Arcanist.
-- Their Exposure Tolerance is 4.
 - Begin with 0 current Exposure, 0 Luck, no Scars, and no Fatigue.
 
 Starting Marked gives the character more control over magic, but the Aether has already taken one of their twelve slots.

@@ -8,11 +8,11 @@ canonical: true
 
 # Hunter
 
-Tracked Arcanists for coin, then woke up as one.
+Your character hunted Arcanists for coin, following rumors, studying habits, and learning what frightened people would pay to have someone taken away. Then the Aether changed them too. They still know the trade, and the people who practice it.
 
 | Strength | Dexterity | Willpower | Charm | Health |
-| :---: | :---: | :---: | :---: | :---: |
-| +2 | 0 | +1 | -1 | 7 |
+| :------: | :-------: | :-------: | :---: | :----: |
+|    +1    |    +1     |    +1     |  -1   |   7    |
 
 ## Gear
 
@@ -30,5 +30,5 @@ Tracked Arcanists for coin, then woke up as one.
 | 2   | Add Dexterity to damage with a bow or crossbow.                                                                                                                                                                              |
 | 3   | Roll with advantage when telling if someone is lying.                                                                                                                                                                        |
 | 4   | Pinning Shot: When you roll double 4s on a ranged attack, your character may pin the target's clothing or body to a nearby surface. The target must spend an action pulling free. Resolve damage and complications normally. |
-| 5   | Your character is an expert at barbecuing meat                                                                                                                                                                               |
-| 6   | Increase one Stat by 1, to a maximum of +3.                                                                                                                                                                                  |
+| 5   | Your character is an expert at barbecuing and slow cooking meat.                                                                                                                                                             |
+| 6   | Living Rough: Your character knows what is safe to eat and where to find shelter. Once a day, they can gather enough food in the wild to replace one ration for each member of the party. |

@@ -14,12 +14,10 @@ The current outside review is organized in [[Friend Feedback Checklist]].
 
 ## Magic Magnitude follow-up
 
-The magnitude scale and Tolerance of 3 + Mutations are now in [[Core Rules]]. The following mechanics still need decisions before implementation:
+The magnitude scale is now in [[Casting Magic#Magic Magnitude|Casting Magic]]. The following mechanics still need decisions before implementation:
 
 - Define disadvantage and how purchased dice, assistance, and extra-die Perks interact with it. Extra dice do not need a separate general advantage rule. Existing Perks that say “advantage” will need consistent extra-die wording once this interaction is settled.
 - Proposed general reward: gain 2 Luck after resolving a consequential roll with GM-imposed disadvantage, whether it succeeds or fails. The GM decides whether it qualifies; trivial manufactured disadvantage does not. Decide whether canceled disadvantage qualifies and confirm whether failure Luck stacks. At 5 Luck per advancement, this could substantially accelerate progression.
-- Proposed familiarity: track only Highest Magnitude Attempted. Above Tolerance, an unfamiliar magnitude imposes disadvantage. Any attempt grants familiarity with that magnitude and all lower ones, regardless of success; familiarity changes neither Exposure nor Fatigue. Confirm whether one genuine failed Mythic attempt should unlock familiarity with every magnitude and how new characters start.
-- Clarify whether Tolerance is measured before the cast or after any Mutation caused by it. The existing resolution order remains Exposure, Mutations, then Fatigue.
 - Proposed Huge healing could bring a dead character back. Define its limits and interaction with the final-slot death rules before adding resurrection to the live rules.
 - Confirm whether the listed magical damage is a normal guideline or a ceiling. It is currently a guideline, agreed before rolling.
 - Full-success casting now doubles standard spell damage. Decide whether casting double 6s should also triple damage; its current specific result still grants Spell Tag growth.
@@ -41,6 +39,7 @@ The magnitude scale and Tolerance of 3 + Mutations are now in [[Core Rules]]. Th
 
 ## Playtest
 
-- Compare starting Unchanged with starting Marked. The Marked character gains a Mutation, a +1 Spell Tag, and a Tolerance of 4, but begins with one fewer inventory slot.
+- Compare starting Unchanged with starting Marked. The Marked character gains a Mutation and a +1 Spell Tag, but begins with one fewer inventory slot.
+- Test whether Fatigue from missed rest, missed meals, and poison creates useful pressure, and whether one full night's sleep should remove all Fatigue.
 - Test flexible relic activations. A relic has one function, but the user can spend more stored Exposure for a greater Magic Magnitude.
 - Confirm that a full-success casting flourish feels useful without increasing the agreed effect.

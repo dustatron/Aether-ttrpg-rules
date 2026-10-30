@@ -11,9 +11,9 @@ canonical: true
 - **Aether:** The particles and patterns that make up reality.
 - **Arcanist:** A person who can perceive and command those patterns.
 - **Exposure:** Raw Aether accumulated through casting.
-- **Magic Magnitude:** The overall scale of a spell, setting its Exposure cost. See [[Core Rules#Magic Magnitude]].
-- **Exposure Tolerance:** Exposure a character can handle in one successful cast without Fatigue, equal to 3 plus their number of Mutations. See [[Core Rules#Exposure Tolerance]].
+- **Magic Magnitude:** The overall scale of a spell, setting its Exposure cost. See [[Casting Magic#Magic Magnitude]].
 - **Mutation:** A permanent change caused by Exposure.
+- **Fatigue:** Exhaustion caused by going without proper rest or food, or consuming poison. Each Fatigue occupies one inventory slot.
 - **Spell Tag:** Something the character's magic has learned to do reliably.
 - **Health:** How much damage a character or monster can take before suffering worse consequences.
 - **Relic:** An object that stores Exposure and performs one kind of magic.

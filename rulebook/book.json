@@ -13,7 +13,10 @@
     {
       "title": "Core Rules",
       "files": [
-        { "path": "Rules/Core Rules.md", "hideTitle": true }
+        { "path": "Rules/Core Mechanics.md" },
+        { "path": "Rules/Casting Magic.md" },
+        { "path": "Rules/Magic Items and Dispersing Exposure.md" },
+        { "path": "Rules/Dying and Recovery.md" }
       ]
     },
     {
