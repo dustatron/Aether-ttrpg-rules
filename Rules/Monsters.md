@@ -18,9 +18,9 @@ Four numbers and two questions.
 | Tier level | Tier label   | Threat | Damage | Health | Armor | Example        |
 | ---------- | ------------ | ------ | ------ | ------ | ----- | -------------- |
 | 1          | Pest         | -1     | 1      | 3      | 0     | Goblin         |
-| 2          | Minion       | 0      | 2      | 5      | 1     | Bandit or bear |
+| 2          | Minion       | 0      | 2      | 5      | 1     | Bandit         |
 | 3          | Glass Cannon | +1     | 3      | 10     | 0     | Mummy          |
-| 4          | Horror       | +2     | 3      | 15     | 2     | Ooze           |
+| 4          | Menace       | +2     | 3      | 15     | 2     | Bear or ooze   |
 | 5          | Boss         | +2     | 4      | 20     | 3     | Demon          |
 | 6          | Mythic       | +3     | 5      | 30     | 5     | Dragon         |
 
@@ -29,7 +29,7 @@ Choose the tier level that fits, or roll 1d6 and let the dice decide. Rolling wo
 ## Running one
 
 - Roll 2d6 plus Threat when a monster attacks. See [[Core Mechanics#When enemies attack]].
-- Damage applies to all its attacks. A bear might bite or swipe, but both deal 2 damage.
+- Damage applies to all its attacks. A bear might bite or swipe, but both deal 3 damage.
 - Weakness is what gives the characters an edge. Plant a way to discover it: a corpse, a book, a survivor, or someone who faced the creature before.
 - Desire is what the monster wants besides killing the characters. Anything with a Desire can potentially be bargained with.
 - For a monster caster, roll twice on [[Spell Tags|Spell Tag Sparks]] and combine the results into a casting theme.

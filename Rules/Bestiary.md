@@ -15,13 +15,6 @@ source: The Arcane Aether Rules v4.5.rtf
 - **Weakness:** Bright light drives them back.
 - **Desire:** Something shiny, and to see tomorrow.
 
-## Bear, Minion
-#### Tier 2
-**Threat:** 0 | **Damage:** 2 | **Health:** 5 | **Armor:** 1
-- **Attacks:** Bite, swipe, bull rush.
-- **Weakness:** Fire, which no animal will face.
-- **Desire:** To be left alone.
-
 ## Mummy, Glass Cannon
 #### Tier 3
 **Threat:** +1 | **Damage:** 3 | **Health:** 10 | **Armor:** 0
@@ -29,7 +22,14 @@ source: The Arcane Aether Rules v4.5.rtf
 - **Weakness:** Fire.
 - **Desire:** To punish whoever opened the door.
 
-## Ooze, Horror
+## Bear, Menace
+#### Tier 4
+**Threat:** +2 | **Damage:** 3 | **Health:** 15 | **Armor:** 2
+- **Attacks:** Bite, swipe, bull rush.
+- **Weakness:** Fire, which no animal will face.
+- **Desire:** To be left alone.
+
+## Ooze, Menace
 #### Tier 4
 **Threat:** +2 | **Damage:** 3 | **Health:** 15 | **Armor:** 2
 - **Attacks:** Engulf, acid touch, drops from above.

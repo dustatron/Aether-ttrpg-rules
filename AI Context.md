@@ -49,7 +49,7 @@ Use **player** for the real person at the table. Use **character** for the perso
 - [[Casting Magic]]
 - [[Magic Items and Dispersing Exposure]]
 - [[Dying and Recovery]]
-- [[Key Terms]]
+- [[Key Ideas#Key Terms|Key Terms]]
 - [[Character Creation]]
 - [[Key Ideas]]
 - [[Monsters]]

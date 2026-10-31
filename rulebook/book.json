@@ -54,8 +54,7 @@
         { "path": "tables/mutation-tables.md", "compactTable": "mutation" },
         { "path": "tables/wild-magic-table.md", "compactTable": "wild", "columnBreakBefore": true },
         { "path": "tables/Spell Tags.md", "pageBreakBefore": true, "compactTable": "spell" },
-        { "path": "Rules/Key Ideas.md", "columnBreakBefore": true },
-        { "path": "Rules/Key Terms.md" }
+        { "path": "Rules/Key Ideas.md", "columnBreakBefore": true }
       ]
     }
   ]

@@ -11,7 +11,7 @@ Version **4.5** is current.
 - [[Start Here]] contains the premise and navigation.
 - [[Core Rules]] is the contents page for the canonical rules.
 - [[Core Mechanics]], [[Casting Magic]], [[Magic Items and Dispersing Exposure]], and [[Dying and Recovery]] contain the core engine.
-- [[Key Terms]] is the canonical glossary.
+- [[Key Ideas#Key Terms|Key Terms]] is the canonical glossary.
 - [[Character Creation]] and `Rules/archetypes/` contain current character rules.
 - [[Key Ideas]] contains current GM principles and setting consequences.
 - [[Monsters]] and [[Bestiary]] contain current GM rules.

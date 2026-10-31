@@ -72,7 +72,7 @@ Not everything needs a roll. Let the silly ideas move the story. Maybe a charact
 - [[Key Ideas|Game Master guidance]] explores the relic economy, collaborative magic, and how the world responds to Arcanists.
 - [[Monsters]] explains how to build and run opposition.
 - The [[Bestiary]] contains worked examples.
-- [[Key Terms]] defines the game's recurring language.
+- [[Key Ideas#Key Terms|Key Terms]] defines the game's recurring language.
 - The [[mutation-tables|Mutation table]] is ready when someone reaches 10 Exposure.
 - The [[wild-magic-table|Wild Magic table]] is ready when a casting roll comes up double 1s.
 
