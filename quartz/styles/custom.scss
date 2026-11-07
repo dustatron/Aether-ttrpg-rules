@@ -5,3 +5,12 @@
 .page > #quartz-body .sidebar.right {
   display: none;
 }
+
+// These folder pages list their own downloads or references.
+article.curated-folder + .page-listing {
+  display: none;
+}
+
+.folder-container:has(+ .folder-outer > ul:empty) > .folder-icon {
+  visibility: hidden;
+}

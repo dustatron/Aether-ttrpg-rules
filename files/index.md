@@ -1,15 +1,16 @@
 ---
 title: Files
 tags: [downloads]
+cssclasses: [curated-folder]
 system: arcane-aether
 status: current
 version: 4.5
 ---
 
-# Files
+## Downloads
 
-- [[The Arcane Aether Rules v4.6 draft.pdf|View or download the v4.6 draft rules PDF]]
-- [[Character sheet v7-tri-fold.pdf|View or download the v7 tri-fold character sheet]]
+- [[The Arcane Aether Rules v4.6 draft.pdf|Rulebook PDF (v4.6 draft)]]
+- [[Character sheet v7-tri-fold.pdf|Tri-fold character sheet PDF (v7)]]
 
 ## Character sheet
 

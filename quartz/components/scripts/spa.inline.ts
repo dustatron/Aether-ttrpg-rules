@@ -26,13 +26,14 @@ const isSamePage = (url: URL): boolean => {
 
 const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined => {
   if (!isElement(target)) return
-  if (target.attributes.getNamedItem("target")?.value === "_blank") return
   const a = target.closest("a")
   if (!a) return
-  if ("routerIgnore" in a.dataset) return
+  if (a.target === "_blank" || "routerIgnore" in a.dataset || a.hasAttribute("download")) return
   const { href } = a
   if (!isLocalUrl(href)) return
-  return { url: new URL(href), scroll: "routerNoscroll" in a.dataset ? false : undefined }
+  const url = new URL(href)
+  if (url.pathname.toLowerCase().endsWith(".pdf")) return
+  return { url, scroll: "routerNoscroll" in a.dataset ? false : undefined }
 }
 
 function notifyNav(url: FullSlug) {
