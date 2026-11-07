@@ -1,24 +1,30 @@
-/* The Bestiary uses a level-three monster name followed by a level-four tier. */
-.markdown-preview-view.aether-bestiary {
+/* Cards follow the note's existing monster name, tier, stats, and details. */
+.aether-bestiary {
   --bestiary-card: color-mix(in srgb, var(--background-primary) 55%, var(--background-secondary));
   --bestiary-rail: var(--interactive-accent);
+  --bestiary-border: var(--background-modifier-border);
+  --bestiary-radius: 0.6rem;
+  --bestiary-width: 48rem;
+}
 
-  /* Theme margins belong between cards, not between their Markdown blocks. */
+.markdown-preview-view.aether-bestiary {
   :where(.el-h3:has(+ .el-h4), .el-h3 + .el-h4, .el-h4 + .el-p,
       .el-h4 + .el-p + .el-ul, .el-h4 + .el-p + .el-ul + .el-p) {
     display: flow-root;
+    box-sizing: border-box;
+    max-inline-size: var(--bestiary-width);
     margin: 0 !important;
-    padding-inline: 0.85em;
+    padding-inline: 0.9em;
     background-color: var(--bestiary-card);
     border-inline-start: 3px solid var(--bestiary-rail);
-    border-inline-end: 1px solid var(--background-modifier-border);
+    border-inline-end: 1px solid var(--bestiary-border);
   }
 
   .el-h3:has(+ .el-h4) {
     margin-block-start: 1.1em !important;
     padding-block-start: 0.65em;
-    border-block-start: 1px solid var(--background-modifier-border);
-    border-radius: 0.45em 0.45em 0 0;
+    border-block-start: 1px solid var(--bestiary-border);
+    border-radius: var(--bestiary-radius) var(--bestiary-radius) 0 0;
   }
 
   .el-h3:has(+ .el-h4) h3,
@@ -32,12 +38,15 @@
   }
 
   .el-h3 + .el-h4 {
-    padding-block: 0.2em 0.5em;
+    padding-block: 0.25em 0.55em;
   }
 
   .el-h3 + .el-h4 h4 {
+    display: inline-block;
     font-size: 0.85em !important;
-    color: var(--text-muted);
+    padding: 0.12em 0.55em !important;
+    border-radius: 0.3em;
+    background: var(--background-modifier-hover);
   }
 
   .el-h4 + .el-p {
@@ -54,7 +63,7 @@
 
   .el-h4 + .el-p + .el-ul > ul {
     margin: 0 !important;
-    padding-inline-start: 1em;
+    padding-inline-start: 1.25em;
   }
 
   .el-h4 + .el-p + .el-ul > ul > li {
@@ -62,15 +71,17 @@
   }
 
   .el-h4 + .el-p + .el-ul + .el-p > p {
-    margin: 0.4em 0 0 !important;
+    margin: 0.55em 0 0 !important;
+    padding-block-start: 0.4em;
+    border-block-start: 1px solid var(--bestiary-border);
     color: var(--text-muted);
   }
 
   .el-h4 + .el-p + .el-ul:not(:has(+ .el-p)),
   .el-h4 + .el-p + .el-ul + .el-p {
     padding-block-end: 0.7em;
-    border-block-end: 1px solid var(--background-modifier-border);
-    border-radius: 0 0 0.45em 0.45em;
+    border-block-end: 1px solid var(--bestiary-border);
+    border-radius: 0 0 var(--bestiary-radius) var(--bestiary-radius);
   }
 
   :is(.el-h3:has(+ .el-h4 > h4[data-heading="Tier 6"]),
@@ -79,5 +90,55 @@
       .el-h4:has(> h4[data-heading="Tier 6"]) + .el-p + .el-ul,
       .el-h4:has(> h4[data-heading="Tier 6"]) + .el-p + .el-ul + .el-p) {
     --bestiary-rail: var(--color-yellow);
+  }
+}
+
+/* Live Preview renders each source line separately. A blank line separates cards. */
+.markdown-source-view.mod-cm6.is-live-preview.aether-bestiary .cm-content {
+  :where(.HyperMD-header-3:has(+ .HyperMD-header-4),
+         .HyperMD-header-3 + .HyperMD-header-4,
+         .HyperMD-header-4 + .cm-line,
+         .HyperMD-header-4 + .cm-line ~ .HyperMD-list-line,
+         .HyperMD-header-4 + .cm-line ~ .HyperMD-list-line + .cm-line:has(> br):has(+ .cm-line:not(.HyperMD-header)):not(:has(+ .cm-line > br)),
+         .HyperMD-header-4 + .cm-line ~ .HyperMD-list-line + .cm-line:has(> br) + .cm-line:not(.HyperMD-header, :has(> br))) {
+    box-sizing: border-box;
+    max-inline-size: var(--bestiary-width);
+    padding-inline: 1rem;
+    background-color: var(--bestiary-card);
+    border-inline-start: 3px solid var(--bestiary-rail);
+    border-inline-end: 1px solid var(--bestiary-border);
+  }
+
+  .HyperMD-header-3:has(+ .HyperMD-header-4) {
+    padding-block: 0.55em 0.1em;
+    border-block-start: 1px solid var(--bestiary-border);
+    border-radius: var(--bestiary-radius) var(--bestiary-radius) 0 0;
+  }
+
+  .HyperMD-header-3 + .HyperMD-header-4 {
+    padding-block: 0 0.35em;
+    --h4-size: 0.85em;
+    --h4-color: var(--text-muted);
+  }
+
+  .HyperMD-header-4 + .cm-line {
+    padding-block: 0.25em;
+    background-color: var(--background-modifier-hover);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .HyperMD-header-4 + .cm-line + .HyperMD-list-line {
+    padding-block-start: 0.35em;
+  }
+
+  .HyperMD-header-4 + .cm-line ~ .HyperMD-list-line + .cm-line:has(> br):has(+ .cm-line:not(.HyperMD-header)):not(:has(+ .cm-line > br)) {
+    line-height: 0.55em;
+  }
+
+  :is(.HyperMD-header-4 + .cm-line ~ .HyperMD-list-line:not(:has(+ .HyperMD-list-line, + .cm-line + .cm-line:not(.HyperMD-header))),
+      .HyperMD-header-4 + .cm-line ~ .HyperMD-list-line + .cm-line:has(> br) + .cm-line:not(.HyperMD-header, :has(> br))) {
+    padding-block-end: 0.55em;
+    border-block-end: 1px solid var(--bestiary-border);
+    border-radius: 0 0 var(--bestiary-radius) var(--bestiary-radius);
   }
 }

@@ -15,7 +15,7 @@ Version **4.5** is current.
 - [[Character Creation]] and `Rules/archetypes/` contain current character rules.
 - [[World Lore]] covers the relic economy and how the world responds to Arcanists.
 - [[Monsters]] contains the monster rules and [[Monsters#Bestiary Selection|worked examples]].
-- [[Open Questions]] contains only unresolved v4.5 work.
+- [[Friend Feedback Checklist]] contains only unresolved v4.5 work.
 
 ## Bestiary format
 
@@ -68,7 +68,7 @@ Use `status: draft` for unfinished material and `status: archived` for historica
 - Use periods, commas, or colons instead of em dashes.
 - Preserve strange examples and humor.
 - Do not invent rules to complete blank Perks or tables.
-- Put unresolved mechanics in [[Open Questions]].
+- Put unresolved mechanics in [[Friend Feedback Checklist]].
 - Check heading anchors after renaming a heading.
 
 ## Before Saving an Edit

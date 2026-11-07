@@ -76,7 +76,7 @@ Not everything needs a roll. Let the silly ideas move the story. Maybe a charact
 - The [[mutation-tables|Mutation table]] is ready when someone reaches 10 Exposure.
 - The [[wild-magic-table|Wild Magic table]] is ready when a casting roll comes up double 1s.
 
-The rules are short enough to read in one sitting. Current design work is tracked in [[Open Questions]]. For AI-assisted work on the vault, read [[AI Context]] first.
+The rules are short enough to read in one sitting. For AI-assisted work on the vault, read [[AI Context]] first.
 
 ## Current draft
 

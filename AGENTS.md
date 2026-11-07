@@ -4,7 +4,7 @@ This is the Obsidian vault for The Arcane Aether, a rules-light tabletop game in
 
 ## Current draft
 
-V4.5 is the current working draft. Notes marked `canonical: true` and `version: 4.5` are the live rules. Earlier versions, the old Resonance terminology, and historical decision logs are archived background. Do not silently restore their mechanics. Unsettled v4.5 work lives in `Open Questions.md`.
+V4.5 is the current working draft. Notes marked `canonical: true` and `version: 4.5` are the live rules. Earlier versions, the old Resonance terminology, and historical decision logs are archived background. Do not silently restore their mechanics. Unsettled v4.5 work lives in `Friend Feedback Checklist.md`.
 
 The assembled PDF is labeled **Version 4.6**. This is initially a full-book layout draft built from the current v4.5 source notes. Do not change canonical note versions or present unresolved mechanics as settled merely to match the PDF label.
 
@@ -15,8 +15,8 @@ The assembled PDF is labeled **Version 4.6**. This is initially a full-book layo
 - `rulebook/theme.typ` contains the shared print styling.
 - Build with `npm run build` from `rulebook/`. The PDF is written under `rulebook/output/pdf/`.
 - Keep the rulebook build separate from Quartz. PDF work must not change the public website build unless the user explicitly asks.
-- Layout work may reorganize presentation, page flow, and navigation. It must not silently rewrite rules, fill unfinished Perks, or resolve `Open Questions.md`.
-- Do not include `AI Context.md`, `CLAUDE.md`, `AGENTS.md`, `Open Questions.md`, archives, or project-management notes in the reader-facing PDF.
+- Layout work may reorganize presentation, page flow, and navigation. It must not silently rewrite rules, fill unfinished Perks, or resolve `Friend Feedback Checklist.md`.
+- Do not include `AI Context.md`, `CLAUDE.md`, `AGENTS.md`, `Friend Feedback Checklist.md`, archives, or project-management notes in the reader-facing PDF.
 - Tables fill one column. Long reference tables may continue across columns or pages; short tables should stay together where practical.
 - Do not hyphenate words across lines. Use ragged-right body text to avoid stretched spacing.
 
