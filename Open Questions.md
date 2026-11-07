@@ -16,18 +16,11 @@ The current outside review is organized in [[Friend Feedback Checklist]].
 
 The magnitude scale is now in [[Magic System#Magic Magnitude|Casting Magic]]. The following mechanics still need decisions before implementation:
 
-- Define disadvantage and how purchased dice, assistance, and extra-die Perks interact with it. Extra dice do not need a separate general advantage rule. Existing Perks that say “advantage” will need consistent extra-die wording once this interaction is settled.
 - Proposed general reward: gain 2 Luck after resolving a consequential roll with GM-imposed disadvantage, whether it succeeds or fails. The GM decides whether it qualifies; trivial manufactured disadvantage does not. Decide whether canceled disadvantage qualifies and confirm whether failure Luck stacks. At 5 Luck per advancement, this could substantially accelerate progression.
-- Proposed Huge healing could bring a dead character back. Define its limits and interaction with the final-slot death rules before adding resurrection to the live rules.
+- Playtest Mythic resurrection: Mythic magnitude, 10 Exposure, the caster always mutates, and the spirit must still be present, not moved on.
 - Confirm whether the listed magical damage is a normal guideline or a ceiling. It is currently a guideline, agreed before rolling.
 - Full-success casting now doubles standard spell damage. Decide whether casting double 6s should also triple damage; its current specific result still grants Spell Tag growth.
 - Playtest the provisional Huge benchmark covering both a field and a city. The GM judges the whole effect, rather than treating every effect over the same area as equally demanding.
-
-## Core rolls
-
-- Clarify which dice count for triple 1s and triple 6s in [[Core Mechanics#Attacking|combat]].
-- Confirm whether “a scare” on triple 1s means a Scar.
-- Confirm whether double 1s grant 2 Luck total or also grant the usual 1 Luck for a failed roll.
 
 ## Archetypes
 
@@ -49,3 +42,5 @@ The magnitude scale is now in [[Magic System#Magic Magnitude|Casting Magic]]. Th
 - Test whether Fatigue from missed rest, missed meals, and poison creates useful pressure, and whether one full night's sleep should remove all Fatigue.
 - Test flexible relic activations. A relic has one function, but the user can spend more stored Exposure for a greater Magic Magnitude.
 - Confirm that a full-success casting flourish feels useful without increasing the agreed effect.
+- Playtest ghost possession. The ghost rolls to take over a living body or object; on a success a possessed person still acts for themselves while the ghost can spend their action once per scene.
+- Playtest the monster caster tier cap, and the visible permanent mutation that comes with reaching beyond it.

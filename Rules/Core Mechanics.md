@@ -26,6 +26,14 @@ The GM calls for a roll when the outcome is uncertain and failure would change t
 
 Check doubles on the two dice that determine the result. Double 1s or double 6s replace the normal result.
 
+Some Archetype Perks trigger on double 4s. Check your Archetype's Perks.
+
+**Rolling with advantage:** roll 3d6 and keep the highest two, without spending Luck.
+
+**Rolling with disadvantage:** roll 3d6 and keep the lowest two.
+
+**d66:** roll two six-sided dice. One gives the tens digit, one gives the ones. Say which is which before you roll.
+
 When no more specific doubles rule applies, the GM adds a severe or lasting consequence to a Tragic failure. On a Critical success, your character achieves what they intended and gains an extra benefit chosen by the GM.
 
 A complication should move events forward. Your character might lose something, end up in danger, attract attention, or get hurt. A partial success still accomplishes what you rolled for.
@@ -36,9 +44,9 @@ Each character can hold up to **10 Luck**.
 
 ### Gaining Luck
 
-- Gain **1 Luck** after you accept and resolve a failed roll.
+- After a failed roll is resolved, gain **1 Luck**.
 - Gain **2 Luck** when your character achieves a Key Goal and you cross it off their list.
-- Gain **2 Luck** when you roll double 1s.
+- Gain **2 Luck** when you roll double 1s. That replaces the 1 Luck a normal failure gains; it does not stack.
 
 You may give your Luck to another player whenever you like.
 
@@ -88,7 +96,7 @@ Spend 5 Luck and choose one.
 
 Your character’s inventory tracks what they carry and how they’re holding up.
 
-Your character has **12 inventory slots**. Gear fills from the top down. Conditions fill from the bottom up, taking the lowest available slot.
+Your character has **12 inventory slots**. Gear fills from the top down, starting at slot 1. Conditions fill from the bottom up, starting at slot 12.
 
 An item usually takes one slot. Small things of the same kind bundle together, such as a handful of arrows, spikes, or three rations. Worn armor does not take a slot.
 
@@ -127,8 +135,6 @@ Roll **2d6 plus Strength** for hand-to-hand combat or **2d6 plus Dexterity** for
 | Full success    | The attack deals double the weapon’s damage.                                                              |
 | Double 6s       | Deal triple damage and ignore Armor.                                                                      |
 | Double 1s       | The attack fails. Your character takes 1 damage or their weapon breaks, whichever fits.                   |
-| Triple 6s       | Your character kills the target outright.                                                                 |
-| Triple 1s       | Your character takes a scare and drops their weapon. They blunder so badly they fall and hurt themselves. |
 
 On a failure or partial success, an enemy may hurt your character, push them back, damage their gear, or create another fitting complication. The enemy still takes its regular turn.
 
@@ -157,7 +163,7 @@ Armor reduces incoming damage. Worn armor and shields stack to a maximum of **3 
 
 If incoming damage exceeds your character’s Armor, subtract their Armor and apply the remaining damage. Their Armor breaks. If the damage is equal to or below their Armor, your character takes no damage and their Armor stays intact.
 
-A critical success ignores Armor without breaking it. Broken Armor must be repaired by someone with the necessary skills. Pay them or owe them a favor.
+A critical success ignores Armor without breaking it. Broken Armor must be repaired by someone with the necessary skills. Pay them or owe them a favor. Natural Armor needs repair too: a shattered shell might need a healer, a craftsperson, or a lot of time.
 
 ### When enemies attack
 

@@ -14,9 +14,9 @@ source: The Arcane Aether Rules v4.5.rtf
 
 Your character can command the patterns of Aether and reshape reality through thought and imagination.
 
-1. Describe the effect and desired  magnitude. This can be total effect in size or duration or both.
-2. Once the cost has been agreed on, then roll 2d6 plus one relevant Spell Tag.
-3. If there was a success mark the exposure.
+1. Describe the effect and pick a magnitude from the table on your character sheet. This can be total effect in size or duration or both.
+2. Roll 2d6 plus one relevant Spell Tag.
+3. Mark the Exposure cost, success or failure.
 
 Casting follows the [[Core Mechanics#The dice|normal roll results]], with these additional effects:
 
@@ -53,7 +53,7 @@ The [[Spell Tags]] table is a prompt sheet, not a spell list.
 
 The magnitude should be, player facing, simple and fast at the table. Its cost should inform the players choice in how big they want their cast to be.
 
-Over all the segments are  based on the spell's overall scale, power, reach, damage, and duration. But don’t sweat the small stuff, pick a number and keep the story moving.
+Overall, the segments are based on the spell's overall scale, power, reach, damage, and duration. But don’t sweat the small stuff, pick a number and keep the story moving.
 
 | Magnitude | Exposure | Damage guideline | Example                                                        |
 | --------- | -------- | ---------------- | -------------------------------------------------------------- |
@@ -71,15 +71,15 @@ Casting effects end when their agreed duration expires. A portal closes, a trans
 
 ### Magical healing
 
-Medium magic handles simple injuries, normally restoring 2 Health. Large magic handles major wounds, normally restoring 3 Health, or removing one Scar. The GM considers the whole effect when assigning magnitude, including how many characters it heals and how long it lasts.
+Medium magic handles simple injuries, normally restoring 2 Health. Large magic handles major wounds, normally restoring 3 Health, or removing one Scar. The player picks the magnitude based on how many characters they heal and how long the effect lasts. If the pick doesn't cover the intent, the GM says so before the roll.
 
-Damage and healing normally happen instantly and remain afterward. Each character can benefit from a healing zone once per cast.
+Damage and healing normally happen instantly and remain afterward. One cast can heal each character only once.
 
 ### Magic is a team sport
 
 Magic can be a team effort. Separate casts can build on each other.
 
-One character creates fire, another opens a portal, and a third blows the fire through it. The GM prices each cast separately. Each player rolls for their own character. Each character gains Exposure for their own cast.
+One character creates fire, another opens a portal, and a third blows the fire through it. Each player picks a magnitude and rolls for their own character. Each character gains Exposure for their own cast.
 
 ## Exposure and Mutation
 
@@ -104,10 +104,10 @@ Creating a new relic consumes **2 of the character's current Exposure**. This Ex
 
 For example, creating a relic with 4 stored Exposure removes 6 Exposure from the character: 2 to make the object magical and 4 to store. A new relic may start empty. Refilling an existing relic costs only the Exposure transferred, with no creation cost.
 
-Anyone who can operate the relic can activate it. Describe an effect within the relic's function. The GM assigns its Magic Magnitude using the [[Magic System#Magic Magnitude|normal casting guidelines]]. Subtract that magnitude's Exposure cost from the relic's stored Exposure. No casting roll is made, and the character using it gains no Exposure.
+Anyone who can operate the relic can activate it. Describe an effect within the relic's function. The operator picks the effect's magnitude and subtracts its Exposure cost from the relic's stored Exposure. A relic can produce one big cast or many small ones until it runs empty. No casting roll is made, and the operator gains no Exposure.
 
 The relic cannot produce an activation that costs more Exposure than it currently holds. At zero Exposure, it is inert until an Arcanist refills it. It remains a relic and does not need the creation cost paid again.
 
-Get creative with your magic items. Like a soul jar thats holds more gear, a fork that shoots fire balls, gloves that put people to sleep.
+Get creative with your magic items. Like a soul jar that holds more gear, a fork that shoots fireballs, gloves that put people to sleep.
 
 Relics can be traded or sold like other valuable objects.

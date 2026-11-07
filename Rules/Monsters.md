@@ -44,6 +44,7 @@ More examples are in the [[#Bestiary Selection|Bestiary]].
 - **One attacker.** Roll 2d6 plus Threat. Use the monster’s listed Damage for any of its attacks. A bear might bite or swipe, but both deal 3 damage. See [[Core Mechanics#When enemies attack]].
 - **Several attackers, one target.** When monsters attack one character at the same time, roll once using the group’s highest Threat and best single Damage. Their numbers can still surround characters, block exits, or create other complications.
 - **Extra attacks.** A monster with Threat +2 or higher can attack twice on its turn. An individual monster may break this rule when it fits.
+- **Monster casters.** Monsters do not track Exposure. A monster casts at up to the magnitude matching its tier: a Tier 3 caster works Medium magic, a Tier 5 caster works Huge magic. The GM rolls 2d6 plus Threat for the cast and uses the normal roll results. Mythic casters can go bigger when the story calls for it. If a caster reaches beyond its tier, the strain shows: the monster visibly mutates, and the change is permanent.
 
 ## Morale
 
