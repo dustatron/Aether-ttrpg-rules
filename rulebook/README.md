@@ -10,6 +10,8 @@ separate from the Quartz website and does not change the source notes.
 npm run build
 ```
 
+The tri-fold character sheet requires Typst 0.14 or newer. The pinned Quarto installer includes a compatible version.
+
 Output:
 
 ```text

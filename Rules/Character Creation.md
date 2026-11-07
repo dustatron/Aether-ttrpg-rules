@@ -123,4 +123,4 @@ Starting Marked gives the character more control over magic, but the Aether has 
 
 ## Character sheet
 
-![[Character sheet v4.6.png]]
+![[Character sheet v7-tri-fold.pdf]]

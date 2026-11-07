@@ -23,7 +23,7 @@ As a GM, I like to play to find out and leave room for freeform play. I want sim
 
 **Start here:** [[Rules/index|Read the core rules]] or [[Character Creation|make a character]].
 
-**Downloads:** [[files/The Arcane Aether Rules v4.6 draft.pdf|Latest rules PDF]] · [[files/Character sheet v4.6.png|Character sheet]]
+**Downloads:** [[files/The Arcane Aether Rules v4.6 draft.pdf|Latest rules PDF]] · [[files/Character sheet v7-tri-fold.pdf|Tri-fold character sheet]]
 
 ## Origin of magic relics
 
@@ -84,4 +84,4 @@ Version 4.6 is the current working ruleset. This is a work in progress and needs
 
 ## Character sheet
 
-![[Character sheet v4.6.png]]
+![[Character sheet v7-tri-fold.pdf]]

@@ -423,21 +423,24 @@ ${parts.join("\n\n")}
   columns: 1,
   width: 11in,
   height: 8.5in,
-  margin: 0.4in,
+  margin: 0pt,
   header: none,
-  footer: context align(center)[#text(size: 8pt, fill: muted)[#counter(page).display("1")]],
+  footer: none,
 )
 \`\`\`
 
 \`\`\`{=typst}
-#align(center + horizon)[#image("assets/character-sheet.png", width: 100%)]
+#for side in (1, 2) {
+  if side > 1 { pagebreak() }
+  image("assets/character-sheet.pdf", page: side, width: 100%, alt: "Tri-fold character sheet, side " + str(side))
+}
 \`\`\`
 `
 
 await mkdir(buildDir, { recursive: true })
 await mkdir(join(buildDir, "assets"), { recursive: true })
 await copyFile(
-  join(vaultDir, "files", "Character sheet v4.6.png"),
-  join(buildDir, "assets", "character-sheet.png"),
+  join(vaultDir, "files", "Character sheet v7-tri-fold.pdf"),
+  join(buildDir, "assets", "character-sheet.pdf"),
 )
 await writeFile(join(buildDir, "book.qmd"), source)
