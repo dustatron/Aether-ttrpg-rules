@@ -12,4 +12,4 @@ These notes preserve earlier versions of the game, including The Resonance termi
 
 They are useful for design history and comparison. They are not current rules and should not be used to answer rules questions unless the user explicitly asks about an earlier version.
 
-Current rules begin at [[Start Here]] and [[AI Context]].
+Current rules begin at [[The Arcane Aether]] and [[AI Context]].

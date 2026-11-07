@@ -38,14 +38,14 @@ Opened by the six-lens review of [[Core Rules]], v0.1.
 - ✅ Archetypes split into `rules/archetypes/`, one note each, indexed from [[Character Creation]].
 
 12. **`Running the Game`.** No GM-facing procedure exists anywhere.
-13. **A navigation spine.** [[Start Here]] has zero outbound links and needs an index.
+13. **A navigation spine.** [[The Arcane Aether]] has zero outbound links and needs an index.
 14. **Do not create `Wild Magic`.** Decided. Its only ruling belongs in the casting rules; the link retargets to [[wild-magic-table]].
 
 ## Fix
 
 15. **Retire [[Core Rules]] (v1).** It is linked from nowhere and kept only for diffing. Retiring it closes four stale items at once: emoji headings that break anchors, truncated sentences and typos, stat glosses that have drifted from [[Character Creation]], and the proposal to split it.
 16. **`resources/Resource.md` frontmatter.** Missing `system:` and `version:`. It is also designer-facing material in a player-facing folder.
-17. **Duplicate Key Terms.** Byte-identical in [[Start Here]] and [[World Lore]].
+17. **Duplicate Key Terms.** Byte-identical in [[The Arcane Aether]] and [[World Lore]].
 
 ## Playtest
 

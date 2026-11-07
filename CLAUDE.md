@@ -8,7 +8,7 @@ Read [[AI Context]] first. It defines the authority order, current terminology, 
 
 Version **4.5** is current.
 
-- [[Start Here]] contains the premise and navigation.
+- [[The Arcane Aether]] contains the premise and navigation.
 - [[Rules/index|Core Rules]] is the contents page for the canonical rules.
 - [[Core Mechanics]], [[Magic System]], and [[Dying and Recovery]] contain the core engine.
 - [[Rules/index#Key Terms|Key Terms]] is the canonical glossary.

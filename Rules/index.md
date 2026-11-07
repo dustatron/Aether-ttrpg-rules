@@ -14,7 +14,7 @@ source: The Arcane Aether Rules v4.5.rtf
 
 The Arcane Aether is a rules-light game about ordinary people who can reshape reality and must live with the cost.
 
-For the premise and reading order, start with [[Start Here]].
+For the premise and reading order, start with [[The Arcane Aether]].
 
 ## Player rules
 

@@ -43,7 +43,7 @@ Use **player** for the real person at the table. Use **character** for the perso
 
 ## Current Reading Set
 
-- [[Start Here]]
+- [[The Arcane Aether]]
 - [[Rules/index|Core Rules]]
 - [[Core Mechanics]]
 - [[Magic System]]
