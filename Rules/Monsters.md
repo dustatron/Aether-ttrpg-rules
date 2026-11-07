@@ -27,6 +27,8 @@ I want to be able to grab a creature from a monster book I already own and run i
 | 5          | Boss         | +2     | 4      | 20     | 3     | Demon          |
 | 6          | Mythic       | +3     | 5      | 30     | 5     | Dragon         |
 
+Here is a Tier 2 bandit in that format:
+
 **Bandit, Minion**
 
 **Threat** 0, **Damage** 2, **Health** 5, **Armor** 1

@@ -7,11 +7,9 @@ version: 4.5
 canonical: true
 source: The Arcane Aether Rules v4.5.rtf
 ---
-
 # Core Mechanics
 
 ## The dice
-
 Say what your character intends to do. **Roll two six-sided dice (2d6)** and add the relevant stat. For casting, use one relevant Spell Tag in place of the stat.
 
 The GM calls for a roll when the outcome is uncertain and failure would change the situation. Otherwise, the GM lets it happen or tells you what it costs in time or resources.
@@ -34,16 +32,12 @@ Some Archetype Perks trigger on double 4s. Check your Archetype's Perks.
 
 **d66:** roll two six-sided dice. One gives the tens digit, one gives the ones. Say which is which before you roll.
 
-When no more specific doubles rule applies, the GM adds a severe or lasting consequence to a Tragic failure. On a Critical success, your character achieves what they intended and gains an extra benefit chosen by the GM.
-
 A complication should move events forward. Your character might lose something, end up in danger, attract attention, or get hurt. A partial success still accomplishes what you rolled for.
 
 ## Luck
-
-Each character can hold up to **10 Luck**.
+Each character can hold up to **10 Luck**. Luck gained above 10 is lost.
 
 ### Gaining Luck
-
 - After a failed roll is resolved, gain **1 Luck**.
 - Gain **2 Luck** when your character achieves a Key Goal and you cross it off their list.
 - Gain **2 Luck** when you roll double 1s. That replaces the 1 Luck a normal failure gains; it does not stack.
@@ -51,7 +45,6 @@ Each character can hold up to **10 Luck**.
 You may give your Luck to another player whenever you like.
 
 ### Tracking Luck
-
 Use spare six-sided dice or tokens at the table. Each die or token represents 1 Luck. The number showing on a die doesn’t matter. Collect them as you gain Luck and return them as you spend it.
 
 At the end of the session, record what’s left in the Luck box on your character sheet. Set out that many dice or tokens at the start of the next session.
@@ -90,7 +83,7 @@ Spend 5 Luck and choose one.
 - Increase a stat by 1, to a maximum of +3.
 - Increase a Spell Tag by 1, to a maximum of +3.
 - Increase maximum Health by 1.
-- Gain an Archetype Perk.
+- Gain an Archetype Perk, rolled on the table or chosen.
 
 ## Inventory and conditions
 
@@ -161,7 +154,9 @@ Apply damage added by a Perk before doubling or tripling the attack.
 
 Armor reduces incoming damage. Worn armor and shields stack to a maximum of **3 Armor**, although Mythic creatures may have more.
 
-If incoming damage exceeds your character’s Armor, subtract their Armor and apply the remaining damage. Their Armor breaks. If the damage is equal to or below their Armor, your character takes no damage and their Armor stays intact.
+If incoming damage exceeds your character's Armor, subtract their Armor and apply the remaining damage. Their Armor breaks. If the damage is equal to or below their Armor, your character takes no damage and their Armor stays intact.
+
+For example, a 4-damage hit against Armor 3 breaks the armor and deals 1 damage to your character. A 3-damage hit against Armor 3 deals no damage and leaves the armor intact.
 
 A critical success ignores Armor without breaking it. Broken Armor must be repaired by someone with the necessary skills. Pay them or owe them a favor. Natural Armor needs repair too: a shattered shell might need a healer, a craftsperson, or a lot of time.
 
@@ -173,7 +168,7 @@ Use the enemy's Threat from [[Monsters]]. The GM rolls **2d6 plus Threat**.
 | ------------- | -------------------------------------------------------- |
 | 6 or less     | The attack misses.                                       |
 | 7 to 9        | Deal the enemy's listed damage.                          |
-| 10 or greater | Deal the enemy's listed damage and cause a complication. |
+| 10 or greater | Deal the enemy's listed damage and gain an advantage.  |
 | Double 6s     | Deal triple damage and ignore Armor.                     |
 | Double 1s     | The attack fails and the enemy suffers a mishap.         |
 

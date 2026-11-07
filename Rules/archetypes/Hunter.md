@@ -20,7 +20,7 @@ Your character hunted Arcanists for coin, following rumors, studying habits, and
 - Crossbow, 2 damage
 - Manacles
 - Iron spikes
-- Big hammer, 1 damage
+- Big hammer, 1 damage, built for driving iron spikes
 - Rations x3
 - Chainmail, Armor 1
 

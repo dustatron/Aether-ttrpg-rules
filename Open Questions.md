@@ -21,6 +21,7 @@ The magnitude scale is now in [[Magic System#Magic Magnitude|Casting Magic]]. Th
 - Confirm whether the listed magical damage is a normal guideline or a ceiling. It is currently a guideline, agreed before rolling.
 - Full-success casting now doubles standard spell damage. Decide whether casting double 6s should also triple damage; its current specific result still grants Spell Tag growth.
 - Playtest the provisional Huge benchmark covering both a field and a city. The GM judges the whole effect, rather than treating every effect over the same area as equally demanding.
+- Decide how many characters one healing cast can cover. The player picks the magnitude based on how many characters they heal, but no guideline says what each magnitude covers.
 
 ## Archetypes
 

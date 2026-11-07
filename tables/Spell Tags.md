@@ -31,7 +31,7 @@ When a player needs a Spell Tag idea, roll once or choose one. To create a monst
 | 35  | Animals        |
 | 36  | Swarms         |
 | 41  | Explosion      |
-| 42  | locating       |
+| 42  | Locating       |
 | 43  | Undead         |
 | 44  | Illusion       |
 | 45  | Acid           |

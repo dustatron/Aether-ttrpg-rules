@@ -7,7 +7,6 @@ version: 4.5
 canonical: true
 source: The Arcane Aether Rules v4.5.rtf
 ---
-
 # Dying and Recovery
 
 ## Health, Scars, and recovery
@@ -52,6 +51,8 @@ The condition that claims your character's final inventory slot determines their
 | Mutation | The character becomes a Demon. The Aether has changed them beyond themselves. |
 | Scar | The character's body dies. Their spirit passes on, or lingers because of unfinished business. |
 | Fatigue | The character's body gives out from exhaustion. |
+
+A Demon passes to the GM, a waking nightmare for the world to deal with, and the player makes someone new.
 
 The character can pass on and become part of the world's lore, or linger as a ghost. See [[#Playing a ghost]]. Whenever the ghost moves on, the player makes someone new.
 

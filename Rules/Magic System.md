@@ -21,7 +21,7 @@ Your character can command the patterns of Aether and reshape reality through th
 Casting follows the [[Core Mechanics#The dice|normal roll results]], with these additional effects:
 
 - **Double 1s:** The cast fails spectacularly. Your character gains no Exposure. Roll d66 on the [[wild-magic-table|Wild Magic table]].
-- **Double 6s:** The cast executes spectacularly. Mark the  Exposure and then gain, or improve a Spell Tag as described below.
+- **Double 6s:** The cast executes spectacularly. Mark the Exposure and then gain, or improve a Spell Tag as described below.
 
 A beneficial flourish to the cast can be added to the scene when it makes sense in the story.
 
@@ -35,7 +35,7 @@ Casting does not use a Stat. Only one relevant Spell Tag can add to the roll.
 
 ### Learning Spell Tags
 
-When your character attempts a cast without a relevant Spell Tag, write down a fitting Tag with an empty four-segment clock. An unfinished Tag adds no bonus to the roll.
+When your character attempts a cast without a relevant Spell Tag, write down a fitting Tag with an empty four-segment clock. An unfinished Tag adds no bonus to the roll. Your character can keep several unfinished Tag clocks open at once.
 
 After each successful cast that fits the Tag, fill one segment. Partial and full successes count. When the fourth segment is filled, erase the clock and record the Tag at +1.
 

@@ -16,13 +16,13 @@ Make someone who had a life before they became an Arcanist. Four steps are enoug
 
 Give your character a name and a few details: their age, appearance, voice, and where they are from. A line is plenty.
 
-Then choose a Life Type and record both of its traits. Humans, elves, goblins, cat people, karate turtles, and stranger things all have a place in this world.
+Then choose a Life Type and record its traits. Humans, elves, goblins, cat people, karate turtles, and stranger things all have a place in this world.
 
 ### Life types
 
 #### Human
 
-- **Resilient:** Once a day, ignore 1 Fatigue after missing proper sleep.
+- **Resilient:** Once a day, when your character misses proper sleep, they do not gain the Fatigue for it.
 - **I Know a Guy:** Once per session, declare that your character knows someone useful in the current location. Tell the table how they know each other.
 
 #### Elf
@@ -59,7 +59,7 @@ Examples:
 
 Your character's Archetype represents the life they led before becoming an Arcanist.
 
-Choose one. Take its starting gear, maximum Health, and one Perk. Use its suggested Stats, or arrange **+2, +1, 0, and -1** across the four Stats yourself.
+Choose one. Take its starting gear, maximum Health, and one Perk, rolled on the table or chosen. Use its suggested Stats, or arrange **+2, +1, 0, and -1** across the four Stats yourself.
 
 | Stat | What it covers |
 | --- | --- |
