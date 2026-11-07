@@ -8,7 +8,7 @@ canonical: true
 
 # The Arcane Aether
 
-The Arcane Aether is a rules-light fantasy game about ordinary people who discover that reality can be rewritten.
+The Arcane Aether is a rules-light fantasy game about people who develop an ability to rewrite reality.
 
 I am trying to explore two ideas with these rules:
 
