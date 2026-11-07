@@ -270,7 +270,7 @@ async function loadNote(entry) {
       : keepParagraphTogether(compactMonsterTierTable(rules), "## Running one\n\n")
   }
 
-  if (entry.path === "Start Here.md") {
+  if (entry.path === "The Arcane Aether.md") {
     markdown = markdown
       .replace(/^\*\*Downloads:\*\*.*$/gm, "")
       .replace(/^\*\*Start here:\*\*.*$/gm, "")
