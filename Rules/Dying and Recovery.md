@@ -39,7 +39,7 @@ To catch their breath, spend the character's action and roll **2d6 plus Willpowe
 
 Health cannot exceed the character's maximum.
 
-Removing a Scar requires [[Casting Magic#Magical healing|magic]] or about a week of care from a healer. Removing it frees its inventory slot.
+Removing a Scar requires [[Magic System#Magical healing|magic]] or about a week of care from a healer. Removing it frees its inventory slot.
 
 ## Death and dying
 

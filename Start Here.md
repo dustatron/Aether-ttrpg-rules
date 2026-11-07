@@ -21,7 +21,7 @@ I am not very concerned with encounter balance, and the game does not offer many
 
 As a GM, I like to play to find out and leave room for freeform play. I want simple monster creation and fast, fluid fights when the players decide to fight.
 
-**Start here:** [[Core Rules|Read the core rules]] or [[Character Creation|make a character]].
+**Start here:** [[Rules/index|Read the core rules]] or [[Character Creation|make a character]].
 
 **Downloads:** [[files/The Arcane Aether Rules v4.6 draft.pdf|Latest rules PDF]] · [[files/Character sheet v4.6.png|Character sheet]]
 
@@ -47,7 +47,7 @@ Players can spend that Luck to improve their character’s stats, help one anoth
 
 ### Monsters should be easy to run
 
-A monster needs four numbers and answers to two questions: what does it want, and what is its weakness?
+A monster needs four numbers and an answer to one question. What does it want? A [[Monsters#Mythic monsters|Mythic]] also needs a Weakness. It’s the one thing that can end it.
 
 Monster tiers are numbered 1 to 6. When I do not want to decide how dangerous something should be, I let the dice decide.
 
@@ -67,12 +67,12 @@ Not everything needs a roll. Let the silly ideas move the story. Maybe a charact
 
 ## Explore the game
 
-- [[Core Rules|Core rules]] links to the rules by topic.
+- [[Rules/index|Core rules]] links to the rules by topic.
 - [[Character Creation|Character creation]] gets an Arcanist ready for play.
-- [[Key Ideas|Game Master guidance]] explores the relic economy, collaborative magic, and how the world responds to Arcanists.
+- [[World Lore]] explores the relic economy and how the world responds to Arcanists.
 - [[Monsters]] explains how to build and run opposition.
-- The [[Bestiary]] contains worked examples.
-- [[Key Ideas#Key Terms|Key Terms]] defines the game's recurring language.
+- The [[Monsters#Bestiary Selection|Bestiary]] contains worked examples.
+- [[Rules/index#Key Terms|Key Terms]] defines the game's recurring language.
 - The [[mutation-tables|Mutation table]] is ready when someone reaches 10 Exposure.
 - The [[wild-magic-table|Wild Magic table]] is ready when a casting roll comes up double 1s.
 

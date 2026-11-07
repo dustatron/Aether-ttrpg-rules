@@ -16,7 +16,7 @@ Most people cannot perceive those patterns. Arcanists can. Through thought and i
 
 ## The cost
 
-Every cast exposes the Arcanist to raw Aether. Exposure makes greater magic possible while destabilizing the Arcanist's own pattern. As it builds, the Arcanist Mutates. Too many Mutations turn them into a Demon. See [[Casting Magic#Exposure and Mutation|Exposure and Mutation]].
+Every cast exposes the Arcanist to raw Aether. Exposure makes greater magic possible while destabilizing the Arcanist's own pattern. As it builds, the Arcanist Mutates. Too many Mutations turn them into a Demon. See [[Magic System#Exposure and Mutation|Exposure and Mutation]].
 
 An Arcanist can delay this transformation by moving Exposure into an object. The object becomes a relic that stores Aether and performs one kind of magic.
 
@@ -29,3 +29,13 @@ Most conventional magic users do not command Aether directly. They are fancy sca
 The oldest magical orders know where their power comes from. Some trade protection, knowledge, and resources for new relics. Others hunt independent Arcanists while quietly depending on their work.
 
 To ordinary people, a visibly changed Arcanist is Frayed. They are feared as unstable, dangerous, or already halfway to becoming a Demon.
+
+## Making money
+
+Arcanists can make and sell relics. For some, it is a living.
+
+Wizarding schools may keep their Arcanist suppliers on the down-low. Common folk do not need to know that their magic items come from people slowly turning into monsters.
+
+## Arcanists might be scary
+
+Anyone who can rewrite reality is dangerous. Common folk may fear Arcanists. Powerful people may hunt, recruit, hide, or control them before they grow into demigods.

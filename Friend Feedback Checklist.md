@@ -13,7 +13,7 @@ This checklist separates reactions, questions, possible changes, and things that
 ## Confirmed or working as intended
 
 - [x] **Keep Otherfolk open-ended.** It gives creative players room without burdening players who want a familiar choice.
-- [x] **Casting uses a Spell Tag instead of a Stat.** This is stated in [[Core Mechanics#The dice|The dice]] and [[Casting Magic#Magical casting|Magical casting]].
+- [x] **Casting uses a Spell Tag instead of a Stat.** This is stated in [[Core Mechanics#The dice|The dice]] and [[Magic System#Magical casting|Magical casting]].
 - [x] **The casting dials support different effects at the same price.** A touched target shoved for a few hours costs 3 Exposure. A room shoved for an instant also costs 3.
 - [x] **Relics create a reason to move Exposure into objects.** The core idea landed well.
 

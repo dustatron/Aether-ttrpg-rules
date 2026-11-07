@@ -15,7 +15,7 @@ This vault contains the current rules for **The Arcane Aether** and archived dra
 When sources disagree, use this order:
 
 1. The user's latest instruction.
-2. The topic notes linked from [[Core Rules]], [[Character Creation]], [[Monsters]], and linked v4.5 notes marked `canonical: true`.
+2. The topic notes linked from [[Rules/index|Core Rules]], [[Character Creation]], [[Monsters]], and linked v4.5 notes marked `canonical: true`.
 3. [[Open Questions]] for mechanics that are not settled.
 4. Lore and brainstorm notes.
 5. `archive/` only when researching history. Archived rules are never current authority.
@@ -44,16 +44,14 @@ Use **player** for the real person at the table. Use **character** for the perso
 ## Current Reading Set
 
 - [[Start Here]]
-- [[Core Rules]]
+- [[Rules/index|Core Rules]]
 - [[Core Mechanics]]
-- [[Casting Magic]]
-- [[Magic Items and Dispersing Exposure]]
+- [[Magic System]]
 - [[Dying and Recovery]]
-- [[Key Ideas#Key Terms|Key Terms]]
+- [[Rules/index#Key Terms|Key Terms]]
 - [[Character Creation]]
-- [[Key Ideas]]
+- [[World Lore]]
 - [[Monsters]]
-- [[Bestiary]]
 - [[mutation-tables|Mutation Table]]
 - [[wild-magic-table|Wild Magic]]
 - [[Spell Tags]]

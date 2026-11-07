@@ -14,8 +14,7 @@
       "title": "Core Rules",
       "files": [
         { "path": "Rules/Core Mechanics.md" },
-        { "path": "Rules/Casting Magic.md" },
-        { "path": "Rules/Magic Items and Dispersing Exposure.md" },
+        { "path": "Rules/Magic System.md" },
         { "path": "Rules/Dying and Recovery.md" }
       ]
     },
@@ -45,7 +44,7 @@
     {
       "title": "Bestiary",
       "files": [
-        { "path": "Rules/Bestiary.md", "hideTitle": true }
+        { "path": "Rules/Monsters.md", "bestiary": true, "hideTitle": true }
       ]
     },
     {
@@ -54,7 +53,9 @@
         { "path": "tables/mutation-tables.md", "compactTable": "mutation" },
         { "path": "tables/wild-magic-table.md", "compactTable": "wild", "columnBreakBefore": true },
         { "path": "tables/Spell Tags.md", "pageBreakBefore": true, "compactTable": "spell" },
-        { "path": "Rules/Key Ideas.md", "columnBreakBefore": true }
+        { "path": "Rules/index.md", "heading": "Key Terms", "columnBreakBefore": true },
+        { "path": "lore/World Lore.md", "heading": "Making money" },
+        { "path": "lore/World Lore.md", "heading": "Arcanists might be scary" }
       ]
     }
   ]

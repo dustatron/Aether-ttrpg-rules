@@ -65,17 +65,17 @@ function compactMonsterTierTable(markdown) {
 }
 
 function boxBestiaryEntries(markdown) {
-  const firstEntry = markdown.search(/^##\s+/m)
+  const firstEntry = markdown.search(/^###\s+/m)
   if (firstEntry === -1) return markdown
 
   const introduction = markdown.slice(0, firstEntry).trimEnd()
   const entries = markdown
     .slice(firstEntry)
-    .split(/(?=^##\s+)/m)
+    .split(/(?=^###\s+)/m)
     .filter(Boolean)
     .map((entry, index) => {
       const lines = entry.trim().split(/\r?\n/)
-      const rawTitle = lines.shift().replace(/^##\s+/, "").trim()
+      const rawTitle = lines.shift().replace(/^###\s+/, "").trim()
       const tierLineIndex = lines.findIndex((line) => /^####\s+Tier\s+\d+\s*$/.test(line))
       const tierMatch = tierLineIndex === -1
         ? rawTitle.match(/^Tier\s+(\d+),\s*/)
@@ -252,15 +252,22 @@ async function loadNote(entry) {
     await readFile(join(vaultDir, entry.path), "utf8"),
   )
 
+  if (entry.heading) {
+    const section = markdown.split(/(?=^## )/m).find((part) =>
+      part.split(/\r?\n/, 1)[0].trimEnd() === `## ${entry.heading}`,
+    )
+    if (!section) throw new Error(`Missing heading "${entry.heading}" in ${entry.path}`)
+    markdown = section.replace(/^## /, "# ")
+  }
+
   markdown = translateObsidian(markdown)
   markdown = translateCallouts(markdown)
 
   if (entry.path === "Rules/Monsters.md") {
-    markdown = compactMonsterTierTable(markdown)
-  }
-
-  if (entry.path === "Rules/Bestiary.md") {
-    markdown = boxBestiaryEntries(markdown)
+    const [rules, bestiary] = markdown.split(/^## Bestiary Selection[ \t]*$/m)
+    markdown = entry.bestiary
+      ? boxBestiaryEntries(bestiary)
+      : keepParagraphTogether(compactMonsterTierTable(rules), "## Running one\n\n")
   }
 
   if (entry.path === "Start Here.md") {
@@ -271,13 +278,6 @@ async function loadNote(entry) {
     markdown = removeSection(markdown, "Explore the game")
     markdown = removeSection(markdown, "Current draft")
     markdown = removeSection(markdown, "Character sheet")
-  }
-
-  if (entry.path === "Rules/Key Ideas.md") {
-    markdown = markdown.replace(
-      /^These ideas shape the game even when the rules do not say them outright\.\s*$/m,
-      "",
-    )
   }
 
   if (entry.path === "Rules/Character Creation.md") {
@@ -295,7 +295,7 @@ async function loadNote(entry) {
     )
   }
 
-  if (entry.path === "Rules/Casting Magic.md") {
+  if (entry.path === "Rules/Magic System.md") {
     markdown = keepParagraphTogether(
       markdown,
       "Damage and healing normally happen instantly and remain afterward",

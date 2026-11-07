@@ -9,20 +9,22 @@ Read [[AI Context]] first. It defines the authority order, current terminology, 
 Version **4.5** is current.
 
 - [[Start Here]] contains the premise and navigation.
-- [[Core Rules]] is the contents page for the canonical rules.
-- [[Core Mechanics]], [[Casting Magic]], [[Magic Items and Dispersing Exposure]], and [[Dying and Recovery]] contain the core engine.
-- [[Key Ideas#Key Terms|Key Terms]] is the canonical glossary.
+- [[Rules/index|Core Rules]] is the contents page for the canonical rules.
+- [[Core Mechanics]], [[Magic System]], and [[Dying and Recovery]] contain the core engine.
+- [[Rules/index#Key Terms|Key Terms]] is the canonical glossary.
 - [[Character Creation]] and `Rules/archetypes/` contain current character rules.
-- [[Key Ideas]] contains current GM principles and setting consequences.
-- [[Monsters]] and [[Bestiary]] contain current GM rules.
+- [[World Lore]] covers the relic economy and how the world responds to Arcanists.
+- [[Monsters]] contains the monster rules and [[Monsters#Bestiary Selection|worked examples]].
 - [[Open Questions]] contains only unresolved v4.5 work.
 
 ## Bestiary format
 
-Preserve this exact compact structure. Keep the monster name and tier label in the level-two heading, with the numbered tier directly below it. Keep all four stats together on the next line. Use bullets only for Attacks, Casts, Weakness, and Desire.
+Preserve this exact compact structure. Keep the monster name and tier label in a level-three heading under Bestiary, with the numbered tier directly below it. Keep all four stats together on the next line. Use bullets only for Attacks, Casts, Weakness, and Desire.
+
+The Weakness bullet is required for Mythics and optional for other tiers.
 
 ```markdown
-## Goblin, Pest
+### Goblin, Pest
 #### Tier 1
 **Threat:** -1 | **Damage:** 1 | **Health:** 3 | **Armor:** 0
 - **Attacks:** Rusty knife, rocks, biting.

@@ -25,8 +25,6 @@ These are prompts for improvising, not conditions or fixed mechanical penalties.
 | Time lost | Opportunity lost | Deadline nears | Crisis arrives |
 | Odd trace | Unwanted noise | Lingering effect | Spillover |
 
-For example, the character opens the vault, but leaves a trail. The vault is open. Someone now has a way to follow them.
-
 ## Costs
 
 | Spark | Possible cost |
@@ -38,4 +36,3 @@ For example, the character opens the vault, but leaves a trail. The vault is ope
 | Risk | Reputation |
 | Reveal | A secret |
 
-Related: [[NPC Wants]], [[Discoveries]], [[GM Sparks]].

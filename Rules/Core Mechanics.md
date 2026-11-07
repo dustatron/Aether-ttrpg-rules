@@ -12,17 +12,17 @@ source: The Arcane Aether Rules v4.5.rtf
 
 ## The dice
 
-Say what your character intends to do. **Roll 2d6 plus the fitting stat.** Casting uses one relevant Spell Tag instead.
+Say what your character intends to do. **Roll two six-sided dice (2d6)** and add the relevant stat. For casting, use one relevant Spell Tag in place of the stat.
 
-Roll when the outcome is uncertain and failure would change the situation. Otherwise, let it happen or tell the player what it costs in time or resources.
+The GM calls for a roll when the outcome is uncertain and failure would change the situation. Otherwise, the GM lets it happen or tells you what it costs in time or resources.
 
-| Total         | Result                                                                |
-| ------------- | --------------------------------------------------------------------- |
-| 6 or less     | Failure. It goes wrong. Resolve the failure, then gain 1 Luck.        |
-| 7 to 9        | Partial success. Your character does it, but there is a complication. |
-| 10 or greater | Full success. Your character achieves what they intended.             |
-| Double 1s     | Tragic failure.                                                       |
-| Double 6s     | Critical success.                                                     |
+| Total         | Result                                                                    |
+| ------------- | ------------------------------------------------------------------------- |
+| 6 or less     | **Failure.** It goes wrong. Resolve the failure, then gain 1 Luck.        |
+| 7 to 9        | **Partial success.** Your character does it, but there is a complication. |
+| 10 or greater | **Full success.** Your character achieves what they intended.             |
+| Double 1s     | **Tragic failure.**                                                       |
+| Double 6s     | **Critical success.**                                                     |
 
 Check doubles on the two dice that determine the result. Double 1s or double 6s replace the normal result.
 
@@ -34,20 +34,28 @@ A complication should move events forward. Your character might lose something, 
 
 Each character can hold up to **10 Luck**.
 
-At the table, use spare 6 sided dice or tokens to track Luck. Each die or token represents 1 Luck, regardless of the number showing on the die. Collect them as you gain Luck and return them as you spend it. At the end of the session, record the remaining total in the Luck box on your character sheet. Use that total to set out your dice or tokens next session.
+### Gaining Luck
 
-Gain **1 Luck** after you accept and resolve a failed roll. Gain **2 Luck** when your character achieves a Key Goal and you cross it off their list. Or roll double 1s.
+- Gain **1 Luck** after you accept and resolve a failed roll.
+- Gain **2 Luck** when your character achieves a Key Goal and you cross it off their list.
+- Gain **2 Luck** when you roll double 1s.
 
 You may give your Luck to another player whenever you like.
 
+### Tracking Luck
+
+Use spare six-sided dice or tokens at the table. Each die or token represents 1 Luck. The number showing on a die doesn’t matter. Collect them as you gain Luck and return them as you spend it.
+
+At the end of the session, record what’s left in the Luck box on your character sheet. Set out that many dice or tokens at the start of the next session.
+
 ### Spending Luck
 
-| Cost | Buy                                                                    |
-| ---- | ---------------------------------------------------------------------- |
-| 1    | Add one die to your roll and keep the highest two.                     |
-| 1    | Assist another character. With their roll by rolling 1 dice with them. |
-| 2    | Play a flashback that can affect the present.                          |
-| 5    | Advance character stat.                                                |
+| Cost | Spend it on                                                                               |
+| ---- | ----------------------------------------------------------------------------------------- |
+| 1    | [[#Add a die]] and keep the highest two.                                                  |
+| 1    | [[#Assist another character]] by adding a die to their player’s roll.                     |
+| 2    | Play a scene from your character’s past that can affect the present. See [[#Flashbacks]]. |
+| 5    | Improve your character. See [[#Advancement]].                                             |
 
 ### Add a die
 
@@ -59,7 +67,7 @@ Spend 1 Luck and explain how your character helps. The active player adds 1d6 to
 
 If the roll fails, only the active player gains 1 Luck. Everyone who assisted shares the consequences of a failure or partial success.
 
-You can spend a luck to assist while the other player is spending a luck to add a dice. 
+You can spend 1 Luck to assist while the active player spends 1 Luck to add a die to the same roll.
 
 ### Flashbacks
 
@@ -69,7 +77,7 @@ Play the scene and roll if its outcome is uncertain. Then return to the present 
 
 ### Advancement
 
-Spend 5 Luck to choose one:
+Spend 5 Luck and choose one.
 
 - Increase a stat by 1, to a maximum of +3.
 - Increase a Spell Tag by 1, to a maximum of +3.
@@ -77,7 +85,8 @@ Spend 5 Luck to choose one:
 - Gain an Archetype Perk.
 
 ## Inventory and conditions
-Your inventory is a mix of the things you have on you and your health bar. 
+
+Your character’s inventory tracks what they carry and how they’re holding up.
 
 Your character has **12 inventory slots**. Gear fills from the top down. Conditions fill from the bottom up, taking the lowest available slot.
 
@@ -91,52 +100,52 @@ When conditions claim all twelve slots, the character is lost. The final conditi
 
 A move shifts your character one zone toward or away from something. Skip their action to take a second move.
 
-| Zone | Meaning |
-| --- | --- |
-| Close | Melee. Close enough to touch. |
-| Near | Across the room. One move to Close. |
-| Far | Two moves from Close. Bowshot. |
+| Zone  | Meaning                             |
+| ----- | ----------------------------------- |
+| Close | Melee. Close enough to touch.       |
+| Near  | Across the room. One move to Close. |
+| Far   | Two moves from Close. Bowshot.      |
 
 Walls, locked doors, crowds, and deep holes still matter.
 
 ## Combat
 
-Characters act first, then enemies. The players roll 1d6. The highest roll goes first, then play moves clockwise around the table. If the characters are surprised, the attackers act first.
+Player characters act first, then enemies. Each player rolls 1d6. The character of the player who rolled highest acts first, then play moves clockwise around the table. If the characters are surprised, the attackers act first.
 
 ### Your character's turn
 
-Your character can take **one move and one action** in either order. They can attack, [[Casting Magic|cast]], [[Dying and Recovery#Healing|catch their breath]], use something, assist someone, or try something else.
+Your character can take **one move and one action** in either order. They can attack, [[Magic System|cast]], [[Dying and Recovery#Healing|catch their breath]], use something, assist someone, or try something else.
+
+### Attacking
 
 Roll **2d6 plus Strength** for hand-to-hand combat or **2d6 plus Dexterity** for a ranged attack. Your character must be able to reach the target with what they are using.
 
-| Result          | Effect                                                                                 |
-| --------------- | -------------------------------------------------------------------------------------- |
-| Failure         | The attack fails and the situation gets worse.                                         |
-| Partial success | Deal the weapon's damage and suffer a complication.                                    |
-| Full success    | Deal double the weapon's damage.                                                       |
-| Double 6s       | Deal triple damage and ignore Armor.                                                   |
-| Double 1s       | The attack fails. The character takes 1 damage or their weapon breaks, whichever fits. |
-| Triple 6s       | You daftly kill your target.                                                           |
-| Triple 1s       | Take a scare and drop your weapon. You blundered so bad you fell and hurt yourself.    |
+| Result          | Effect                                                                                                    |
+| --------------- | --------------------------------------------------------------------------------------------------------- |
+| Failure         | The attack fails and the situation gets worse.                                                            |
+| Partial success | The attack deals the weapon’s damage and your character faces a complication.                             |
+| Full success    | The attack deals double the weapon’s damage.                                                              |
+| Double 6s       | Deal triple damage and ignore Armor.                                                                      |
+| Double 1s       | The attack fails. Your character takes 1 damage or their weapon breaks, whichever fits.                   |
+| Triple 6s       | Your character kills the target outright.                                                                 |
+| Triple 1s       | Your character takes a scare and drops their weapon. They blunder so badly they fall and hurt themselves. |
 
 On a failure or partial success, an enemy may hurt your character, push them back, damage their gear, or create another fitting complication. The enemy still takes its regular turn.
 
 ### Damage and Armor
 
-Damage uses the same magnitude names as magic:
-
 | Damage magnitude | Damage |
-| --- | --- |
-| Tiny | 0 |
-| Small | 1 |
-| Medium | 2 |
-| Large | 3 |
-| Huge | 4 |
-| Mythic | 8 |
+| ---------------- | ------ |
+| Tiny             | 0      |
+| Small            | 1      |
+| Medium           | 2      |
+| Large            | 3      |
+| Huge             | 4      |
+| Mythic           | 8      |
 
-These names describe damage, not the size of the weapon or the monster's tier. Damage modifiers, doubling, tripling, and Armor still apply normally. A Mythic monster still follows its own Weakness rules in [[Monsters#Mythic monsters]].
+Damage uses the same magnitude names as magic. Apply damage modifiers, doubling, tripling, and Armor as usual. [[Monsters#Mythic monsters|Mythic monsters]] also follow their own Weakness rules.
 
-Weapons deal damage based on their size and weight:
+Weapon damage depends on the weapon’s size and weight.
 
 - Small or concealable: **Small damage (1)**.
 - Normal: **Medium damage (2)**.
@@ -146,7 +155,7 @@ Apply damage added by a Perk before doubling or tripling the attack.
 
 Armor reduces incoming damage. Worn armor and shields stack to a maximum of **3 Armor**, although Mythic creatures may have more.
 
-When your character takes damage, subtract their Armor. If the damage exceeds the Armor, apply the remaining damage and the Armor breaks. If the damage does not exceed the Armor, apply no damage and leave the Armor intact.
+If incoming damage exceeds your character’s Armor, subtract their Armor and apply the remaining damage. Their Armor breaks. If the damage is equal to or below their Armor, your character takes no damage and their Armor stays intact.
 
 A critical success ignores Armor without breaking it. Broken Armor must be repaired by someone with the necessary skills. Pay them or owe them a favor.
 
@@ -154,12 +163,12 @@ A critical success ignores Armor without breaking it. Broken Armor must be repai
 
 Use the enemy's Threat from [[Monsters]]. The GM rolls **2d6 plus Threat**.
 
-| Total | Result |
-| --- | --- |
-| 6 or less | The attack misses. |
-| 7 to 9 | Deal the enemy's listed damage. |
+| Total         | Result                                                   |
+| ------------- | -------------------------------------------------------- |
+| 6 or less     | The attack misses.                                       |
+| 7 to 9        | Deal the enemy's listed damage.                          |
 | 10 or greater | Deal the enemy's listed damage and cause a complication. |
-| Double 6s | Deal triple damage and ignore Armor. |
-| Double 1s | The attack fails and the enemy suffers a mishap. |
+| Double 6s     | Deal triple damage and ignore Armor.                     |
+| Double 1s     | The attack fails and the enemy suffers a mishap.         |
 
-A crowd attacking one target rolls once, using its highest Threat and best single damage. Its numbers can still block exits, surround a character, or create other complications.
+When a crowd attacks one target, the GM rolls once, using the group’s highest Threat and best single Damage. The crowd can still block exits, surround a character, or create other complications.

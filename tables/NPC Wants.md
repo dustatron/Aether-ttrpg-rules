@@ -8,6 +8,25 @@ canonical: false
 
 # NPC Wants
 
+## GM screen wants and offers
+
+Choose or roll 1d10 in each column separately. For example, a ferryman wants the characters to keep a secret and offers safe transport in return.
+
+| d10 | They want | They offer |
+| --- | --- | --- |
+| 1 | Keep a secret | Weapons |
+| 2 | Treasure | Gold |
+| 3 | Fire | A secret |
+| 4 | A magic relic | Food |
+| 5 | Gossip | Tools |
+| 6 | Safe passage | Beer |
+| 7 | Food | Transport |
+| 8 | Learn a secret | A favor |
+| 9 | Make contact | A magic relic |
+| 10 | Weapons | A clue |
+
+## Jobs with variations
+
 Choose a row or roll 1d6, then choose or roll one of the numbered options inside that entry. Add a detail about who, what, or where to turn it into a job the characters could take.
 
 The relic entry uses the agreed format. The other five entries are draft expansions of that idea.
@@ -20,20 +39,3 @@ The relic entry uses the agreed format. The other five entries are draft expansi
 | 4 | A place. Roll 1d6: (1) find, (2) enter, (3) reclaim, (4) repair, (5) hide, (6) protect. |
 | 5 | A secret. Roll 1d6: (1) discover, (2) verify, (3) buy, (4) hide, (5) expose, (6) erase. |
 | 6 | A debt. Roll 1d6: (1) collect, (2) repay, (3) transfer, (4) forgive, (5) prove, (6) escape. |
-
-For example, an NPC wants a relic refilled, but will not say what it does. Use [[Magic Items and Dispersing Exposure]] for the actual refilling rules.
-
-## What they can offer
-
-These offers come from the earlier card draft. Choose one that fits the NPC and the job.
-
-| d6 | Offer |
-| --- | --- |
-| 1 | A safe path through its nest. |
-| 2 | A name nobody admits knowing. |
-| 3 | Access to the sealed cellar. |
-| 4 | A convincing disguise. |
-| 5 | Shelter from the patrol. |
-| 6 | The truth about the haunting. |
-
-Related: [[Complication Sparks]], [[Monster Inspiration]], [[GM Sparks]].

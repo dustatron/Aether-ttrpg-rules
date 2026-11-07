@@ -1,0 +1,83 @@
+/* The Bestiary uses a level-three monster name followed by a level-four tier. */
+.markdown-preview-view.aether-bestiary {
+  --bestiary-card: color-mix(in srgb, var(--background-primary) 55%, var(--background-secondary));
+  --bestiary-rail: var(--interactive-accent);
+
+  /* Theme margins belong between cards, not between their Markdown blocks. */
+  :where(.el-h3:has(+ .el-h4), .el-h3 + .el-h4, .el-h4 + .el-p,
+      .el-h4 + .el-p + .el-ul, .el-h4 + .el-p + .el-ul + .el-p) {
+    display: flow-root;
+    margin: 0 !important;
+    padding-inline: 0.85em;
+    background-color: var(--bestiary-card);
+    border-inline-start: 3px solid var(--bestiary-rail);
+    border-inline-end: 1px solid var(--background-modifier-border);
+  }
+
+  .el-h3:has(+ .el-h4) {
+    margin-block-start: 1.1em !important;
+    padding-block-start: 0.65em;
+    border-block-start: 1px solid var(--background-modifier-border);
+    border-radius: 0.45em 0.45em 0 0;
+  }
+
+  .el-h3:has(+ .el-h4) h3,
+  .el-h3 + .el-h4 h4 {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0;
+    background: none;
+    color: var(--text-normal);
+    text-shadow: none;
+  }
+
+  .el-h3 + .el-h4 {
+    padding-block: 0.2em 0.5em;
+  }
+
+  .el-h3 + .el-h4 h4 {
+    font-size: 0.85em !important;
+    color: var(--text-muted);
+  }
+
+  .el-h4 + .el-p {
+    padding-block-end: 0.45em;
+  }
+
+  .el-h4 + .el-p > p {
+    margin: 0 !important;
+    padding: 0.4em 0.6em;
+    border-radius: 0.3em;
+    background-color: var(--background-modifier-hover);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .el-h4 + .el-p + .el-ul > ul {
+    margin: 0 !important;
+    padding-inline-start: 1em;
+  }
+
+  .el-h4 + .el-p + .el-ul > ul > li {
+    margin-block: 0.15em !important;
+  }
+
+  .el-h4 + .el-p + .el-ul + .el-p > p {
+    margin: 0.4em 0 0 !important;
+    color: var(--text-muted);
+  }
+
+  .el-h4 + .el-p + .el-ul:not(:has(+ .el-p)),
+  .el-h4 + .el-p + .el-ul + .el-p {
+    padding-block-end: 0.7em;
+    border-block-end: 1px solid var(--background-modifier-border);
+    border-radius: 0 0 0.45em 0.45em;
+  }
+
+  :is(.el-h3:has(+ .el-h4 > h4[data-heading="Tier 6"]),
+      .el-h4:has(> h4[data-heading="Tier 6"]),
+      .el-h4:has(> h4[data-heading="Tier 6"]) + .el-p,
+      .el-h4:has(> h4[data-heading="Tier 6"]) + .el-p + .el-ul,
+      .el-h4:has(> h4[data-heading="Tier 6"]) + .el-p + .el-ul + .el-p) {
+    --bestiary-rail: var(--color-yellow);
+  }
+}

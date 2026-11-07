@@ -14,7 +14,7 @@ The current outside review is organized in [[Friend Feedback Checklist]].
 
 ## Magic Magnitude follow-up
 
-The magnitude scale is now in [[Casting Magic#Magic Magnitude|Casting Magic]]. The following mechanics still need decisions before implementation:
+The magnitude scale is now in [[Magic System#Magic Magnitude|Casting Magic]]. The following mechanics still need decisions before implementation:
 
 - Define disadvantage and how purchased dice, assistance, and extra-die Perks interact with it. Extra dice do not need a separate general advantage rule. Existing Perks that say “advantage” will need consistent extra-die wording once this interaction is settled.
 - Proposed general reward: gain 2 Luck after resolving a consequential roll with GM-imposed disadvantage, whether it succeeds or fails. The GM decides whether it qualifies; trivial manufactured disadvantage does not. Decide whether canceled disadvantage qualifies and confirm whether failure Luck stacks. At 5 Luck per advancement, this could substantially accelerate progression.
@@ -22,6 +22,12 @@ The magnitude scale is now in [[Casting Magic#Magic Magnitude|Casting Magic]]. T
 - Confirm whether the listed magical damage is a normal guideline or a ceiling. It is currently a guideline, agreed before rolling.
 - Full-success casting now doubles standard spell damage. Decide whether casting double 6s should also triple damage; its current specific result still grants Spell Tag growth.
 - Playtest the provisional Huge benchmark covering both a field and a city. The GM judges the whole effect, rather than treating every effect over the same area as equally demanding.
+
+## Core rolls
+
+- Clarify which dice count for triple 1s and triple 6s in [[Core Mechanics#Attacking|combat]].
+- Confirm whether “a scare” on triple 1s means a Scar.
+- Confirm whether double 1s grant 2 Luck total or also grant the usual 1 Luck for a failed roll.
 
 ## Archetypes
 

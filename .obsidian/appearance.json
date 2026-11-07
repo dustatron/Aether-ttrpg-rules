@@ -1,4 +1,8 @@
 {
-  "cssTheme": "Cyber Glow",
-  "baseFontSize": 19
+  "cssTheme": "Notion Style",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "aether-bestiary"
+  ],
+  "theme": "obsidian"
 }
