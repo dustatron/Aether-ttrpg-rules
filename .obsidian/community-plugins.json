@@ -3,5 +3,6 @@
   "claude-sidebar",
   "slash-commander",
   "obsidian-html-plugin",
-  "qmd-as-md-obsidian"
+  "qmd-as-md-obsidian",
+  "table-exporter"
 ]
