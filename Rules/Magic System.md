@@ -90,7 +90,7 @@ Whenever the character reaches **10 Exposure**, they undergo a Mutation. Roll on
 The Mutation permanently occupies an [[Core Mechanics#Inventory and conditions|inventory slot]]. Subtract 10 Exposure and keep any excess.
 
 ## Magic Items and Dispersing Exposure
-An Arcanist, or caster, can move Exposure out of their body and into an object, creating a magical relic.
+An Aetherborn, or caster, can move Exposure out of their body and into an object, creating a magical relic.
 
 A relic:
 
@@ -106,7 +106,7 @@ For example, creating a relic with 4 stored Exposure removes 6 Exposure from the
 
 Anyone who can operate the relic can activate it. Describe an effect within the relic's function. The operator picks the effect's magnitude and subtracts its Exposure cost from the relic's stored Exposure. A relic can produce one big cast or many small ones until it runs empty. No casting roll is made, and the operator gains no Exposure.
 
-The relic cannot produce an activation that costs more Exposure than it currently holds. At zero Exposure, it is inert until an Arcanist refills it. It remains a relic and does not need the creation cost paid again.
+The relic cannot produce an activation that costs more Exposure than it currently holds. At zero Exposure, it is inert until an Aetherborn refills it. It remains a relic and does not need the creation cost paid again.
 
 Get creative with your magic items. Like a soul jar that holds more gear, a fork that shoots fireballs, gloves that put people to sleep.
 

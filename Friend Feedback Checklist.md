@@ -87,10 +87,10 @@ Current rule: successful casts mark their full Exposure. At 10 Exposure, the cha
 
 ## Relics and Exposure storage
 
-- [x] Limit each Arcanist to creating or refilling one relic per in-game day.
+- [x] Limit each Aetherborn to creating or refilling one relic per in-game day.
 - [x] Use the daily limit instead of adding a creation roll, Fatigue, or another resource.
 - [x] Allow inert Exposure containers, such as phylacteries or soul jars. They follow the normal relic rules but have no magical function.
-- [x] Stored Exposure is not connected to the Arcanist who placed it there. Avoid tracking objects outside the character's inventory.
+- [x] Stored Exposure is not connected to the Aetherborn who placed it there. Avoid tracking objects outside the character's inventory.
 - [x] Characters may make and sell relics. This is an intended part of the economy and setting.
 
 The current relic wording in the vault correctly subtracts an activation's Exposure cost from the relic. The rules PDF needs the same correction.
@@ -115,7 +115,14 @@ The current relic wording in the vault correctly subtracts an activation's Expos
 - [ ] Rename **Harm** to **Health** throughout the PDF and character sheet.
 - [ ] Clarify that the player calculates a spell's Exposure cost before the GM confirms or adjusts it.
 - [ ] Clarify that casting uses one Spell Tag and never a Stat.
-- [ ] Add the limit of creating or refilling one relic per Arcanist per in-game day.
+- [ ] Add the limit of creating or refilling one relic per Aetherborn per in-game day.
+
+## Awakening follow-up
+
+- [ ] Decide the Exposure cost and transfer procedure for Awakening. The November 14 update proposed a 6-Exposure transfer; this has not been applied to the current starting rules.
+- [ ] Decide whether Awakening requires a ritual, physical contact, or a particular amount of time.
+- [ ] Decide whether the chain of Awakenings has supernatural significance beyond its history.
+- [ ] Decide whether Aetherweave also names the underlying structure of reality.
 
 ## Idea bank
 

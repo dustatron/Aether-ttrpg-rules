@@ -12,7 +12,7 @@ source: The Arcane Aether Rules v4.5.rtf
 
 # Core Rules
 
-The Arcane Aether is a rules-light game about ordinary people who can reshape reality and must live with the cost.
+Aetherweave RPG is a rules-light game about ordinary people who can reshape reality and must live with the cost.
 
 For the premise and reading order, start with [[The Arcane Aether]].
 
@@ -22,11 +22,11 @@ For the premise and reading order, start with [[The Arcane Aether]].
 - [[Magic System]] covers casting, Spell Tags, Magic Magnitude, healing, Exposure, and Mutation.
 - See [[Magic System#Magic Items and Dispersing Exposure|Magic items]] for creating, refilling, and using relics.
 - [[Dying and Recovery]] covers Health, Scars, Fatigue, rest, and death.
-- [[Character Creation]] walks through making an Arcanist and choosing an [[Character Creation#Step 2: Choose an Archetype|Archetype]].
+- [[Character Creation]] walks through making an Aetherborn and choosing an [[Character Creation#Step 2: Choose an Archetype|Archetype]].
 
 ## Game Master guidance
 
-- [[World Lore]] covers the relic trade and how people respond to Arcanists.
+- [[World Lore]] covers the relic trade and how people respond to Aetherborn.
 - [[Monsters]] explains how to build and run opposition.
 - The [[Monsters#Bestiary Selection|Bestiary]] contains worked examples.
 
@@ -38,7 +38,9 @@ For the premise and reading order, start with [[The Arcane Aether]].
 ## Key Terms
 
 - **Aether:** The particles and patterns that make up reality.
-- **Arcanist:** A person who can perceive and command those patterns.
+- **Aetherborn:** A person awakened by another Aetherborn to perceive and command Aether. Also called a true caster.
+- **True Casting:** Direct manipulation of Aether, rather than using a relic.
+- **Awakening:** The permanent change through which an Aetherborn gives another person the ability to perform True Casting. See [[Becoming an Aetherborn]].
 - **Exposure:** Raw Aether accumulated through casting.
 - **Magic Magnitude:** The overall scale of a spell, setting its Exposure cost. See [[Magic System#Magic Magnitude]].
 - **Mutation:** A permanent change caused by Exposure.
@@ -46,5 +48,5 @@ For the premise and reading order, start with [[The Arcane Aether]].
 - **Spell Tag:** Something the character's magic has learned to do reliably.
 - **Health:** How much damage a character or monster can take before suffering worse consequences.
 - **Relic:** An object that stores Exposure and performs one kind of magic.
-- **Frayed:** A common term for an Arcanist visibly changed by Exposure.
-- **Demon:** An Arcanist whose final inventory slot was claimed by a Mutation.
+- **Frayed:** A common term for an Aetherborn visibly changed by Exposure.
+- **Demon:** An Aetherborn whose final inventory slot was claimed by a Mutation.

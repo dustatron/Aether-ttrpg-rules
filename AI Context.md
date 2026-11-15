@@ -8,7 +8,7 @@ canonical: true
 
 # AI Context
 
-This vault contains the current rules for **The Arcane Aether** and archived drafts from earlier versions.
+This vault contains the current rules for **Aetherweave RPG** (working title, previously **The Arcane Aether**) and archived drafts from earlier versions.
 
 ## Authority Order
 
@@ -22,7 +22,11 @@ When sources disagree, use this order:
 
 ## Current Terminology
 
-Use **The Arcane Aether**, **Aether**, and **Arcanist**.
+Use **Aetherweave RPG** as the working game title, **Aether** for the substance of reality, and **Aetherborn** or **true caster** for someone capable of **True Casting**.
+
+Every Aetherborn must be awakened by another Aetherborn. See [[Becoming an Aetherborn]]. Awakening costs and procedures remain undecided. Keep the current starting Exposure, relic rules, Fatigue, inventory, and final-slot Demon transformation. The six-Mutation ending and magnitude-priced starting relics in the November 14 update were rejected.
+
+Existing filenames, system identifiers, and PDF labels may retain The Arcane Aether. Whether Aetherweave also names the structure of reality is undecided.
 
 Use **Health** for the damage track. **Harm** is no longer the name of that resource.
 

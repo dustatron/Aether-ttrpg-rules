@@ -6,9 +6,9 @@ version: 4.5
 canonical: true
 ---
 
-# The Arcane Aether
+# Aetherweave RPG
 
-The Arcane Aether is a rules-light fantasy game about people who develop an ability to rewrite reality.
+Aetherweave RPG is the working title of this rules-light fantasy game about ordinary people awakened by another Aetherborn to rewrite reality.
 
 I am trying to explore two ideas with these rules:
 
@@ -29,7 +29,7 @@ As a GM, I like to play to find out and leave room for freeform play. I want sim
 
 Why are there so many magic items? Why do the people capable of making them keep leaving them in tombs, shops, and holes in the ground?
 
-In this game, Arcanists make magic items because they need somewhere to put their Exposure before it changes them. They pour it into objects, use those objects for a while, and eventually have to leave some of them behind.
+In this game, Aetherborn make magic items because they need somewhere to put their Exposure before it changes them. They pour it into objects, use those objects for a while, and eventually have to leave some of them behind.
 
 Every relic came from someone with a problem. That was the idea I wanted to explore, and the rest of the game grew around it.
 
@@ -68,8 +68,8 @@ Not everything needs a roll. Let the silly ideas move the story. Maybe a charact
 ## Explore the game
 
 - [[Rules/index|Core rules]] links to the rules by topic.
-- [[Character Creation|Character creation]] gets an Arcanist ready for play.
-- [[World Lore]] explores the relic economy and how the world responds to Arcanists.
+- [[Character Creation|Character creation]] gets an Aetherborn ready for play.
+- [[World Lore]] explores the relic economy and how the world responds to Aetherborn.
 - [[Monsters]] explains how to build and run opposition.
 - The [[Monsters#Bestiary Selection|Bestiary]] contains worked examples.
 - [[Rules/index#Key Terms|Key Terms]] defines the game's recurring language.

@@ -10,7 +10,9 @@ source: The Arcane Aether Rules v4.5.rtf
 
 # Character Creation
 
-Make someone who had a life before they became an Arcanist. Four steps are enough to begin. The rest can come out during play.
+Make someone who had a life before they became an Aetherborn. Another Aetherborn awakened them, giving them the ability to perform True Casting. Four steps are enough to begin. The rest can come out during play.
+
+Consider [[Becoming an Aetherborn#Who awakened your character?|who awakened your character and why]].
 
 ## Step 1: Basic details
 
@@ -57,7 +59,7 @@ Examples:
 
 ## Step 2: Choose an Archetype
 
-Your character's Archetype represents the life they led before becoming an Arcanist.
+Your character's Archetype represents the life they led before becoming an Aetherborn.
 
 Choose one. Take its starting gear, maximum Health, and one Perk, rolled on the table or chosen. Use its suggested Stats, or arrange **+2, +1, 0, and -1** across the four Stats yourself.
 
@@ -72,7 +74,7 @@ Set your character's current Health equal to their maximum Health.
 
 | Archetype | Old life | Health |
 | --- | --- | --- |
-| [[Hunter]] | Tracked Arcanists for coin, then woke up as one. | 7 |
+| [[Hunter]] | Tracked Aetherborn for coin, then woke up as one. | 7 |
 | [[Thief]] | Lived by wit, speed, and other people's things. | 6 |
 | [[Performer]] | Lived by fast talk and knowing everyone worth knowing. | 6 |
 | [[Monk]] | Studied the ancient arts and honed their body into a weapon. | 7 |
@@ -116,7 +118,7 @@ Decide whether the Aether has already changed your character.
 ### Start Marked
 
 - Roll on the [[mutation-tables|Mutation table]] and record the result in inventory slot 12.
-- Choose one +1 Spell Tag related to the Mutation or the event that made the character an Arcanist.
+- Choose one +1 Spell Tag related to the Mutation or the event that made the character an Aetherborn.
 - Begin with 0 current Exposure, 0 Luck, no Scars, and no Fatigue.
 
 Starting Marked gives the character more control over magic, but the Aether has already taken one of their twelve slots.

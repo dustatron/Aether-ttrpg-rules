@@ -1,6 +1,6 @@
 # CLAUDE.md Working Contract for The Arcane Aether Vault
 
-This is an Obsidian vault for **The Arcane Aether**, a rules-light tabletop game in active design.
+This is an Obsidian vault for **Aetherweave RPG** (working title, previously **The Arcane Aether**), a rules-light tabletop game in active design.
 
 Read [[AI Context]] first. It defines the authority order, current terminology, and current reading set.
 
@@ -13,7 +13,7 @@ Version **4.5** is current.
 - [[Core Mechanics]], [[Magic System]], and [[Dying and Recovery]] contain the core engine.
 - [[Rules/index#Key Terms|Key Terms]] is the canonical glossary.
 - [[Character Creation]] and `Rules/archetypes/` contain current character rules.
-- [[World Lore]] covers the relic economy and how the world responds to Arcanists.
+- [[World Lore]] covers the relic economy and how the world responds to Aetherborn.
 - [[Monsters]] contains the monster rules and [[Monsters#Bestiary Selection|worked examples]].
 - [[Friend Feedback Checklist]] contains only unresolved v4.5 work.
 
@@ -39,10 +39,14 @@ Use these current terms:
 
 | Concept | Current term |
 | --- | --- |
-| Game and underlying reality | The Arcane Aether |
+| Game (working title) | Aetherweave RPG |
 | Particles and patterns of reality | Aether |
-| Person who commands Aether | Arcanist |
+| Person who commands Aether | Aetherborn |
 | Raw Aether accumulated through casting | Exposure |
+
+Every Aetherborn must be awakened by another Aetherborn, also called a true caster. See [[Becoming an Aetherborn]]. Keep the existing starting Exposure, relic rules, Fatigue, inventory, and final-slot Demon transformation. Awakening costs and procedures remain undecided.
+
+Whether Aetherweave also names the underlying structure of reality is undecided. Existing filenames, system identifiers, and PDF labels may retain The Arcane Aether.
 
 The Resonance and Attuner are archived terms. Do not use them in current notes.
 
