@@ -12,7 +12,13 @@ source: The Arcane Aether Rules v4.5.rtf
 
 Make someone who had a life before they became an Aetherborn. Another Aetherborn awakened them, giving them the ability to perform True Casting. Four steps are enough to begin. The rest can come out during play.
 
-Consider [[Becoming an Aetherborn#Who awakened your character?|who awakened your character and why]].
+Most people think Aetherborn are an old myth, if they have heard of them at all. They may know only that the stories have something to do with demons. Your character now has a reason to know more. See [[World Lore]].
+
+Consider these questions about their [[Becoming an Aetherborn|Awakening]]:
+
+- Who awakened your character?
+- Why did they give the character access to Aether?
+- What has the character done with that power since Awakening?
 
 ## Step 1: Basic details
 
@@ -48,7 +54,7 @@ Choose the animal that shapes your character.
 
 Otherfolk includes people commonly thought of as monsters, such as crab people, intelligent oozes, lizard folk, vampires, or skeletons.
 
-Choose one body advantage that fits what your character is. Describe what it lets them do.
+Choose one body advantage that fits what your character is. Agree with the GM on what it lets the character do, then record it on the sheet.
 
 Examples:
 
@@ -61,7 +67,7 @@ Examples:
 
 Your character's Archetype represents the life they led before becoming an Aetherborn.
 
-Choose one. Take its starting gear, maximum Health, and one Perk, rolled on the table or chosen. Use its suggested Stats, or arrange **+2, +1, 0, and -1** across the four Stats yourself.
+Choose one. Take its starting gear and maximum Health. Choose one Perk, or roll 1d6 on the Archetype’s Perk table. Use its suggested Stats, or arrange **+2, +1, 0, and -1** across the four Stats yourself.
 
 | Stat | What it covers |
 | --- | --- |
@@ -85,7 +91,9 @@ If none fit, work with the GM to create an old life. Use the same Stat array and
 
 ### Pack the gear
 
-Your character has **12 inventory slots**. Put their Archetype gear into the slots from the top down. Worn Armor does not take a slot.
+Your character has **12 inventory slots**. Put their Archetype gear into the slots from the top down, starting at slot 1. Worn Armor does not take a slot.
+
+Mutations, Scars, and Fatigue fill slots from the bottom up, starting at slot 12. If a condition takes a slot holding an item, the character drops that item. See [[Core Mechanics#Inventory and conditions|inventory and conditions]].
 
 Small things of the same kind bundle together. Three rations, a handful of arrows, or several iron spikes each take one slot.
 
@@ -106,22 +114,50 @@ Choose goals with a clear end. When your character achieves one, cross it off an
 
 Share the goals with the other players. Their characters might share one, want to help, or have a very good reason to keep that hat shop standing.
 
-## Step 4: Starting mutation
+## Step 4: Awakening and starting magic
 
-Decide whether the Aether has already changed your character.
+Another Aetherborn awakened your character by transferring **6 Exposure** to them. See [[Becoming an Aetherborn#Awakening|Awakening]].
 
-### Start Unchanged
+Choose whether the Aether has already changed your character:
 
-- Begin with no Mutations and no Spell Tags.
-- Begin with 0 current Exposure, 0 Luck, no Scars, and no Fatigue.
-
-### Start Marked
-
-- Roll on the [[mutation-tables|Mutation table]] and record the result in inventory slot 12.
-- Choose one +1 Spell Tag related to the Mutation or the event that made the character an Aetherborn.
-- Begin with 0 current Exposure, 0 Luck, no Scars, and no Fatigue.
+- **Unchanged:** Begin with no Mutations and no Spell Tags.
+- **Marked:** Roll on the [[mutation-tables|Mutation table]] and record the result in inventory slot 12. Choose one +1 Spell Tag related to the Mutation or their Awakening.
 
 Starting Marked gives the character more control over magic, but the Aether has already taken one of their twelve slots.
+
+**Both can cast magic.** Without a relevant Spell Tag, roll 2d6 with no bonus. See [[Magic System#Magical casting|casting rules]].
+
+### Keep the Exposure or create relics
+
+Your character begins with **6 Exposure from Awakening**. They may keep it or use some to create one or more relics under the [[Magic System#Magic Items and Dispersing Exposure|normal magic-item rules]].
+
+Assume the character had enough days before play to follow the daily creation limit. Each relic costs **2 Exposure to create**, plus whatever Exposure is stored in it. The total spent and stored across all starting relics cannot exceed the starting **6 Exposure**.
+
+For example, spend **2 Exposure to create a relic**, then transfer the remaining **4 into it**. Your character enters play with **0 Exposure** and a relic holding **4**.
+
+Choose each relic's magical function and record each relic in its own inventory slot. Record the Exposure remaining in the character and any relic separately.
+
+Casting adds Exposure. Whenever the character reaches **10 Exposure**, they gain a Mutation. Subtract 10 and keep any excess. See [[Magic System#Exposure and Mutation|Exposure and Mutation]].
+
+### Finish the sheet
+
+Begin with **0 Luck, no Scars, and no Fatigue**.
+
+## Spice it up
+
+This is optional. Pick a [[Troubling Past|troubling past]] or make your own. It might give your character a reason to seek Awakening or suggest a Key Goal.
+
+## Ready to play
+
+Check that the sheet has:
+
+- A name, basic details, and Life Type traits.
+- An Archetype, four Stats, current and maximum Health, and one Perk.
+- Gear in inventory slots, worn Armor, and starting coin.
+- Any Key Goals chosen.
+- Current Exposure after any relic creation, with each relic’s function and stored Exposure recorded separately.
+- Any starting Mutation in slot 12 and a related +1 Spell Tag if Marked, or no Mutations and no Spell Tags if Unchanged.
+- 0 Luck, no Scars, and no Fatigue.
 
 ## Character sheet
 

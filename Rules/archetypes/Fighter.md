@@ -8,7 +8,7 @@ canonical: true
 
 # Fighter
 
-Your character has made a living with a weapon and their grit. Guarding caravans, fought someone else's war, or stood outside a door without asking what happened behind it. They know how to hold their ground, look after their equipment, and keep going when a sensible person would stop.
+Your character has made a living with a weapon and their grit. Perhaps they guarded caravans, fought someone else's war, or stood outside a door without asking what happened behind it. They know how to hold their ground, look after their equipment, and keep going when a sensible person would stop.
 
 | Strength | Dexterity | Willpower | Charm | Health |
 | :---: | :---: | :---: | :---: | :---: |

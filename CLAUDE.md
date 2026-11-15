@@ -44,7 +44,7 @@ Use these current terms:
 | Person who commands Aether | Aetherborn |
 | Raw Aether accumulated through casting | Exposure |
 
-Every Aetherborn must be awakened by another Aetherborn, also called a true caster. See [[Becoming an Aetherborn]]. Keep the existing starting Exposure, relic rules, Fatigue, inventory, and final-slot Demon transformation. Awakening costs and procedures remain undecided.
+Every Aetherborn must be awakened by another Aetherborn, also called a true caster. See [[Becoming an Aetherborn]]. New characters start with 6 Exposure received during Awakening. Keep the existing relic rules, Fatigue, inventory, and final-slot Demon transformation. An Aetherborn with at least 6 current Exposure can transfer 6 to another person to permanently awaken them. Ritual, contact, and timing requirements remain undecided.
 
 Whether Aetherweave also names the underlying structure of reality is undecided. Existing filenames, system identifiers, and PDF labels may retain The Arcane Aether.
 

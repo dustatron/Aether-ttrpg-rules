@@ -119,7 +119,10 @@ The current relic wording in the vault correctly subtracts an activation's Expos
 
 ## Awakening follow-up
 
-- [ ] Decide the Exposure cost and transfer procedure for Awakening. The November 14 update proposed a 6-Exposure transfer; this has not been applied to the current starting rules.
+- [x] Allow multiple starting relics. Assume enough preparation days to follow the existing daily limit. Creation costs and stored Exposure together cannot exceed the starting 6 Exposure.
+
+- [x] New Aetherborn start with 6 Exposure received during Awakening. This applies to both Unchanged and Marked characters.
+- [x] An Aetherborn with at least 6 current Exposure can transfer 6 to another person to permanently awaken them. Subtract 6 from the existing Aetherborn; the recipient begins with 6.
 - [ ] Decide whether Awakening requires a ritual, physical contact, or a particular amount of time.
 - [ ] Decide whether the chain of Awakenings has supernatural significance beyond its history.
 - [ ] Decide whether Aetherweave also names the underlying structure of reality.
@@ -163,6 +166,8 @@ These ideas are collected for later. None are current rules.
 - [ ] Decide how many characters one healing cast can cover. The player picks the magnitude based on how many characters they heal, but no guideline says what each magnitude covers.
 
 ## Archetypes
+
+- [ ] Confirm whether the Hunter’s suggested +1, +1, +1, -1 Stats intentionally differ from the standard +2, +1, 0, -1 array. Do not change the values until decided.
 
 - [ ] Review the written Archetype Perks for wording and balance.
 - [ ] Decide whether the Fighter's 3-damage longsword is exceptional, heavy and two-handed, or should deal the normal 2 damage.

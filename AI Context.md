@@ -24,7 +24,7 @@ When sources disagree, use this order:
 
 Use **Aetherweave RPG** as the working game title, **Aether** for the substance of reality, and **Aetherborn** or **true caster** for someone capable of **True Casting**.
 
-Every Aetherborn must be awakened by another Aetherborn. See [[Becoming an Aetherborn]]. Awakening costs and procedures remain undecided. Keep the current starting Exposure, relic rules, Fatigue, inventory, and final-slot Demon transformation. The six-Mutation ending and magnitude-priced starting relics in the November 14 update were rejected.
+Every Aetherborn must be awakened by another Aetherborn. See [[Becoming an Aetherborn]]. An Aetherborn with at least 6 current Exposure can transfer 6 to another person to permanently awaken them. Ritual, contact, and timing requirements remain undecided. New characters start with 6 Exposure received during Awakening. Keep the current relic rules, Fatigue, inventory, and final-slot Demon transformation. The six-Mutation ending and magnitude-priced starting relics in the November 14 update were rejected.
 
 Existing filenames, system identifiers, and PDF labels may retain The Arcane Aether. Whether Aetherweave also names the structure of reality is undecided.
 

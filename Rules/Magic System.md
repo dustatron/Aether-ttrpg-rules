@@ -81,6 +81,10 @@ Magic can be a team effort. Separate casts can build on each other.
 
 One character creates fire, another opens a portal, and a third blows the fire through it. Each player picks a magnitude and rolls for their own character. Each character gains Exposure for their own cast.
 
+## Awakening a new Aetherborn
+
+An Aetherborn can permanently awaken another person by transferring 6 of their current Exposure to them. See [[Becoming an Aetherborn#Awakening|Awakening]] for the procedure.
+
 ## Exposure and Mutation
 
 Exposure is a little like radiation poisoning. It collects as your character uses the Arcane Aether, letting them reshape the world while it reshapes them.
