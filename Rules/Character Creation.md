@@ -10,15 +10,15 @@ source: The Arcane Aether Rules v4.5.rtf
 
 # Character Creation
 
-Make someone who had a life before they became an Aetherborn. Another Aetherborn awakened them, giving them the ability to perform True Casting. Four steps are enough to begin. The rest can come out during play.
+Make someone who had a life before they became an Aetherborn. Another Aetherborn awakened them, giving them the ability to reshape reality through True Casting. Four steps are enough to begin. The rest can come out during play.
 
 Most people think Aetherborn are an old myth, if they have heard of them at all. They may know only that the stories have something to do with demons. Your character now has a reason to know more. See [[World Lore]].
 
 Consider these questions about their [[Becoming an Aetherborn|Awakening]]:
 
 - Who awakened your character?
-- Why did they give the character access to Aether?
-- What has the character done with that power since Awakening?
+- What dark deal did your character make with this creature, and why?
+- What was in it for the Aetherborn?
 
 ## Step 1: Basic details
 
@@ -29,29 +29,24 @@ Then choose a Life Type and record its traits. Humans, elves, goblins, cat peopl
 ### Life types
 
 #### Human
-
 - **Resilient:** Once a day, when your character misses proper sleep, they do not gain the Fatigue for it.
 - **I Know a Guy:** Once per session, declare that your character knows someone useful in the current location. Tell the table how they know each other.
 
 #### Elf
-
 - **Foresight:** Play one free flashback per session.
 - **Old Grudge:** When old knowledge or an old event matters, your character remembers because they were there.
 
 #### Goblin
-
 - **Overlooked:** Add +1 when your character hides, squeezes, scurries, or goes unnoticed.
 - **Goblin Friends:** If a goblin is involved, your character knows them. Tell the table how.
 
 #### Beastfolk
-
 Choose the animal that shapes your character.
 
 - **Natural Weapons:** Their unarmed attacks deal 2 damage.
 - **Keen Senses:** Add +1 when they use one heightened sense appropriate to that animal.
 
 #### Otherfolk
-
 Otherfolk includes people commonly thought of as monsters, such as crab people, intelligent oozes, lizard folk, vampires, or skeletons.
 
 Choose one body advantage that fits what your character is. Agree with the GM on what it lets the character do, then record it on the sheet.
@@ -67,7 +62,32 @@ Examples:
 
 Your character's Archetype represents the life they led before becoming an Aetherborn.
 
-Choose one. Take its starting gear and maximum Health. Choose one Perk, or roll 1d6 on the Archetype’s Perk table. Use its suggested Stats, or arrange **+2, +1, 0, and -1** across the four Stats yourself.
+Choose an Archetype from the table. Follow its link for starting gear, suggested Stats, and Perks.
+
+| #   | Archetype     | Old life                                                               | Health |
+| --- | ------------- | ---------------------------------------------------------------------- | ------ |
+| 1   | [[Hunter]]    | Tracked demons and strange creatures for coin.                         | 7      |
+| 2   | [[Thief]]     | Lived by wit, speed, and other people's things.                        | 6      |
+| 3   | [[Performer]] | Lived by fast talk and knowing everyone worth knowing.                 | 6      |
+| 4   | [[Monk]]      | Studied the ancient martial arts and honed their body into a weapon.   | 7      |
+| 5   | [[Fighter]]   | Someone paid them to stand in the way, and they never learned to stop. | 8      |
+| 6   | [[Witch]]     | Had a place in an order once, then something answered.                 | 5      |
+| 7   | [[Wizard]]    | Studied ancient magic.                                                 | 5      |
+| 8   | [[Inventor]]  | Learned to create machines and tools.                                  | 6      |
+
+If none of the Archetypes fit, work with the GM to create your own thing. 
+1. Use the starter stat array: **+2, +1, 0, -1**. 
+2. Choose starting gear.
+3. Roll two dice and pick the best one. 
+4. Come up with a cool per or pick a Perk based on the existing Archetypes.
+
+Once you've chosen an Archetype:
+1. Record its starting gear using the [[Core Mechanics#Inventory and conditions|inventory rules]]. Record its maximum Health and set current Health to the same number.
+2. Choose one Perk, or roll 1d6 on the Archetype's Perk table. Record what it does.
+3. Use its suggested Stats, or arrange **+2, +1, 0, and -1** across the four Stats yourself, one number in each.
+
+### Starting coin
+Roll **2d6 and multiply the total by 10** for your character's starting coin. Record it in the Coin box on their sheet.
 
 | Stat | What it covers |
 | --- | --- |
@@ -75,29 +95,6 @@ Choose one. Take its starting gear and maximum Health. Choose one Perk, or roll 
 | Dexterity | Speed, stealth, precision, ranged attacks |
 | Willpower | Endurance and resolve |
 | Charm | Persuasion and presence |
-
-Set your character's current Health equal to their maximum Health.
-
-| Archetype | Old life | Health |
-| --- | --- | --- |
-| [[Hunter]] | Tracked Aetherborn for coin, then woke up as one. | 7 |
-| [[Thief]] | Lived by wit, speed, and other people's things. | 6 |
-| [[Performer]] | Lived by fast talk and knowing everyone worth knowing. | 6 |
-| [[Monk]] | Studied the ancient arts and honed their body into a weapon. | 7 |
-| [[Fighter]] | Someone paid them to stand in the way, and they never learned to stop. | 8 |
-| [[Witch]] | Had a place in an order once, then something answered. | 5 |
-
-If none fit, work with the GM to create an old life. Use the same Stat array and choose starting gear, maximum Health, and one Perk based on the existing Archetypes.
-
-### Pack the gear
-
-Your character has **12 inventory slots**. Put their Archetype gear into the slots from the top down, starting at slot 1. Worn Armor does not take a slot.
-
-Mutations, Scars, and Fatigue fill slots from the bottom up, starting at slot 12. If a condition takes a slot holding an item, the character drops that item. See [[Core Mechanics#Inventory and conditions|inventory and conditions]].
-
-Small things of the same kind bundle together. Three rations, a handful of arrows, or several iron spikes each take one slot.
-
-Roll **2d6 and multiply the total by 10** for your character's starting coin. Record it in the Coin box on their sheet.
 
 ## Step 3: Key goals
 
@@ -125,23 +122,23 @@ Choose whether the Aether has already changed your character:
 
 Starting Marked gives the character more control over magic, but the Aether has already taken one of their twelve slots.
 
-**Both can cast magic.** Without a relevant Spell Tag, roll 2d6 with no bonus. See [[Magic System#Magical casting|casting rules]].
+**Both can cast magic.** A Spell Tag is a bonus for a kind of magic the character has learned. Without a relevant Spell Tag, roll 2d6 with no bonus. Casting does not add a Stat. See [[Magic System#Magical casting|casting rules]].
 
 ### Keep the Exposure or create relics
 
 Your character begins with **6 Exposure from Awakening**. They may keep it or use some to create one or more relics under the [[Magic System#Magic Items and Dispersing Exposure|normal magic-item rules]].
 
-Assume the character had enough days before play to follow the daily creation limit. Each relic costs **2 Exposure to create**, plus whatever Exposure is stored in it. The total spent and stored across all starting relics cannot exceed the starting **6 Exposure**.
+Assume the character had enough days before play to follow the daily creation limit. Each relic costs **2 Exposure to create**, plus whatever Exposure is stored in it. The creation costs and Exposure transferred into the relics your character makes must total **6 or less**. Keep any remainder as the character’s current Exposure.
 
 For example, spend **2 Exposure to create a relic**, then transfer the remaining **4 into it**. Your character enters play with **0 Exposure** and a relic holding **4**.
 
-Choose each relic's magical function and record each relic in its own inventory slot. Record the Exposure remaining in the character and any relic separately.
+For each relic your character creates, choose its magical function and record it in its own inventory slot. Record the Exposure remaining in the character and any relic separately.
 
 Casting adds Exposure. Whenever the character reaches **10 Exposure**, they gain a Mutation. Subtract 10 and keep any excess. See [[Magic System#Exposure and Mutation|Exposure and Mutation]].
 
 ### Finish the sheet
 
-Begin with **0 Luck, no Scars, and no Fatigue**.
+Begin with **1 Luck, no Scars, and no Fatigue**.
 
 ## Spice it up
 
@@ -157,7 +154,7 @@ Check that the sheet has:
 - Any Key Goals chosen.
 - Current Exposure after any relic creation, with each relic’s function and stored Exposure recorded separately.
 - Any starting Mutation in slot 12 and a related +1 Spell Tag if Marked, or no Mutations and no Spell Tags if Unchanged.
-- 0 Luck, no Scars, and no Fatigue.
+- 1 Luck, no Scars, and no Fatigue.
 
 ## Character sheet
 

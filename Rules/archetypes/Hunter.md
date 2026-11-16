@@ -8,7 +8,7 @@ canonical: true
 
 # Hunter
 
-Your character hunted Aetherborn for coin, following rumors, studying habits, and learning what frightened people would pay to have someone taken away. Then another Aetherborn awakened them too. They still know the trade, and the people who practice it.
+Your character hunted demons and strange creatures for coin, following rumors, studying habits, and learning what frightened people would pay to have a creature taken away. Then an Aetherborn awakened them. They still know the trade, and the people who practice it.
 
 | Strength | Dexterity | Willpower | Charm | Health |
 | :------: | :-------: | :-------: | :---: | :----: |

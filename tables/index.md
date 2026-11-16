@@ -16,6 +16,7 @@ version: 4.5
 
 ## When you need an idea
 
+- [[Troubling Past]]
 - [[Complication Sparks]]
 - [[Weaknesses|Monster Weaknesses and Desires]]
 - [[NPC Wants|NPC Wants and Offers]]

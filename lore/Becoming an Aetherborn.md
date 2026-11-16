@@ -25,11 +25,7 @@ Every Aetherborn has someone who awakened them, and that person was awakened by 
 
 ## Who awakened your character?
 
-During [[Character Creation]], consider:
-
-- Who awakened your character?
-- Why did they give the character access to Aether?
-- What has the character done with that power since Awakening?
+During [[Character Creation]], consider who awakened your character, what dark deal they made, and what the Aetherborn stood to gain. The questions there can help shape their past and their Key Goals.
 
 Every new Aetherborn begins with 6 Exposure received during Awakening. The player still chooses whether their character starts Unchanged or Marked. See [[Character Creation#Step 4: Awakening and starting magic|starting rules]] for Mutations and Spell Tags.
 

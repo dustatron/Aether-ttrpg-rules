@@ -167,6 +167,10 @@ These ideas are collected for later. None are current rules.
 
 ## Archetypes
 
+- [x] Draft [[Wizard]] and [[Inventor]] with starting gear, maximum Health, suggested Stats, and six Perks each. Both are linked from [[Character Creation]] and remain playtest drafts.
+- [ ] Playtest the Wizard's Patient Study alongside normal Spell Tag learning, and compare its starting relic with the Witch's staff.
+- [ ] Playtest the Inventor's Field Repairs, Working Prototype, and Clockwork Helper for repair timing, device scope, and usefulness at the table.
+
 - [ ] Confirm whether the Hunter’s suggested +1, +1, +1, -1 Stats intentionally differ from the standard +2, +1, 0, -1 array. Do not change the values until decided.
 
 - [ ] Review the written Archetype Perks for wording and balance.
@@ -176,6 +180,7 @@ These ideas are collected for later. None are current rules.
 
 - [ ] Decide whether the blank Magic Item d66 table from the v4.5 document is still wanted.
 - [ ] If the Magic Item table survives, write entries that use stored Exposure rather than charges.
+- [ ] Decide what happens when a time-sensitive Key Goal becomes impossible to complete: the trial happens, the eclipse arrives, the poison wins. Can the player replace the goal, renegotiate it, or cross it off without the 2 Luck?
 
 ## Playtest
 
