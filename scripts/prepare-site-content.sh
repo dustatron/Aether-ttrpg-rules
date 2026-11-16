@@ -9,13 +9,13 @@ content_dir="${1:?usage: prepare-site-content.sh OUTPUT_DIRECTORY}"
 rm -rf -- "$content_dir"
 mkdir -p "$content_dir"
 
-# Start Here is the website homepage. Its Obsidian name remains an alias so
-# existing [[Start Here]] links resolve without changing the vault source.
+# The main game note is the website homepage. Keep both note names as aliases
+# so existing vault links resolve to the generated index page.
 awk '
   NR == 1 {
     print
-    print "title: Start Here"
-    print "aliases: [Start Here]"
+    print "title: Aetherweave RPG"
+    print "aliases: [Start Here, The Arcane Aether]"
     next
   }
   {
@@ -25,7 +25,7 @@ awk '
     print
   }
 ' \
-  "Start Here.md" > "$content_dir/index.md"
+  "The Arcane Aether.md" > "$content_dir/index.md"
 
 # Only reader-facing sections and their downloadable files enter the generated website.
 for directory in files lore Rules tables; do
