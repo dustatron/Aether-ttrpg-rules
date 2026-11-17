@@ -8,80 +8,28 @@ canonical: true
 
 # Aetherweave RPG
 
-Aetherweave RPG is the working title of this rules-light fantasy game about ordinary people awakened by another Aetherborn to rewrite reality.
+A “whoops, all wizards” rules-light fantasy game about ordinary people awakened to a dangerous, ancient form of magic. These casters call themselves **Aetherborn** and can reshape reality through **True Casting**. Raw Aether is dangerous to be around. Like radiation, Exposure builds up in those around it, and enough can cause lasting Mutations.
 
-I am trying to explore two ideas with these rules:
+Hey, I’m Dusty. I’ve been tinkering with an idea for a TTRPG rules system around freeform, open-ended magic. Players use their imagination to describe what they want their characters’ casts to do, choose a magnitude, and roll using a relevant Spell Tag. Characters gain Luck from failed rolls and completing their characters' Goals, then spend to add dice to their rolls, help one another character in the game, play flashbacks, or advance their characters abilities.
 
-- Can magic stay open-ended and weird while still being fun at the table?
-- Can a simple system let characters progress during play, as a direct result of the choices made in a session?
+I like the freeform, pulp-fiction play style of Powered by the Apocalypse and Blades in the Dark, alongside the rules-light OSR feel of Cairn and Shadowdark. The core roll uses the familiar Powered by the Apocalypse 2d6 spread: 6 or less is a failure, 7–9 is a partial success, and 10 or more is a full success. The game leaves out playbook moves and instead uses inventory choices and character traits. Its inventory takes inspiration from Knave: injuries and conditions take up limited space, encouraging players to find creative solutions beyond the options on their character sheets.
 
-It is inspired by Powered by the Apocalypse, Shadowdark, Blades in the Dark, Cairn, and other games where characters take shape through play.
+The setting is still taking shape. The idea is to let your existing magic systems, campaigns, and adventures coexist with this one. Bring spells and magic items you already like, homebrew magic, and adventures written for other RPGs, then adapt them loosely to fit. A hidden current of freeform magic called the **Aetherweave** runs beneath it all. Those who can change it are **Aetherborn**. Freeform casting, Key Goals, and quick monster rules help the group adapt adventures and improvise during play.
 
-I am not very concerned with encounter balance, and the game does not offer many guardrails. I want something quick to learn and quick to get into play, with room for silly, out-of-the-box ideas. I also like the thought that you can borrow magic from any other game and see what it does here.
+Anyone can become an Aetherborn, but another Aetherborn must awaken them by exposing them to raw Aether. Who awakened your character, and what they might want in return, can tie your character's background to the troubles they face now.
 
-As a GM, I like to play to find out and leave room for freeform play. I want simple monster creation and fast, fluid fights when the players decide to fight.
+## Start playing
 
-**Start here:** [[Rules/index|Read the core rules]] or [[Character Creation|make a character]].
+- [[Rules/index|Read the core rules]].
+- [[Character Creation|Create a character]].
 
-**Downloads:** [[files/The Arcane Aether Rules v4.6 draft.pdf|Latest rules PDF]] · [[files/Character sheet v7-tri-fold.pdf|Tri-fold character sheet]]
+## Explore
 
-## Origin of magic relics
+- [[World Lore]] explains how the world understands magic and Aetherborn.
+- [[Monsters]] covers creating and running opposition.
+- [[Rules/index#Key Terms|Key Terms]] defines the game's main terms.
 
-Why are there so many magic items? Why do the people capable of making them keep leaving them in tombs, shops, and holes in the ground?
+## Downloads
 
-In this game, Aetherborn make magic items because they need somewhere to put their Exposure before it changes them. They pour it into objects, use those objects for a while, and eventually have to leave some of them behind.
-
-Every relic came from someone with a problem. That was the idea I wanted to explore, and the rest of the game grew around it.
-
-## What makes it different
-
-There is no spell list. A player says what they want their character's magic to do. The GM assigns one Magic Magnitude for the whole effect, then the player decides if it is worth the Exposure.
-
-You do not need to predict every possible spell. You just need to understand what the player is asking for and make the Exposure cost clear.
-
-### Advance by trying in play
-
-I want character progression to happen while everyone is playing, not as a separate downtime step or paperwork after the game. Characters gain Luck when things go badly and when they complete their goals.
-
-Players can spend that Luck to improve their character’s stats, help one another, or play out a flashback scene that changes the present scene. Players learn to be better at casting by attempting to cast, but at the cost of slowly collecting mutations that fill up their limited inventory. It should be clear that all obstacles in this game are solvable through magic and teamwork.
-
-### Monsters should be easy to run
-
-A monster needs four numbers and an answer to one question. What does it want? A [[Monsters#Mythic monsters|Mythic]] also needs a Weakness. It’s the one thing that can end it.
-
-Monster tiers are numbered 1 to 6. When I do not want to decide how dangerous something should be, I let the dice decide.
-
-I do not think every encounter needs to be balanced. Tell the players what their characters can see, let them decide what risks to take, and follow the consequences. The monster's Desire also leaves room for a bargain when another attack roll would be less interesting.
-
-**Example: Tier 1, Goblin, Pest**
-
-**Threat:** -1 | **Damage:** 1 | **Health:** 3 | **Armor:** 0
-
-- **Attacks:** Rusty knife, rocks, biting.
-- **Weakness:** Bright light drives them back.
-- **Desire:** Something shiny, and to see tomorrow.
-
-### Strange ideas are allowed to work
-
-Not everything needs a roll. Let the silly ideas move the story. Maybe a character knows how to speak Orc because they once spent a summer in an Orc camp pretending to be a baby Orc's doll, that sounds good to me.
-
-## Explore the game
-
-- [[Rules/index|Core rules]] links to the rules by topic.
-- [[Character Creation|Character creation]] gets an Aetherborn ready for play.
-- [[World Lore]] explores the relic economy and how the world responds to Aetherborn.
-- [[Monsters]] explains how to build and run opposition.
-- The [[Monsters#Bestiary Selection|Bestiary]] contains worked examples.
-- [[Rules/index#Key Terms|Key Terms]] defines the game's recurring language.
-- The [[mutation-tables|Mutation table]] is ready when someone reaches 10 Exposure.
-- The [[wild-magic-table|Wild Magic table]] is ready when a casting roll comes up double 1s.
-
-The rules are short enough to read in one sitting. For AI-assisted work on the vault, read [[AI Context]] first.
-
-## Current draft
-
-Version 4.6 is the current working ruleset. This is a work in progress and needs a lot more play testing.
-
-## Character sheet
-
-![[Character sheet v7-tri-fold.pdf]]
+- [[files/The Arcane Aether Rules v4.6 draft.pdf|Full-book layout draft (v4.6)]]
+- [[files/Character sheet v7-tri-fold.pdf|Tri-fold character sheet]]

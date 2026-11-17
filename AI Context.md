@@ -26,7 +26,7 @@ Use **Aetherweave RPG** as the working game title, **Aether** for the substance 
 
 Every Aetherborn must be awakened by another Aetherborn. See [[Becoming an Aetherborn]]. An Aetherborn with at least 6 current Exposure can transfer 6 to another person to permanently awaken them. Ritual, contact, and timing requirements remain undecided. New characters start with 6 Exposure received during Awakening. Keep the current relic rules, Fatigue, inventory, and final-slot Demon transformation. The six-Mutation ending and magnitude-priced starting relics in the November 14 update were rejected.
 
-Existing filenames, system identifiers, and PDF labels may retain The Arcane Aether. Whether Aetherweave also names the structure of reality is undecided.
+The Aetherweave is the hidden current of freeform magic beneath reality. Other traditions of magic can coexist within it. Existing filenames, system identifiers, and PDF labels may retain The Arcane Aether.
 
 Use **Health** for the damage track. **Harm** is no longer the name of that resource.
 
