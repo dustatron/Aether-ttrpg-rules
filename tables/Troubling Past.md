@@ -10,10 +10,6 @@ canonical: false
 
 Some ideas for [[Character Creation]]. Choose one or roll **d66**: roll two six-sided dice, with one giving the tens digit and the other the ones. Decide which is which before rolling. A 3 and a 5 gives 35, not 8.
 
-These are sad histories, not quests. Each one is something your character lost, and the reason they went looking for a demon, an Aetherborn, or anything else that could give them power. They had nothing left to lose.
-
-Change the details to fit your character. If one of these drove your character to seek Awakening, pick a matching goal from [[Goals]].
-
 | d66 | Troubling past                                                                                                                                                                              |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 11  | Your character's family died in one winter. The neighbors divided the house before the ground thawed.                                                                                       |

@@ -4,6 +4,7 @@ set -eu
 PROJECT_DIR=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
 LOCAL_QUARTO="$PROJECT_DIR/.tools/quarto/bin/quarto"
 PROTOTYPE_QUARTO="$PROJECT_DIR/../rulebook-prototype/.tools/quarto/bin/quarto"
+VAULT_DIR=$(CDPATH= cd -- "$PROJECT_DIR/../.." && pwd)
 
 cd "$PROJECT_DIR"
 node scripts/prepare.mjs
@@ -23,7 +24,7 @@ fi
 OUTPUT_NAME=$(node -e 'const b=require("./book.json"); process.stdout.write(b.output)')
 TYPST_FONT_PATHS="$PROJECT_DIR/assets/fonts" "$QUARTO" render build/book.qmd --output "$OUTPUT_NAME"
 mv "$PROJECT_DIR/$OUTPUT_NAME" "$PROJECT_DIR/output/pdf/$OUTPUT_NAME"
-cp "$PROJECT_DIR/output/pdf/$OUTPUT_NAME" "$PROJECT_DIR/../files/The Arcane Aether Rules v4.6 draft.pdf"
+cp "$PROJECT_DIR/output/pdf/$OUTPUT_NAME" "$VAULT_DIR/files/The Arcane Aether Rules v4.6 draft.pdf"
 
 echo "Created $PROJECT_DIR/output/pdf/$OUTPUT_NAME"
-echo "Updated $PROJECT_DIR/../files/The Arcane Aether Rules v4.6 draft.pdf"
+echo "Updated $VAULT_DIR/files/The Arcane Aether Rules v4.6 draft.pdf"

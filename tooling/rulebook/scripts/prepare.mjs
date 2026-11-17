@@ -4,7 +4,7 @@ import { fileURLToPath } from "node:url"
 
 const here = dirname(fileURLToPath(import.meta.url))
 const projectDir = resolve(here, "..")
-const vaultDir = resolve(projectDir, "..")
+const vaultDir = resolve(projectDir, "../..")
 const buildDir = join(projectDir, "build")
 const book = JSON.parse(await readFile(join(projectDir, "book.json"), "utf8"))
 

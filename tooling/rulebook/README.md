@@ -6,6 +6,7 @@ separate from the Quartz website and does not change the source notes.
 ## Build
 
 ```sh
+cd tooling/rulebook
 ./scripts/install-quarto.sh
 npm run build
 ```
@@ -26,5 +27,6 @@ output/pdf/the-arcane-aether-v4.6-draft.pdf
 - `filters/full-width-tables.lua`: full-column table sizing
 
 The generated `build/` directory and local `.tools/` directory are ignored by
-Git. The final PDF is kept under `output/pdf/`.
+Git. The final PDF is kept under `output/pdf/` and copied to the vault's
+`files/` folder.
 

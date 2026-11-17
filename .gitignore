@@ -17,13 +17,19 @@
 # Claude Code — machine-local permissions
 .claude/settings.local.json
 
-# Quartz website build
+# Build tooling outputs
 node_modules/
 public/
 .quartz/
 .quartz-content/
 .quartz-cache/
-tsconfig.tsbuildinfo
+tooling/site/public/
+tooling/site/.quartz/
+tooling/site/.quartz-content/
+tooling/site/.quartz-cache/
+*.tsbuildinfo
+tooling/rulebook/.tools/
+tooling/rulebook-prototype/.tools/
 
 # Local render previews and temporary files
 tmp/

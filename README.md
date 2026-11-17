@@ -15,6 +15,7 @@ The published site contains `Start Here.md` and the reader-facing notes under `R
 Quartz requires Node.js 22 or later.
 
 ```sh
+cd tooling/site
 npm ci
 npm run site:preview
 ```
@@ -23,10 +24,10 @@ Open <http://localhost:8080/>. Pushes to `main` automatically rebuild and deploy
 
 ## PDF rulebook
 
-The Version 4.6 full-book draft lives in `rulebook/`. It is built from the vault's Markdown with Quarto and Typst. The generated book is separate from the Quartz website.
+The Version 4.6 full-book draft lives in `tooling/rulebook/`. It is built from the vault's Markdown with Quarto and Typst. The generated book is separate from the Quartz website.
 
 ```sh
-cd rulebook
+cd tooling/rulebook
 ./scripts/install-quarto.sh
 npm run build
 ```
@@ -34,7 +35,15 @@ npm run build
 The finished PDF is written to:
 
 ```text
-rulebook/output/pdf/the-arcane-aether-v4.6-draft.pdf
+tooling/rulebook/output/pdf/the-arcane-aether-v4.6-draft.pdf
 ```
 
-Edit `rulebook/book.json` to change chapter order or included notes. Edit `rulebook/theme.typ` to change print styling. Do not edit files under `rulebook/build/`; they are regenerated from the vault.
+Edit `tooling/rulebook/book.json` to change chapter order or included notes. Edit `tooling/rulebook/theme.typ` to change print styling. Do not edit files under `tooling/rulebook/build/`; they are regenerated from the vault.
+
+## Project layout
+
+- `Rules/`, `lore/`, `tables/`, and `files/` contain the Obsidian vault's game content.
+- `tooling/site/` contains Quartz and its website configuration.
+- `tooling/rulebook/` contains the current PDF book build.
+- `tooling/rulebook-prototype/` contains an older print layout experiment.
+- `.github/` contains the GitHub Pages deployment workflow.

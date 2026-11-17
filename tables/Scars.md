@@ -1,3 +1,5 @@
+# Scars
+@note this table needs work. 
 
 | d6  | Scar        |
 | --- | ----------- |

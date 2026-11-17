@@ -3,6 +3,10 @@
 set -euo pipefail
 
 content_dir="${1:?usage: prepare-site-content.sh OUTPUT_DIRECTORY}"
+site_dir="$(cd "$(dirname "$0")/.." && pwd)"
+repo_root="$(cd "$site_dir/../.." && pwd)"
+
+cd "$repo_root"
 
 "$(dirname "$0")/check-content-format.sh"
 
@@ -19,6 +23,7 @@ awk '
     next
   }
   {
+    if ($0 == "# Aetherweave RPG") next
     sub(/The current design work is tracked in \[\[Open Questions\]\]\./, "")
     sub(/ Current design work is tracked in \[\[Open Questions\]\]\./, "")
     sub(/ For AI-assisted work on the vault, read \[\[AI Context\]\] first\./, "")
@@ -34,7 +39,7 @@ done
 
 # Always publish the current generated rulebook, even if the vault download copy is stale.
 cp \
-  "rulebook/output/pdf/the-arcane-aether-v4.6-draft.pdf" \
+  "tooling/rulebook/output/pdf/the-arcane-aether-v4.6-draft.pdf" \
   "$content_dir/files/The Arcane Aether Rules v4.6 draft.pdf"
 
 # Research notes are useful inside the vault but are not reader-facing rules.

@@ -5,14 +5,15 @@ vault notes or participate in the Quartz website build.
 
 ## What it uses
 
-- `../Start Here.md`
-- `../Rules/Character Creation.md`
+- `../../The Arcane Aether.md`
+- `../../Rules/Character Creation.md`
 - `theme.typ` for the print design
 - `scripts/prepare.mjs` to translate Obsidian links for Quarto
 
 ## Build
 
 ```sh
+cd tooling/rulebook-prototype
 ./scripts/install-quarto.sh
 ./scripts/build.sh
 ```

@@ -10,10 +10,10 @@ The assembled PDF is labeled **Version 4.6**. This is initially a full-book layo
 
 ## Rulebook build
 
-- The Obsidian notes are the source of truth. Never edit generated files under `rulebook/build/`.
-- `rulebook/book.json` controls the PDF title, version, chapter order, and included notes.
-- `rulebook/theme.typ` contains the shared print styling.
-- Build with `npm run build` from `rulebook/`. The PDF is written under `rulebook/output/pdf/`.
+- The Obsidian notes are the source of truth. Never edit generated files under `tooling/rulebook/build/`.
+- `tooling/rulebook/book.json` controls the PDF title, version, chapter order, and included notes.
+- `tooling/rulebook/theme.typ` contains the shared print styling.
+- Build with `npm run build` from `tooling/rulebook/`. The PDF is written under `tooling/rulebook/output/pdf/`.
 - Keep the rulebook build separate from Quartz. PDF work must not change the public website build unless the user explicitly asks.
 - Layout work may reorganize presentation, page flow, and navigation. It must not silently rewrite rules, fill unfinished Perks, or resolve `Friend Feedback Checklist.md`.
 - Do not include `AI Context.md`, `CLAUDE.md`, `AGENTS.md`, `Friend Feedback Checklist.md`, archives, or project-management notes in the reader-facing PDF.

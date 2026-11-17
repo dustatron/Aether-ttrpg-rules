@@ -8,13 +8,7 @@ canonical: false
 
 # Goals
 
-Starter goals for your characters. Each one is a quest your character was already on, and the reason they went looking for an Aetherborn. They needed magic to finish it. See [[Character Creation#Step 3: Key goals|Key Goals]] for how goals work, including the Luck your character gains for achieving one, and [[Becoming an Aetherborn]] for what Awakening costs.
-
-Before you pick, ask why your character couldn't finish this alone, and what it will cost them.
-
-The rows lean in a loose direction. The first row settles scores, the second wants home, the third wants answers, the fourth is settling debts with the dead, the fifth is running out of time, and the last row is the long game.
-
-Most of these are grim, but a few are ridiculous. If a goal doesn't suit your table, pick another one or change the details. "Your" here is shorthand for "your character's."
+Starter goals for your characters. Each one is a quest your character was already on, and the reason they went looking to become an Aetherborn.
 
 | d66 | Quest                                                          |
 | --- | -------------------------------------------------------------- |

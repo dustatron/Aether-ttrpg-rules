@@ -4,7 +4,7 @@ import { fileURLToPath } from "node:url"
 
 const here = dirname(fileURLToPath(import.meta.url))
 const projectDir = resolve(here, "..")
-const vaultDir = resolve(projectDir, "..")
+const vaultDir = resolve(projectDir, "../..")
 const buildDir = join(projectDir, "build")
 
 function stripFrontmatter(markdown) {
@@ -44,7 +44,7 @@ async function loadNote(name) {
   return translateObsidian(stripFrontmatter(source)).trim()
 }
 
-let startHere = await loadNote("Start Here.md")
+let startHere = await loadNote("The Arcane Aether.md")
 startHere = startHere
   .replace(/^\*\*Downloads:\*\*.*$/gm, "")
   .replace(/^\*\*Start here:\*\*.*$/gm, "")

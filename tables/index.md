@@ -24,4 +24,4 @@ version: 4.5
 
 ## Further reading
 
-- [[Other Tables|External mutation tables]]
+- [[External Tables|External mutation tables]]
